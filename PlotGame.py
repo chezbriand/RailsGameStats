@@ -11,15 +11,17 @@ def process_file(filename, starting_money):
         try:
             round, player, action = line.split('\t')
             action_type = action.split(' ')[0]
-            amount = int(re.findall(r'\d+', action)[-1])  # Extract the last number in the action
+            numbers_in_action = re.findall(r'\d+', action)
 
             if player not in players:
                 players[player] = [starting_money]
 
-            if action_type == 'Built' or action_type == 'Upgraded':
-                players[player].append(players[player][-1] - amount)
-            elif action_type == 'Delivered':
-                players[player].append(players[player][-1] + amount)
+            if numbers_in_action:  # Check if there is a number in the action
+                amount = int(numbers_in_action[-1])  # Extract the last number in the action
+                if action_type == 'Built' or action_type == 'Upgraded':
+                    players[player].append(players[player][-1] - amount)
+                elif action_type == 'Delivered':
+                    players[player].append(players[player][-1] + amount)
         except IndexError:
             print(f"Skipping line due to unexpected format: {line}")
 
