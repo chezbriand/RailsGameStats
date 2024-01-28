@@ -22,6 +22,8 @@ def process_file(filename, starting_money):
                     players[player].append(players[player][-1] - amount)
                 elif action_type == 'Delivered':
                     players[player].append(players[player][-1] + amount)
+            else:
+                players[player].append(players[player][-1])  # Append the last total if the total doesn't change
         except IndexError:
             print(f"Skipping line due to unexpected format: {line}")
 
