@@ -1,0 +1,433 @@
+41	Briand	Moved 8 spaces.
+41	Briand	Picked up Dragons in Nordkassel.
+41	Briand	Dropped off load Ivory.
+41	Briand	Moved 8 spaces.
+40	Miriam	Moved 16 spaces.
+40	Chip	Built 12 segments for $14.
+40	Chip	Moved 16 spaces.
+40	Briand	Built 1 segments for $3.
+40	Briand	Moved 16 spaces.
+39	Miriam	Moved 14 spaces.
+39	Miriam	Picked up Furs in Kola.
+39	Miriam	Dropped off load Pipeweed.
+39	Miriam	Picked up Furs in Kola.
+39	Miriam	Picked up Furs in Kola.
+39	Miriam	Dropped off load Hops.
+39	Miriam	Dropped off load Pilgrims.
+39	Miriam	Moved 2 spaces.
+39	Chip	Event Flood! [140] has ended.
+39	Chip	Picked up Steel in Bremmner.
+39	Chip	Dropped off load Gems.
+39	Chip	Moved 16 spaces.
+39	Briand	Built 13 segments for $18.
+39	Briand	Moved 10 spaces.
+39	Briand	Picked up Ivory in Kodankye.
+39	Briand	Picked up Ivory in Kodankye.
+39	Briand	Dropped off load Wine.
+39	Briand	Dropped off load Wine.
+39	Briand	Moved 6 spaces.
+38	Miriam	Moved 16 spaces.
+38	Chip	Pitched and drew cards 87, 64, 37.
+38	Briand	Player had 1 tracks destroyed.
+38	Chip	Player had 1 tracks destroyed.
+38	Briand	Player had 1 tracks destroyed.
+38	Chip	Event Flood! [140] was drawn.
+38	Briand	Moved 16 spaces.
+37	Miriam	Moved 16 spaces.
+37	Chip	Built 3 segments for $3.
+37	Chip	Moved 4 spaces.
+37	Chip	Picked up Gems in Railla.
+37	Chip	Drew card 7.
+37	Chip	Delivered Spells for $34 to Railla.
+37	Chip	Moved 1 spaces.
+37	Chip	Moved 11 spaces, paying $4 for rent to Briand
+37	Briand	Built 10 segments for $18.
+37	Briand	Moved 15 spaces.
+37	Briand	Picked up Wine in Glyween.
+37	Briand	Picked up Wine in Glyween.
+37	Briand	Drew card 79.
+37	Briand	Delivered Pilgrims for $26 to Glyween.
+37	Briand	Drew card 72.
+37	Briand	Delivered Cloth for $44 to Glyween.
+37	Briand	Moved 1 spaces.
+36	Miriam	Built 4 segments for $12.
+36	Miriam	Moved 2 spaces.
+36	Chip	Event Runaway Dragon [145] has ended.
+36	Chip	Event Flood! [128] has ended.
+36	Chip	Event Rogue Magic! [126] has ended.
+36	Chip	Moved 11 spaces.
+36	Chip	Picked up Cloth in Octomare.
+36	Chip	Dropped off load Steel.
+36	Chip	Moved 5 spaces.
+36	Briand	Moved 16 spaces.
+35	Miriam	Moved 11 spaces.
+35	Miriam	Picked up Hops in Bluefeld.
+35	Miriam	Drew card 103.
+35	Miriam	Delivered Jewelry for $46 to Bluefeld.
+35	Miriam	Moved 5 spaces.
+35	Chip	Pitched and drew cards 110, 38, 66.
+35	Chip	Event Rogue Magic! [126] was drawn.
+35	Miriam	Player had 1 tracks destroyed.
+35	Chip	Player had 1 tracks destroyed.
+35	Briand	Player had 1 tracks destroyed.
+35	Chip	Player had 1 tracks destroyed.
+35	Miriam	Player had 2 tracks destroyed.
+35	Miriam	Player had 1 tracks destroyed.
+35	Chip	Player had 1 tracks destroyed.
+35	Briand	Player had 1 tracks destroyed.
+35	Briand	Player had 1 tracks destroyed.
+35	Chip	Event Flood! [128] was drawn.
+35	Chip	Event Runaway Dragon [145] was drawn.
+35	Briand	Built 1 segments for $3.
+35	Briand	Moved 11 spaces.
+35	Briand	Picked up Cloth in Octomare.
+35	Briand	Drew card 9.
+35	Briand	Delivered Hops for $30 to Octomare.
+35	Briand	Moved 2 spaces.
+35	Briand	Picked up Hops in Bluefeld.
+35	Briand	Dropped off load Cloth.
+35	Briand	Moved 2 spaces.
+35	Briand	Picked up Cloth in Octomare.
+35	Briand	Moved 1 spaces.
+34	Miriam	Moved 16 spaces.
+34	Chip	Moved 4 spaces.
+34	Chip	Picked up Steel in Bremmner.
+34	Chip	Drew card 107.
+34	Chip	Delivered Spells for $44 to Bremmner.
+34	Chip	Moved 11 spaces.
+34	Briand	Moved 16 spaces.
+33	Miriam	Moved 16 spaces.
+33	Chip	Built 3 segments for $6.
+33	Chip	Moved 16 spaces.
+33	Briand	Upgraded train to a Iron Dragon[16-3] for $20.
+33	Briand	Moved 4 spaces.
+33	Briand	Picked up Pilgrims in Ozu-Zarkh.
+33	Briand	Moved 1 spaces.
+33	Briand	Drew card 42.
+33	Briand	Delivered Armor for $45 to Wikkedde.
+33	Briand	Moved 9 spaces.
+32	Miriam	Built 7 segments for $14.
+32	Miriam	Moved 13 spaces.
+32	Miriam	Picked up Pilgrims in Janoshal.
+32	Miriam	Drew card 54.
+32	Miriam	Delivered Jewelry for $28 to Janoshal.
+32	Miriam	Moved 3 spaces.
+32	Chip	Moved 13 spaces.
+32	Chip	Picked up Spells in Ozu-Zarkh.
+32	Chip	Picked up Spells in Ozu-Zarkh.
+32	Chip	Dropped off load Pilgrims.
+32	Chip	Drew card 114.
+32	Chip	Delivered Cattle for $40 to Ozu-Zarkh.
+32	Chip	Moved 3 spaces.
+32	Briand	Moved 14 spaces.
+31	Miriam	Built 15 segments for $20.
+31	Miriam	Moved 16 spaces.
+31	Chip	Moved 16 spaces.
+31	Briand	Upgraded train to a White Dragon[14-2] for $10.
+31	Briand	Moved 12 spaces.
+30	Miriam	Event Siren Song Seamen Enchanted! [141] has ended.
+30	Miriam	Built 18 segments for $20.
+30	Miriam	Moved 3 spaces.
+30	Miriam	Picked up Jewelry in West Wyckk.
+30	Miriam	Dropped off load Fruit.
+30	Miriam	Picked up Jewelry in West Wyckk.
+30	Miriam	Drew card 48.
+30	Miriam	Delivered Dragons for $61 to West Wyckk.
+30	Miriam	Moved 13 spaces.
+30	Chip	Moved 1 spaces.
+30	Chip	Picked up Pilgrims in Janoshal.
+30	Chip	Drew card 89.
+30	Chip	Delivered Fish for $23 to Janoshal.
+30	Chip	Moved 15 spaces.
+30	Briand	Moved 12 spaces.
+29	Miriam	Built 12 segments for $20.
+29	Miriam	Moved 8 spaces.
+29	Miriam	Picked up Fruit in Shayobh.
+29	Miriam	Drew card 57.
+29	Miriam	Event Siren Song Seamen Enchanted! [141] was drawn.
+29	Miriam	Delivered Dragons for $52 to Shayobh.
+29	Miriam	Moved 8 spaces.
+29	Chip	Built 2 segments for $2.
+29	Chip	Moved 4 spaces.
+29	Chip	Picked up Cattle in Bulatz.
+29	Chip	Dropped off load Spells.
+29	Chip	Moved 7 spaces.
+29	Chip	Picked up Fish in Parekis.
+29	Chip	Moved 5 spaces, paying $4 for rent to Briand
+29	Briand	Built 11 segments for $18.
+29	Briand	Moved 4 spaces.
+29	Briand	Picked up Arms in Izyndyl.
+29	Briand	Picked up Armor in Izyndyl.
+29	Briand	Dropped off load Jewelry.
+29	Briand	Moved 8 spaces.
+28	Miriam	Built 13 segments for $20.
+28	Miriam	Moved 15 spaces.
+28	Miriam	Picked up Pipeweed in Jarlsstadh.
+28	Miriam	Drew card 96.
+28	Miriam	Delivered Dragons for $40 to Jarlsstadh.
+28	Miriam	Moved 1 spaces.
+28	Chip	Moved 13 spaces.
+28	Chip	Drew card 61.
+28	Chip	Delivered Potions for $42 to Railla.
+28	Chip	Moved 3 spaces.
+28	Briand	Built 15 segments for $19.
+28	Briand	Moved 2 spaces.
+28	Briand	Drew card 20.
+28	Briand	Delivered Jewelry for $43 to Eaglehawk.
+28	Briand	Moved 6 spaces.
+27	Miriam	Moved 5 spaces.
+27	Chip	Built 1 segments for $2.
+27	Chip	Moved 16 spaces.
+27	Briand	Moved 12 spaces.
+26	Miriam	Moved 9 spaces.
+26	Chip	Moved 10 spaces.
+26	Chip	Picked up Potions in Oraianda.
+26	Chip	Picked up Potions in Oraianda.
+26	Chip	Dropped off load Jewelry.
+26	Chip	Moved 6 spaces.
+26	Briand	Built 4 segments for $4.
+26	Briand	Moved 5 spaces.
+25	Miriam	Moved 16 spaces.
+25	Chip	Event Sandstorm! [124] has ended.
+25	Chip	Built 6 segments for $9.
+25	Chip	Moved 2 spaces.
+25	Briand	Moved 12 spaces.
+24	Miriam	Moved 16 spaces.
+24	Chip	Event Evil Prince Summons Warlord [133] has ended.
+24	Chip	Pitched and drew cards 91, 14, 113.
+24	Briand	Player had 4 tracks destroyed.
+24	Chip	Event Sandstorm! [124] was drawn.
+24	Briand	Built 3 segments for $6.
+24	Briand	Moved 6 spaces.
+24	Briand	Picked up Jewelry in West Wyckk.
+24	Briand	Dropped off load Wheat.
+24	Briand	Picked up Jewelry in West Wyckk.
+24	Briand	Moved 6 spaces.
+23	Miriam	Moved 5 spaces.
+23	Miriam	Picked up Dragons in Nordkassel.
+23	Miriam	Moved 11 spaces.
+23	Miriam	Built 13 segments for $19.
+23	Miriam	Moved 14 spaces.
+23	Miriam	Moved 2 spaces.
+23	Miriam	Dropped off load Dragons.
+23	Chip	Dropped off load Hops.
+23	Chip	Pitched and drew cards 86, 2, 101.
+23	Miriam	1 load(s) must be dropped.
+23	Chip	1 load(s) must be dropped.
+23	Chip	Event Evil Prince Summons Warlord [133] was drawn.
+23	Briand	Built 17 segments for $20.
+23	Briand	Drew card 58.
+23	Briand	Delivered Wheat for $27 to Wikkedde.
+23	Briand	Moved 7 spaces.
+22	Miriam	Upgraded train to a Iron Dragon[16-3] for $20.
+22	Miriam	Moved 12 spaces.
+22	Chip	Built 8 segments for $20.
+22	Chip	Player selected Denzel Halbezch as foreman.
+22	Chip	Upgraded train to a Iron Dragon[16-3] for $10.
+22	Chip	Picked up Hops in Bluefeld.
+22	Chip	Drew card 75.
+22	Chip	Delivered Spells for $46 to Bluefeld.
+22	Chip	Moved 14 spaces.
+22	Briand	Moved 10 spaces.
+21	Miriam	Moved 11 spaces.
+21	Miriam	Picked up Dragons in Nordkassel.
+21	Miriam	Picked up Dragons in Nordkassel.
+21	Miriam	Picked up Dragons in Nordkassel.
+21	Miriam	Dropped off load Hops.
+21	Miriam	Dropped off load Hops.
+21	Miriam	Dropped off load Hops.
+21	Miriam	Moved 1 spaces.
+21	Chip	Moved 14 spaces.
+21	Briand	Moved 10 spaces.
+20	Miriam	Built 12 segments for $19.
+20	Miriam	Moved 12 spaces.
+20	Chip	Moved 14 spaces.
+20	Briand	Moved 8 spaces.
+20	Briand	Picked up Wheat in Brevandes.
+20	Briand	Dropped off load Spells.
+20	Briand	Picked up Wheat in Brevandes.
+20	Briand	Moved 3 spaces.
+19	Miriam	Built 13 segments for $20.
+19	Miriam	Moved 12 spaces.
+19	Chip	Picked up Spells in Ozu-Zarkh.
+19	Chip	Picked up Spells in Ozu-Zarkh.
+19	Chip	Dropped off load Pipeweed.
+19	Chip	Upgraded train to a Black Dragon[14-3] for $20.
+19	Chip	Moved 6 spaces.
+19	Chip	Picked up Jewelry in West Wyckk.
+19	Chip	Drew card 33.
+19	Chip	Delivered Pipeweed for $28 to West Wyckk.
+19	Chip	Moved 6 spaces.
+19	Briand	Built 5 segments for $20.
+19	Briand	Upgraded train to a Salamander[12-2] for $10.
+19	Briand	Moved 10 spaces.
+18	Miriam	Built 13 segments for $18.
+18	Miriam	Player selected Steffan as foreman.
+18	Miriam	Picked up Hops in Bluefeld.
+18	Miriam	Picked up Hops in Bluefeld.
+18	Miriam	Picked up Hops in Bluefeld.
+18	Miriam	Drew card 120.
+18	Miriam	Delivered Wine for $23 to Bluefeld.
+18	Miriam	Moved 2 spaces.
+18	Miriam	Drew card 70.
+18	Miriam	Delivered Sheep for $38 to Octomare.
+18	Miriam	Drew card 62.
+18	Miriam	Delivered Pipeweed for $43 to Octomare.
+18	Miriam	Moved 1 spaces.
+18	Chip	Built 2 segments for $4.
+18	Chip	Moved 12 spaces.
+18	Briand	Built 15 segments for $18.
+18	Briand	Moved 2 spaces.
+18	Briand	Drew card 16.
+18	Briand	Delivered Spells for $45 to Ghassouf.
+18	Briand	Moved 8 spaces.
+17	Miriam	Moved 2 spaces.
+17	Chip	Built 9 segments for $20.
+17	Chip	Moved 7 spaces.
+17	Chip	Picked up Pipeweed in Jodarre.
+17	Chip	Picked up Pipeweed in Jodarre.
+17	Chip	Dropped off load Pilgrims.
+17	Chip	Dropped off load Pilgrims.
+17	Chip	Moved 2 spaces.
+17	Briand	Built 15 segments for $20.
+17	Briand	Moved 10 spaces.
+16	Miriam	Moved 8 spaces.
+16	Chip	Event Snow! [123] has ended.
+16	Chip	Event Wizards Strike [139] has ended.
+16	Chip	Event Hurricane [146] has ended.
+16	Briand	Moved 10 spaces.
+15	Miriam	Moved 8 spaces.
+15	Chip	Built 12 segments for $16.
+15	Chip	Moved 8 spaces.
+15	Chip	Picked up Pilgrims in Janoshal.
+15	Chip	Picked up Pilgrims in Janoshal.
+15	Chip	Drew card 56.
+15	Chip	Event Hurricane [146] was drawn.
+15	Chip	Delivered Steel for $17 to Janoshal.
+15	Chip	Drew card 50.
+15	Chip	Event Wizards Strike [139] was drawn.
+15	Chip	Event Rainbow Bridge [121] was drawn.
+15	Chip	Event Snow! [123] was drawn.
+15	Chip	Delivered Hops for $22 to Janoshal.
+15	Chip	Moved 4 spaces.
+15	Briand	Moved 5 spaces.
+14	Miriam	Moved 1 spaces.
+14	Miriam	Picked up Pipeweed in Jarlsstadh.
+14	Miriam	Dropped off load Wands.
+14	Miriam	Moved 1 spaces.
+14	Chip	Built 2 segments for $6.
+14	Chip	Moved 12 spaces.
+14	Briand	Moved 11 spaces.
+13	Miriam	Moved 8 spaces.
+13	Miriam	Picked up Sheep in Jobabh.
+13	Miriam	Dropped off load Wands.
+13	Miriam	Moved 4 spaces.
+13	Chip	Moved 1 spaces.
+13	Chip	Picked up Steel in Redwitte.
+13	Chip	Dropped off load Ale.
+13	Chip	Moved 11 spaces.
+13	Briand	Moved 1 spaces.
+13	Briand	Picked up Spells in Ozu-Zarkh.
+13	Briand	Picked up Spells in Ozu-Zarkh.
+13	Briand	Dropped off load Gold.
+13	Briand	Dropped off load Gold.
+13	Briand	Moved 1 spaces.
+12	Miriam	Built 2 segments for $4.
+12	Miriam	Moved 5 spaces.
+12	Miriam	Picked up Wine in Saadah.
+12	Miriam	Moved 7 spaces.
+12	Chip	Moved 7 spaces.
+12	Chip	Picked up Hops in Bluefeld.
+12	Chip	Moved 5 spaces.
+12	Briand	Moved 6 spaces.
+11	Miriam	Built 12 segments for $20.
+11	Miriam	Moved 12 spaces.
+11	Chip	Built 14 segments for $14.
+11	Chip	Moved 5 spaces.
+11	Chip	Drew card 44.
+11	Chip	Delivered Gems for $20 to Parekis.
+11	Chip	Moved 7 spaces, paying $4 for rent to
+11	Briand	Moved 9 spaces.
+10	Miriam	Upgraded train to a Fire Drake[12-3] for $10.
+10	Miriam	Upgraded train to a Sardar[10-3] for $10.
+10	Miriam	Moved 7 spaces.
+10	Chip	Moved 11 spaces.
+10	Chip	Picked up Gems in Railla.
+10	Chip	Dropped off load Steel.
+10	Chip	Moved 1 spaces.
+10	Briand	Moved 7 spaces.
+9	Miriam	Moved 10 spaces.
+9	Miriam	Pitched and drew cards 84, 41, 12.
+9	Chip	Moved 11 spaces.
+9	Chip	Moved 1 spaces.
+9	Briand	Built 14 segments for $20.
+9	Briand	Moved 10 spaces.
+8	Miriam	Moved 1 spaces.
+8	Miriam	Picked up Wands in Opal Bezin.
+8	Miriam	Drew card 68.
+8	Miriam	Delivered Pilgrims for $17 to Opal Bezin.
+8	Miriam	Picked up Wands in Opal Bezin.
+8	Miriam	Drew card 22.
+8	Miriam	Delivered Sheep for $35 to Opal Bezin.
+8	Miriam	Moved 1 spaces.
+8	Chip	Built 2 segments for $2.
+8	Chip	Moved 3 spaces.
+8	Briand	Built 14 segments for $20.
+8	Briand	Moved 9 spaces.
+8	Briand	Picked up Gold in Orc-Obasyln.
+8	Briand	Drew card 26.
+8	Briand	Delivered Pipeweed for $25 to Orc-Obasyln.
+8	Briand	Picked up Gold in Orc-Obasyln.
+8	Briand	Drew card 8.
+8	Briand	Delivered Fish for $29 to Orc-Obasyln.
+8	Briand	Moved 1 spaces.
+7	Miriam	Moved 6 spaces.
+7	Chip	Event Vampire Attack [136] has ended.
+7	Chip	Moved 6 spaces.
+7	Chip	Picked up Steel in Redwitte.
+7	Chip	Dropped off load Gold.
+7	Chip	Moved 6 spaces.
+7	Briand	Moved 10 spaces.
+6	Miriam	Moved 11 spaces.
+6	Chip	Event Storms at Sea! [137] has ended.
+6	Chip	Built 10 segments for $20.
+6	Chip	Moved 5 spaces.
+6	Chip	Picked up Gold in Orc-Obasyln.
+6	Chip	Drew card 19.
+6	Chip	Event Storms at Sea! [137] was drawn.
+6	Chip	Event Vampire Attack [136] was drawn.
+6	Chip	Delivered Ale for $26 to Orc-Obasyln.
+6	Chip	Moved 7 spaces, paying $4 for rent to
+6	Briand	Moved 10 spaces.
+5	Miriam	Moved 9 spaces.
+5	Chip	Built 3 segments for $3.
+5	Chip	Moved 8 spaces.
+5	Chip	Moved 4 spaces, paying $1 for rent to
+5	Briand	Moved 4 spaces.
+5	Briand	Picked up Pipeweed in Jodarre.
+5	Briand	Dropped off load Fish.
+5	Briand	Moved 6 spaces.
+4	Miriam	Moved 5 spaces.
+4	Miriam	Picked up Sheep in Jobabh.
+4	Miriam	Dropped off load Pilgrims.
+4	Miriam	Moved 5 spaces.
+4	Miriam	Picked up Pilgrims in Janoshal.
+4	Miriam	Picked up Pilgrims in Janoshal.
+4	Chip	Moved 12 spaces, paying $1 for rent to
+4	Chip	Picked up Ale in Uloggh.
+4	Chip	Picked up Ale in Uloggh.
+4	Briand	Moved 10 spaces.
+4	Briand	Picked up Fish in Parekis.
+4	Briand	Picked up Fish in Parekis.
+3	Chip	Upgraded train to a Salamander[12-2] for $10.
+3	Briand	Built 13 segments for $17.
+2	Briand	Built 12 segments for $20.
+2	Chip	Built 13 segments for $20.
+2	Miriam	Built 8 segments for $16.
+1	Miriam	Built 9 segments for $20.
+1	Chip	Built 16 segments for $20.
+1	Briand	Built 14 segments for $20.
+0	Miriam	Built 10 segments for $20.
+0	Miriam	Player selected Wellpole Wyndle as foreman.
+0	Chip	Player selected Persy Browne as foreman.
+0	Briand	Player selected Gaelwyth Grae as foreman.

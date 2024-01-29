@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import pandas as pd
+# import pandas as pd
 import re
 
 def parse_amount(action):
@@ -29,20 +29,21 @@ def process_file(filename, starting_money):
             rent = parse_amount(action)
             players[player][-1] -= rent
             recipient = action.split("for rent to")[-1].strip()
-            if recipient not in players:
-                players[recipient] = [starting_money + rent]
-            else:
+            if recipient and recipient in players:
                 if current_rounds[recipient] != round:
                     players[recipient].append(players[recipient][-1] + rent)
                     current_rounds[recipient] = round
                 else:
-                    players[recipient][-1] += rent        
+                    players[recipient][-1] += rent
         if round not in rounds:
             rounds.append(round)
 
-    # Create DataFrame and print
-    # df = pd.DataFrame(players, index=rounds)
-    # print(df)
+    # Print totals for each player for each round
+
+    for player in players.keys():
+        print(f"{player} {players[player]}")
+    
+        
 
     for player, money in players.items():
         plt.plot(range(len(money)), money, label=player)
@@ -53,4 +54,4 @@ def process_file(filename, starting_money):
     plt.legend()
     plt.show()
 
-process_file("BSRVone.txt", 70)
+process_file("240120IronDragonNoLoans.txt", 70)

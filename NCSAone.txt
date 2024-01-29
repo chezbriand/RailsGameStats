@@ -1,0 +1,254 @@
+25	Briand	Moved 16 spaces.
+25	mag3737	Built 4 segments for $9.
+25	mag3737	Player selected Kudamram as foreman.
+25	mag3737	Player selected Carras as foreman.
+25	mag3737	Moved 16 spaces.
+24	Humperdink	Built 2 segments for $4.
+24	Humperdink	Moved 16 spaces.
+24	Briand	Event Siren Song Seamen Enchanted! [141] has ended.
+24	Briand	Built 1 segments for $13.
+24	Briand	Upgraded train to a Iron Dragon[16-3] for $10.
+24	Briand	Moved 14 spaces, paying $1 for rent to
+24	mag3737	Moved 5 spaces.
+24	mag3737	Picked up Wands in Octomare.
+24	mag3737	Drew card 131.
+24	mag3737	Delivered Pipeweed for $44 to Octomare.
+24	mag3737	Moved 11 spaces.
+23	Humperdink	Moved 1 spaces.
+23	Humperdink	Picked up Gold in Risidan.
+23	Humperdink	Dropped off load Hops.
+23	Humperdink	Moved 15 spaces, paying $4 for rent to mag3737
+23	Briand	Built 18 segments for $20.
+23	Briand	Moved 2 spaces.
+23	Briand	Picked up Ale in Uderyn.
+23	Briand	Picked up Ale in Uderyn.
+23	Briand	Drew card 71.
+23	Briand	Event Siren Song Seamen Enchanted! [141] was drawn.
+23	Briand	Delivered Hops for $44 to Uderyn.
+23	Briand	Moved 12 spaces, paying $1 for rent to
+23	mag3737	Moved 16 spaces.
+22	Humperdink	Upgraded train to a Red Dragon[16-2] for $10.
+22	Humperdink	Moved 14 spaces.
+22	Briand	Built 10 segments for $17.
+22	Briand	Moved 7 spaces, paying $1 for rent to
+22	Briand	Moved 7 spaces.
+22	mag3737	Built 4 segments for $8.
+22	mag3737	Moved 11 spaces.
+22	mag3737	Picked up Fruit in Shayobh.
+22	mag3737	Drew card 11.
+22	mag3737	Delivered Iron for $22 to Shayobh.
+22	mag3737	Moved 5 spaces.
+21	Humperdink	Built 13 segments for $20.
+21	Humperdink	Player selected Steffan as foreman.
+21	Humperdink	Moved 5 spaces.
+21	Humperdink	Picked up Ale in Uloggh.
+21	Humperdink	Drew card 85.
+21	Humperdink	Delivered Sheep for $21 to Uloggh.
+21	Humperdink	Moved 9 spaces, paying $1 for rent to
+21	Briand	Upgraded train to a Black Dragon[14-3] for $20.
+21	Briand	Drew card 26.
+21	Briand	Delivered Spells for $43 to Glyween.
+21	Briand	Moved 10 spaces.
+21	mag3737	Moved 14 spaces.
+21	mag3737	Picked up Iron in Risidan.
+21	mag3737	Dropped off load Cloth.
+21	mag3737	Moved 2 spaces.
+20	Humperdink	Built 4 segments for $7.
+20	Humperdink	Moved 6 spaces, paying $1 for rent to
+20	Humperdink	Moved 8 spaces.
+20	Briand	Moved 10 spaces.
+20	mag3737	Moved 16 spaces.
+19	Humperdink	Built 18 segments for $20.
+19	Humperdink	Moved 10 spaces.
+19	Humperdink	Picked up Sheep in Jobabh.
+19	Humperdink	Moved 4 spaces.
+19	Briand	Moved 3 spaces.
+19	Briand	Picked up Hops in Bluefeld.
+19	Briand	Dropped off load Spells.
+19	Briand	Moved 7 spaces.
+19	mag3737	Built 3 segments for $6.
+19	mag3737	Player selected Kudamram as foreman.
+19	mag3737	Moved 9 spaces.
+19	mag3737	Picked up Pipeweed in Jarlsstadh.
+19	mag3737	Dropped off load Jewelry.
+19	mag3737	Moved 7 spaces.
+18	Humperdink	Built 11 segments for $20.
+18	Humperdink	Moved 14 spaces.
+18	Briand	Built 3 segments for $4.
+18	Briand	Moved 4 spaces.
+18	mag3737	Built 15 segments for $19.
+18	mag3737	Moved 3 spaces.
+18	mag3737	Picked up Sheep in Jobabh.
+18	mag3737	Drew card 123.
+18	mag3737	Delivered Lumber for $22 to Jobabh.
+18	mag3737	Moved 13 spaces.
+17	Humperdink	Built 15 segments for $19.
+17	Humperdink	Moved 6 spaces.
+17	Humperdink	Drew card 12.
+17	Humperdink	Delivered Armor for $50 to Bremmner.
+17	Humperdink	Moved 7 spaces, paying $4 for rent to Briand
+17	Humperdink	Picked up Hops in Bluefeld.
+17	Humperdink	Drew card 55.
+17	Humperdink	Delivered Arms for $52 to Bluefeld.
+17	Humperdink	Moved 1 spaces.
+17	Briand	Moved 12 spaces.
+17	mag3737	Moved 16 spaces.
+16	Humperdink	Moved 14 spaces.
+16	Briand	Built 6 segments for $7.
+16	Briand	Player selected Gaelwyth Grae as foreman.
+16	Briand	Moved 12 spaces.
+16	mag3737	Upgraded train to a Iron Dragon[16-3] for $20.
+16	mag3737	Moved 4 spaces.
+16	mag3737	Picked up Cloth in Oulde Mordel.
+16	mag3737	Drew card 39.
+16	mag3737	Delivered Pipeweed for $36 to Oulde Mordel.
+16	mag3737	Moved 8 spaces.
+15	Humperdink	Built 1 segments for $1.
+15	Humperdink	Moved 14 spaces.
+15	Briand	Built 4 segments for $6.
+15	Briand	Moved 1 spaces.
+15	Briand	Picked up Spells in Ozu-Zarkh.
+15	Briand	Dropped off load Jewelry.
+15	Briand	Picked up Spells in Ozu-Zarkh.
+15	Briand	Moved 1 spaces.
+15	mag3737	Built 2 segments for $5.
+15	mag3737	Moved 10 spaces.
+15	mag3737	Picked up Lumber in West Wyckk.
+15	mag3737	Moved 2 spaces.
+14	Humperdink	Moved 14 spaces.
+14	Briand	Built 7 segments for $20.
+14	Briand	Player selected Wellpole Wyndle as foreman.
+14	Briand	Upgraded train to a Sardar[10-3] for $10.
+14	Briand	Moved 4 spaces.
+14	Briand	Picked up Jewelry in West Wyckk.
+14	Briand	Picked up Jewelry in West Wyckk.
+14	Briand	Drew card 121.
+14	Briand	Delivered Steel for $36 to West Wyckk.
+14	Briand	Moved 6 spaces.
+14	mag3737	Event Sea Serpent! [143] has ended.
+14	mag3737	Built 5 segments for $9.
+14	mag3737	Moved 5 spaces.
+14	mag3737	Drew card 30.
+14	mag3737	Delivered Fruit for $18 to Wyrre.
+14	mag3737	Moved 7 spaces.
+13	Humperdink	Moved 13 spaces.
+13	Humperdink	Picked up Arms in Izyndyl.
+13	Humperdink	Picked up Armor in Izyndyl.
+13	Humperdink	Dropped off load Iron.
+13	Humperdink	Dropped off load Gold.
+13	Humperdink	Moved 1 spaces.
+13	Briand	Moved 4 spaces.
+13	Briand	Dropped off load Hops.
+13	mag3737	Built 11 segments for $17.
+13	mag3737	Player selected Steffan as foreman.
+13	mag3737	Player selected Wellpole Wyndle as foreman.
+13	mag3737	Picked up Jewelry in West Wyckk.
+13	mag3737	Drew card 61.
+13	Briand	1 load(s) must be dropped.
+13	mag3737	Event Sea Serpent! [143] was drawn.
+13	mag3737	Delivered Gems for $17 to West Wyckk.
+13	mag3737	Moved 12 spaces.
+12	Humperdink	Built 1 segments for $3.
+12	Humperdink	Moved 14 spaces.
+12	Briand	Moved 13 spaces.
+12	mag3737	Moved 5 spaces.
+12	mag3737	Picked up Fruit in Shayobh.
+12	mag3737	Moved 7 spaces.
+11	Humperdink	Built 14 segments for $19.
+11	Humperdink	Moved 13 spaces.
+11	Briand	Built 17 segments for $18.
+11	Briand	Moved 13 spaces.
+11	mag3737	Built 6 segments for $18.
+11	mag3737	Upgraded train to a Fire Drake[12-3] for $10.
+11	mag3737	Picked up Gems in Sbadeh.
+11	mag3737	Dropped off load Spells.
+11	mag3737	Moved 12 spaces.
+10	Humperdink	Event Wizards Strike [145] has ended.
+10	Humperdink	Event Hurricane [135] has ended.
+10	Humperdink	Built 13 segments for $20.
+10	Humperdink	Moved 6 spaces.
+10	Briand	Built 9 segments for $13.
+10	Briand	Moved 4 spaces.
+10	Briand	Picked up Steel in Bremmner.
+10	Briand	Dropped off load Dragons.
+10	Briand	Moved 2 spaces.
+10	mag3737	Built 2 segments for $6.
+10	mag3737	Moved 6 spaces.
+10	mag3737	Picked up Pipeweed in Jarlsstadh.
+10	mag3737	Drew card 4.
+10	mag3737	Delivered Wheat for $16 to Jarlsstadh.
+10	mag3737	Moved 6 spaces.
+9	Humperdink	Pitched and drew cards 93, 81, 24.
+9	Humperdink	Event Hurricane [135] was drawn.
+9	Humperdink	Event Wizards Strike [145] was drawn.
+9	Briand	Built 13 segments for $19.
+9	Briand	Moved 3 spaces.
+9	Briand	Picked up Hops in Bluefeld.
+9	Briand	Drew card 97.
+9	Briand	Delivered Fur for $50 to Bluefeld.
+9	Briand	Moved 7 spaces.
+9	mag3737	Moved 12 spaces.
+8	Humperdink	Picked up Iron in Railla.
+8	Humperdink	Drew card 57.
+8	Humperdink	Delivered Cattle for $17 to Railla.
+8	Humperdink	Moved 12 spaces.
+8	Briand	Moved 10 spaces.
+8	mag3737	Moved 12 spaces.
+7	Humperdink	Moved 14 spaces.
+7	Briand	Moved 10 spaces.
+7	mag3737	Built 6 segments for $9.
+7	mag3737	Player selected Steffan as foreman.
+7	mag3737	Player selected Urk Harakn as foreman.
+7	mag3737	Moved 1 spaces.
+7	mag3737	Picked up Wheat in Caldeen.
+7	mag3737	Dropped off load Iron.
+7	mag3737	Moved 11 spaces.
+6	Humperdink	Upgraded train to a White Dragon[14-2] for $20.
+6	Humperdink	Moved 3 spaces.
+6	Humperdink	Picked up Cattle in Penjold.
+6	Humperdink	Drew card 19.
+6	Humperdink	Delivered Gold for $37 to Penjold.
+6	Humperdink	Moved 7 spaces.
+6	Briand	Moved 10 spaces.
+6	mag3737	Built 11 segments for $20.
+6	mag3737	Moved 12 spaces.
+5	Humperdink	Moved 10 spaces.
+5	Briand	Built 14 segments for $20.
+5	Briand	Moved 9 spaces.
+5	Briand	Picked up Fur in Kola.
+5	Briand	Drew card 23.
+5	Briand	Delivered Dragons for $25 to Kola.
+5	Briand	Moved 1 spaces.
+5	mag3737	Built 9 segments for $19.
+5	mag3737	Upgraded train to a Salamander[12-2] for $10.
+5	mag3737	Moved 1 spaces.
+5	mag3737	Picked up Spells in Ozu-Zarkh.
+5	mag3737	Drew card 118.
+5	mag3737	Delivered Wine for $23 to Ozu-Zarkh.
+5	mag3737	Moved 9 spaces.
+4	Humperdink	Moved 10 spaces.
+4	Briand	Moved 10 spaces.
+4	mag3737	Moved 10 spaces.
+3	Humperdink	Built 5 segments for $10.
+3	Humperdink	Moved 10 spaces.
+3	Humperdink	Picked up Gold in Risidan.
+3	Humperdink	Picked up Gold in Risidan.
+3	Briand	Built 15 segments for $20.
+3	Briand	Moved 10 spaces.
+3	Briand	Picked up Dragons in Nordkassel.
+3	Briand	Picked up Dragons in Nordkassel.
+3	mag3737	Picked up Wine in Saadah.
+3	mag3737	Drew card 7.
+3	mag3737	Delivered Gold for $10 to Saadah.
+3	mag3737	Moved 10 spaces.
+3	mag3737	Picked up Iron in Risidan.
+3	mag3737	Picked up Gold in Risidan.
+2	mag3737	Built 10 segments for $16.
+2	Briand	Built 14 segments for $20.
+2	Humperdink	Built 15 segments for $19.
+1	Humperdink	Built 15 segments for $20.
+1	Briand	Built 12 segments for $20.
+1	mag3737	Built 17 segments for $20.
+0	Humperdink	Player selected Dingur Knorsen as foreman.
+0	Briand	Player selected Gaelwyth Grae as foreman.
+0	mag3737	Player selected Steffan as foreman.
