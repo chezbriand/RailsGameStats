@@ -1,0 +1,340 @@
+47	Humperdink	Built 4 segments for $10.
+47	Humperdink	Moved 1 spaces.
+47	Humperdink	Picked up Roddenberries in Syrtis Major.
+47	Humperdink	Picked up Roddenberries in Syrtis Major.
+47	Humperdink	Delivered bonus for $42 for card 545.
+47	Humperdink	Moved 15 spaces, paying $4 for rent to Briand
+47	Briand	Moved 16 spaces.
+46	Humperdink	Moved 15 spaces.
+46	Humperdink	Picked up Green Martians in U-Gor.
+46	Humperdink	Moved 1 spaces, paying $4 for rent to Briand
+46	Briand	Built 12 segments for $20.
+46	Briand	Moved 2 spaces.
+46	Briand	Picked up Rayguns in Isher.
+46	Briand	Dropped off load Red Martians.
+46	Briand	Moved 14 spaces.
+45	Humperdink	Moved 7 spaces, paying $4 for rent to Briand
+45	Humperdink	Dropped off load Zorinta.
+45	Humperdink	Moved 9 spaces.
+45	Briand	Built 10 segments for $20.
+45	Briand	Moved 9 spaces.
+45	Briand	Picked up Red Martians in Helium.
+45	Briand	Picked up Red Martians in Helium.
+45	Briand	Dropped off load Memnonia Gum.
+45	Briand	Dropped off load Quintitriticale.
+45	Briand	Moved 7 spaces.
+44	Humperdink	Moved 9 spaces.
+44	Humperdink	Picked up Rayguns in Isher.
+44	Humperdink	Moved 7 spaces.
+44	Briand	Moved 16 spaces.
+43	Humperdink	Built 5 segments for $8.
+43	Humperdink	Moved 3 spaces.
+43	Humperdink	Drew card 45.
+43	Humperdink	Delivered Turbinium for $29 to Charax.
+43	Humperdink	Moved 13 spaces.
+43	Briand	Moved 16 spaces.
+42	Humperdink	Moved 14 spaces.
+42	Humperdink	Picked up Turbinium in Pyramid Mines.
+42	Humperdink	Moved 2 spaces.
+42	Briand	Moved 2 spaces.
+42	Briand	Picked up Memnonia Gum in Ylla.
+42	Briand	Drew card 68.
+42	Briand	Delivered Bachelor Chow for $27 to Ylla.
+42	Briand	Moved 14 spaces.
+41	Humperdink	Built 2 segments for $8.
+41	Humperdink	Moved 7 spaces.
+41	Humperdink	Drew card 2.
+41	Humperdink	Event Secret of Sinharat! [158] was drawn.
+41	Humperdink	Event War of the Worlds! [145] was drawn.
+41	Humperdink	Delivered Airweed for $30 to Utopia.
+41	Humperdink	Moved 5 spaces.
+41	Briand	Moved 16 spaces.
+40	Humperdink	Moved 15 spaces.
+40	Humperdink	Picked up Zorinta in Hinkston Creek.
+40	Humperdink	Drew card 116.
+40	Humperdink	Delivered Neural Jacks for $29 to Hinkston Creek.
+40	Humperdink	Moved 1 spaces.
+40	Briand	Moved 16 spaces.
+39	Humperdink	Moved 16 spaces.
+39	Briand	Moved 5 spaces.
+39	Briand	Picked up Bricks in Drywater.
+39	Briand	Dropped off load Blue Beer.
+39	Briand	Moved 11 spaces.
+38	Humperdink	Built 10 segments for $12.
+38	Humperdink	Moved 5 spaces.
+38	Humperdink	Picked up Airweed in Labyrinth.
+38	Humperdink	Moved 4 spaces.
+38	Humperdink	Drew card 28.
+38	Humperdink	Delivered Rayguns for $35 to Skyhook.
+38	Humperdink	Moved 3 spaces, paying $4 for rent to Briand
+38	Humperdink	Moved 4 spaces.
+38	Briand	Built 8 segments for $15.
+38	Briand	Moved 4 spaces.
+38	Briand	Picked up Quintitriticale in Makian Farms.
+38	Briand	Drew card 123.
+38	Briand	Delivered Soylent Red for $26 to Makian Farms.
+38	Briand	Moved 12 spaces.
+37	Humperdink	Moved 16 spaces.
+37	Briand	Picked up Blue Beer in Bottomos.
+37	Briand	Drew card 97.
+37	Briand	Delivered Pulcho for $28 to Bottomos.
+37	Briand	Moved 16 spaces.
+36	Humperdink	Moved 14 spaces.
+36	Humperdink	Picked up Alien Artifacts in The Face.
+36	Humperdink	Dropped off load Neural Jacks.
+36	Humperdink	Moved 2 spaces.
+36	Briand	Moved 16 spaces.
+35	Humperdink	Moved 14 spaces.
+35	Humperdink	Picked up Neural Jacks in Ether Relay.
+35	Humperdink	Picked up Neural Jacks in Ether Relay.
+35	Humperdink	Drew card 129.
+35	Humperdink	Delivered Iron for $13 to Ether Relay.
+35	Humperdink	Moved 2 spaces.
+35	Briand	Picked up Bachelor Chow in Port Lowell.
+35	Briand	Dropped off load Soylent Red.
+35	Briand	Moved 10 spaces.
+35	Briand	Picked up Pulcho in Inner Nest.
+35	Briand	Dropped off load Soylent Red.
+35	Briand	Moved 6 spaces.
+35	Briand	Picked up Soylent Red in Marsport.
+35	Briand	Picked up Soylent Red in Marsport.
+35	Briand	Dropped off load Imports.
+35	Briand	Dropped off load Iron Rations.
+35	Briand	Picked up Soylent Red in Marsport.
+35	Briand	Drew card 120.
+35	Briand	Delivered Radio-Meds for $14 to Marsport.
+34	Humperdink	Event Earthlings, Go Home! [154] has ended.
+34	Humperdink	Built 9 segments for $17.
+34	Humperdink	Moved 15 spaces.
+34	Humperdink	Picked up Iron in Botany Bay.
+34	Briand	Moved 4 spaces.
+33	Humperdink	Built 15 segments for $18.
+33	Humperdink	Drew card 80.
+33	Humperdink	Event Earthlings, Go Home! [154] was drawn.
+33	Humperdink	Delivered Fish for $28 to Botany Bay.
+33	Humperdink	Drew card 128.
+33	Humperdink	Delivered Arms for $36 to Botany Bay.
+33	Humperdink	Moved 11 spaces.
+33	Briand	Built 9 segments for $10.
+33	Briand	Moved 13 spaces.
+33	Briand	Picked up Radio-Meds in Arsia.
+33	Briand	Dropped off load Colonists.
+33	Briand	Moved 3 spaces.
+32	Humperdink	Built 7 segments for $9.
+32	Humperdink	Moved 12 spaces.
+32	Humperdink	Picked up Fish in Solis Lacus.
+32	Humperdink	Dropped off load Colonists.
+32	Humperdink	Moved 4 spaces.
+32	Briand	Built 6 segments for $14.
+32	Briand	Moved 4 spaces.
+32	Briand	Picked up Colonists in Skyhook.
+32	Briand	Drew card 7.
+32	Briand	Delivered Nanotech Bots for $28 to Skyhook.
+32	Briand	Moved 12 spaces.
+31	Humperdink	Built 9 segments for $20.
+31	Humperdink	Moved 7 spaces.
+31	Humperdink	Picked up Colonists in Skyhook.
+31	Humperdink	Drew card 46.
+31	Humperdink	Delivered Zorinta for $19 to Skyhook.
+31	Humperdink	Moved 6 spaces, paying $4 for rent to Briand
+31	Humperdink	Moved 2 spaces.
+31	Briand	Moved 16 spaces.
+30	Humperdink	Built 16 segments for $18.
+30	Humperdink	Moved 16 spaces.
+30	Briand	Moved 16 spaces.
+29	Humperdink	Moved 12 spaces.
+29	Humperdink	Picked up Arms in Isher.
+29	Humperdink	Moved 4 spaces.
+29	Briand	Built 16 segments for $19.
+29	Briand	Moved 2 spaces.
+29	Briand	Picked up Imports in Port Goddard.
+29	Briand	Dropped off load Roddenberries.
+29	Briand	Picked up Nanotech Bots in Port Goddard.
+29	Briand	Drew card 125.
+29	Briand	Delivered Red Martians for $31 to Port Goddard.
+29	Briand	Moved 14 spaces.
+28	Humperdink	Moved 11 spaces.
+28	Humperdink	Picked up Zorinta in Argyre City.
+28	Humperdink	Moved 5 spaces.
+28	Briand	Moved 16 spaces.
+27	Humperdink	Built 4 segments for $9.
+27	Humperdink	Moved 16 spaces.
+27	Briand	Moved 9 spaces.
+27	Briand	Picked up Red Martians in Helium.
+27	Briand	Dropped off load Iron.
+27	Briand	Moved 7 spaces.
+26	Humperdink	Moved 4 spaces.
+26	Humperdink	Drew card 27.
+26	Humperdink	Delivered Imports for $11 to Arsia.
+26	Humperdink	Moved 11 spaces.
+26	Humperdink	Drew card 83.
+26	Humperdink	Delivered Replicants for $31 to Ylla.
+26	Humperdink	Moved 1 spaces.
+26	Briand	Built 6 segments for $10.
+26	Briand	Moved 16 spaces.
+25	Humperdink	Built 8 segments for $18.
+25	Humperdink	Moved 16 spaces.
+25	Briand	Built 18 segments for $20.
+25	Briand	Moved 13 spaces.
+25	Briand	Picked up Roddenberries in Syrtis Major.
+25	Briand	Drew card 22.
+25	Briand	Delivered Iron Rations for $12 to Syrtis Major.
+25	Briand	Moved 3 spaces.
+24	Humperdink	Moved 10 spaces.
+24	Humperdink	Picked up Rayguns in Isher.
+24	Humperdink	Dropped off load Nanotech Bots.
+24	Humperdink	Moved 6 spaces.
+24	Briand	Moved 4 spaces.
+24	Briand	Picked up Iron Rations in Bitter Waters.
+24	Briand	Picked up Iron in Bitter Waters.
+24	Briand	Picked up Iron Rations in Bitter Waters.
+24	Briand	Moved 7 spaces.
+24	Briand	Drew card 4.
+24	Briand	Delivered Memnonia Gum for $31 to Syrtis Major.
+24	Briand	Moved 5 spaces.
+23	Humperdink	Moved 4 spaces.
+23	Humperdink	Picked up Nanotech Bots in Charax.
+23	Humperdink	Drew card 10.
+23	Humperdink	Delivered Roddenberries for $20 to Charax.
+23	Humperdink	Moved 12 spaces.
+23	Briand	Moved 13 spaces.
+23	Briand	Delivered bonus for $20 for card 542.
+23	Briand	Moved 3 spaces.
+22	Humperdink	Moved 8 spaces.
+22	Humperdink	Picked up Imports in Port Schiaparelli.
+22	Humperdink	Dropped off load Nanotech Bots.
+22	Humperdink	Moved 8 spaces.
+22	Briand	Moved 16 spaces.
+21	Humperdink	Moved 9 spaces.
+21	Humperdink	Picked up Roddenberries in Bradbury Point.
+21	Humperdink	Dropped off load Rayguns.
+21	Humperdink	Moved 7 spaces.
+21	Briand	Moved 12 spaces.
+21	Briand	Picked up Colonists in Skyhook.
+21	Briand	Dropped off load Green Martians.
+21	Briand	Moved 4 spaces.
+20	Humperdink	Moved 16 spaces.
+20	Briand	Built 2 segments for $8.
+19	Humperdink	Moved 14 spaces.
+19	Humperdink	Picked up Nanotech Bots in Charax.
+19	Humperdink	Dropped off load Zorinta.
+19	Humperdink	Moved 2 spaces.
+19	Briand	Moved 8 spaces.
+19	Briand	Picked up Memnonia Gum in Ylla.
+19	Briand	Dropped off load Airweed.
+19	Briand	Moved 8 spaces.
+18	Humperdink	Moved 16 spaces.
+18	Briand	Built 11 segments for $17.
+18	Briand	Picked up Airweed in Labyrinth.
+18	Briand	Drew card 88.
+18	Briand	Delivered Iron for $18 to Labyrinth.
+18	Briand	Moved 8 spaces.
+18	Briand	Picked up Pulcho in Inner Nest.
+18	Briand	Drew card 35.
+18	Briand	Delivered Iron Rations for $17 to Inner Nest.
+18	Briand	Moved 7 spaces.
+17	Humperdink	Built 12 segments for $19.
+17	Humperdink	Moved 14 spaces.
+17	Humperdink	Picked up Replicants in Utopia.
+17	Humperdink	Moved 2 spaces.
+17	Briand	Moved 16 spaces.
+16	Humperdink	Built 11 segments for $17.
+16	Humperdink	Moved 10 spaces.
+16	Humperdink	Drew card 52.
+16	Humperdink	Delivered Arms for $31 to Port Schiaparelli.
+16	Humperdink	Moved 6 spaces.
+16	Briand	Upgraded train to a Viking[16-3] for $20.
+16	Briand	Picked up Green Martians in U-Gor.
+16	Briand	Drew card 63.
+16	Briand	Delivered UN Peacekeepers for $26 to U-Gor.
+16	Briand	Moved 12 spaces.
+15	Humperdink	Built 10 segments for $13.
+15	Humperdink	Moved 16 spaces.
+15	Briand	Moved 12 spaces.
+14	Humperdink	Moved 4 spaces.
+14	Humperdink	Picked up Arms in Isher.
+14	Humperdink	Moved 12 spaces.
+14	Briand	Moved 12 spaces.
+13	Humperdink	Moved 16 spaces.
+13	Briand	Moved 1 spaces.
+13	Briand	Picked up Iron Rations in Bitter Waters.
+13	Briand	Dropped off load UN Peacekeepers.
+13	Briand	Picked up Iron in Bitter Waters.
+13	Briand	Dropped off load UN Peacekeepers.
+13	Briand	Moved 11 spaces.
+12	Humperdink	Upgraded train to a Viking[16-3] for $10.
+12	Humperdink	Moved 8 spaces.
+12	Humperdink	Picked up Zorinta in Hinkston Creek.
+12	Humperdink	Drew card 49.
+12	Humperdink	Delivered Arms for $30 to Hinkston Creek.
+12	Humperdink	Moved 8 spaces.
+12	Briand	Built 3 segments for $11.
+12	Briand	Moved 9 spaces.
+12	Briand	Picked up UN Peacekeepers in Pax Grove.
+12	Briand	Picked up UN Peacekeepers in Pax Grove.
+12	Briand	Picked up UN Peacekeepers in Pax Grove.
+12	Briand	Moved 3 spaces.
+11	Humperdink	Moved 16 spaces.
+11	Briand	Built 5 segments for $17.
+11	Briand	Upgraded train to a Opportunity[12-3] for $10.
+11	Briand	Moved 6 spaces.
+11	Briand	Drew card 131.
+11	Briand	Delivered Quintitriticale for $17 to Barsoom.
+11	Briand	Moved 6 spaces.
+10	Humperdink	Built 1 segments for $13.
+10	Humperdink	Upgraded train to a Sojourner[16-2] for $10.
+10	Humperdink	Moved 12 spaces.
+10	Humperdink	Picked up Arms in Isher.
+10	Humperdink	Moved 2 spaces.
+10	Briand	Built 5 segments for $20.
+10	Briand	Upgraded train to a Dejah Thoris[12-2] for $10.
+10	Briand	Moved 8 spaces.
+10	Briand	Drew card 115.
+10	Briand	Delivered Arms for $33 to Syrtis Major.
+10	Briand	Moved 2 spaces.
+9	Humperdink	Built 18 segments for $19.
+9	Humperdink	Moved 14 spaces.
+9	Briand	Moved 10 spaces.
+8	Humperdink	Pitched and drew cards 130, 18, 108.
+8	Humperdink	Event Mars Needs Women! [142] was drawn.
+8	Briand	Moved 10 spaces.
+7	Humperdink	Drew card 25.
+7	Humperdink	Delivered Memnonia Gum for $20 to Makian Farms.
+7	Humperdink	Moved 8 spaces.
+7	Briand	Moved 10 spaces.
+6	Humperdink	Built 4 segments for $13.
+6	Humperdink	Moved 12 spaces.
+6	Humperdink	Picked up Memnonia Gum in Atmosphere Plant.
+6	Humperdink	Dropped off load Blue Beer.
+6	Humperdink	Moved 2 spaces.
+6	Briand	Built 3 segments for $5.
+6	Briand	Moved 1 spaces.
+6	Briand	Picked up Quintitriticale in Clarketown.
+6	Briand	Dropped off load Pulcho.
+6	Briand	Moved 9 spaces.
+5	Humperdink	Built 2 segments for $4.
+5	Humperdink	Moved 4 spaces.
+5	Humperdink	Picked up Rayguns in Isher.
+5	Humperdink	Drew card 110.
+5	Humperdink	Delivered Imports for $33 to Isher.
+5	Humperdink	Moved 2 spaces.
+5	Briand	Built 14 segments for $20.
+5	Briand	Moved 7 spaces.
+5	Briand	Picked up Pulcho in Inner Nest.
+5	Briand	Drew card 96.
+5	Briand	Delivered Arms for $27 to Inner Nest.
+5	Briand	Moved 3 spaces.
+4	Humperdink	Moved 14 spaces.
+4	Briand	Moved 10 spaces.
+3	Humperdink	Upgraded train to a Spirit[14-2] for $20.
+3	Humperdink	Moved 10 spaces.
+3	Humperdink	Picked up Blue Beer in Port Schiaparelli.
+3	Humperdink	Picked up Imports in Port Schiaparelli.
+3	Briand	Built 15 segments for $19.
+3	Briand	Moved 10 spaces.
+3	Briand	Picked up Arms in U-Gor.
+3	Briand	Picked up Arms in U-Gor.
+2	Briand	Built 10 segments for $20.
+2	Humperdink	Built 15 segments for $20.
+1	Humperdink	Built 15 segments for $20.
+1	Briand	Built 14 segments for $20.

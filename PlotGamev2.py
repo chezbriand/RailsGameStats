@@ -11,11 +11,15 @@ def process_file(filename, starting_money):
 
     players = {}
     rounds = []
+    current_round = None
     for line in lines:
         round, player, action = line.strip().split("\t")
         if player not in players:
             players[player] = [starting_money]
         else:
+            if current_round != round:
+                players[player].append(players[player][-1])
+                current_round = round
             if action.startswith("Built") or action.startswith("Upgraded"):
                 players[player].append(players[player][-1] - parse_amount(action))
             elif action.startswith("Delivered"):

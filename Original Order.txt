@@ -320,3 +320,4 @@
 2	Tom	Built 16 segments for $20.
 2	Briand	Built 18 segments for $20.
 1	Briand	Built 14 segments for $20.
+1	Tom	Built 13 segments for $20.
