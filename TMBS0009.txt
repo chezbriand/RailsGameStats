@@ -1,0 +1,323 @@
+50	Briand	Moved 7 spaces.
+50	Briand	Drew card 50.
+50	Briand	Delivered Cars for $36 to Seattle.
+50	Briand	Moved 5 spaces.
+50	Tom	Built 1 segments for $3.
+50	Tom	Moved 11 spaces.
+50	Tom	Picked up Wood in Portland ME..
+50	Tom	Drew card 47.
+50	Tom	Delivered Sheep for $35 to Portland ME..
+50	Tom	Moved 1 spaces.
+49	Briand	Moved 12 spaces.
+49	Tom	Moved 6 spaces.
+49	Tom	Picked up Tourists in New York.
+49	Tom	Drew card 91.
+49	Tom	Delivered Coffee for $44 to New York.
+49	Tom	Moved 6 spaces.
+48	Briand	Moved 12 spaces.
+48	Tom	Moved 12 spaces.
+47	Briand	Moved 12 spaces.
+47	Tom	Moved 12 spaces.
+46	Briand	Moved 12 spaces.
+46	Tom	Moved 12 spaces.
+45	Briand	Moved 8 spaces.
+45	Briand	Drew card 128.
+45	Briand	Delivered Tobacco for $32 to Mexico City.
+45	Briand	Moved 4 spaces.
+45	Tom	Built 6 segments for $7.
+45	Tom	Moved 9 spaces.
+45	Tom	Picked up Coffee in Veracruz.
+45	Tom	Dropped off load Cars.
+45	Tom	Moved 3 spaces.
+44	Briand	Moved 12 spaces.
+44	Tom	Moved 12 spaces.
+43	Briand	Moved 12 spaces.
+43	Tom	Built 13 segments for $20.
+43	Tom	Moved 3 spaces.
+43	Tom	Picked up Cotton in Torreon.
+43	Tom	Moved 6 spaces.
+43	Tom	Drew card 64.
+43	Tom	Delivered Nickel for $44 to Culiacan.
+43	Tom	Moved 3 spaces.
+42	Briand	Moved 12 spaces.
+42	Tom	Moved 3 spaces.
+42	Tom	Picked up Sheep in Torreon.
+42	Tom	Drew card 55.
+42	Tom	Delivered Wood for $34 to Torreon.
+42	Tom	Moved 9 spaces.
+41	Briand	Moved 4 spaces.
+41	Briand	Picked up Cars in Detroit.
+41	Briand	Dropped off load Imports.
+41	Briand	Moved 8 spaces.
+41	Tom	Moved 12 spaces.
+40	Briand	Built 4 segments for $8.
+40	Briand	Moved 5 spaces.
+40	Briand	Picked up Tobacco in Raleigh.
+40	Briand	Dropped off load Corn.
+40	Briand	Moved 7 spaces.
+40	Tom	Moved 12 spaces.
+39	Briand	Moved 1 spaces.
+39	Briand	Picked up Imports in Philadelphia.
+39	Briand	Drew card 73.
+39	Briand	Delivered Corn for $17 to Philadelphia.
+39	Briand	Moved 11 spaces.
+39	Tom	Moved 12 spaces.
+38	Briand	Moved 12 spaces.
+38	Tom	Built 2 segments for $6.
+38	Tom	Moved 1 spaces.
+38	Tom	Picked up Nickel in Sudbury.
+38	Tom	Dropped off load Machinery.
+38	Tom	Moved 11 spaces.
+37	Briand	Built 1 segments for $3.
+37	Briand	Moved 9 spaces.
+37	Briand	Picked up Corn in St.Louis.
+37	Briand	Picked up Corn in St.Louis.
+37	Briand	Drew card 21.
+37	Briand	Delivered Sugar for $31 to St.Louis.
+37	Briand	Moved 3 spaces.
+37	Tom	Event FLOOD [137] has ended.
+37	Tom	Moved 7 spaces.
+37	Tom	Picked up Wood in Portland ME..
+37	Tom	Moved 5 spaces.
+36	Briand	Moved 12 spaces.
+36	Tom	Built 6 segments for $11.
+36	Tom	Moved 7 spaces.
+36	Tom	Drew card 76.
+36	Tom	Delivered Uranium for $25 to Buffalo.
+36	Tom	Picked up Machinery in Buffalo.
+36	Tom	Drew card 56.
+36	Tom	Delivered Sheep for $27 to Buffalo.
+36	Tom	Moved 4 spaces.
+36	Tom	Picked up Cars in Toronto.
+36	Tom	Drew card 22.
+36	Briand	Player had 1 tracks destroyed.
+36	Tom	Player had 3 tracks destroyed.
+36	Tom	Event FLOOD [137] was drawn.
+36	Tom	Delivered Wheat for $20 to Toronto.
+36	Tom	Moved 1 spaces.
+35	Briand	Moved 12 spaces.
+35	Tom	Moved 12 spaces.
+34	Briand	Moved 12 spaces.
+34	Tom	Moved 12 spaces.
+33	Briand	Moved 12 spaces.
+33	Tom	Moved 4 spaces.
+33	Tom	Picked up Wheat in Oklahoma City.
+33	Tom	Dropped off load Fruit.
+33	Tom	Moved 8 spaces.
+32	Briand	Moved 12 spaces.
+32	Tom	Built 7 segments for $13.
+32	Tom	Moved 4 spaces.
+32	Tom	Picked up Uranium in Santa Fe.
+32	Tom	Dropped off load Tourists.
+32	Tom	Moved 8 spaces.
+31	Briand	Built 14 segments for $20.
+31	Briand	Moved 1 spaces.
+31	Briand	Drew card 33.
+31	Briand	Delivered Wheat for $24 to Seattle.
+31	Briand	Moved 11 spaces.
+31	Tom	Moved 12 spaces.
+30	Briand	Moved 2 spaces.
+30	Briand	Picked up Sugar in San Francisco.
+30	Briand	Dropped off load Copper.
+30	Briand	Picked up Sugar in San Francisco.
+30	Briand	Drew card 9.
+30	Briand	Delivered Swine for $31 to San Francisco.
+30	Briand	Moved 10 spaces.
+30	Tom	Moved 12 spaces.
+29	Briand	Moved 7 spaces.
+29	Briand	Picked up Copper in Phoenix.
+29	Briand	Drew card 4.
+29	Briand	Delivered Cars for $26 to Phoenix.
+29	Briand	Moved 5 spaces.
+29	Tom	Built 2 segments for $6.
+29	Tom	Moved 1 spaces.
+29	Tom	Picked up Sheep in Torreon.
+29	Tom	Moved 11 spaces.
+28	Briand	Moved 12 spaces.
+28	Tom	Moved 12 spaces.
+27	Briand	Moved 9 spaces.
+27	Briand	Picked up Wheat in Oklahoma City.
+27	Briand	Dropped off load Cars.
+27	Briand	Moved 3 spaces.
+27	Tom	Moved 12 spaces.
+26	Briand	Moved 10 spaces.
+26	Briand	Picked up Swine in Des Moines.
+26	Briand	Dropped off load Machinery.
+26	Briand	Moved 2 spaces.
+26	Tom	Built 18 segments for $20.
+26	Tom	Drew card 46.
+26	Tom	Delivered Nickel for $25 to Jacksonville.
+26	Tom	Moved 5 spaces.
+26	Tom	Picked up Fruit in Tampa.
+26	Tom	Drew card 101.
+26	Tom	Delivered Cars for $21 to Tampa.
+26	Tom	Moved 7 spaces.
+25	Briand	Built 1 segments for $3.
+25	Briand	Moved 10 spaces.
+25	Briand	Picked up Cars in Detroit.
+25	Briand	Drew card 42.
+25	Briand	Delivered Sugar for $37 to Detroit.
+25	Briand	Picked up Cars in Detroit.
+25	Briand	Drew card 119.
+25	Briand	Player was taxed $10.
+25	Tom	Player was taxed $10.
+25	Briand	Event EXCESS PROFITS TAX [140] was drawn.
+25	Briand	Delivered Corn for $8 to Detroit.
+25	Briand	Moved 2 spaces.
+25	Tom	Moved 12 spaces.
+24	Briand	Moved 10 spaces.
+24	Briand	Picked up Corn in Des Moines.
+24	Briand	Dropped off load Tourists.
+24	Briand	Moved 2 spaces.
+24	Tom	Moved 12 spaces.
+23	Briand	Moved 12 spaces.
+23	Tom	Built 2 segments for $4.
+23	Tom	Moved 10 spaces.
+23	Tom	Picked up Tourists in New York.
+23	Tom	Drew card 65.
+23	Tom	Delivered Rice for $19 to New York.
+23	Tom	Moved 2 spaces.
+22	Briand	Event MEXICAN RAIL STRIKE [144] has ended.
+22	Briand	Moved 2 spaces.
+22	Briand	Picked up Machinery in Buffalo.
+22	Briand	Drew card 85.
+22	Briand	Delivered Copper for $34 to Buffalo.
+22	Briand	Moved 10 spaces.
+22	Tom	Moved 9 spaces.
+22	Tom	Picked up Nickel in Sudbury.
+22	Tom	Dropped off load Swine.
+22	Tom	Moved 3 spaces.
+21	Briand	Picked up Tourists in Chicago.
+21	Briand	Moved 9 spaces.
+21	Briand	Drew card 133.
+21	Briand	Event MEXICAN RAIL STRIKE [144] was drawn.
+21	Briand	Delivered Sugar for $28 to Kansas City.
+21	Briand	Moved 3 spaces.
+21	Tom	Built 6 segments for $11.
+21	Tom	Moved 7 spaces.
+21	Tom	Picked up Cars in Detroit.
+21	Tom	Dropped off load Corn.
+21	Tom	Moved 5 spaces.
+20	Briand	Built 1 segments for $3.
+20	Briand	Moved 12 spaces.
+20	Tom	Built 14 segments for $20.
+20	Tom	Moved 1 spaces.
+19	Briand	Moved 12 spaces.
+19	Tom	Pitched and drew cards 130, 14, 6.
+18	Briand	Moved 5 spaces.
+18	Briand	Picked up Copper in Phoenix.
+18	Briand	Upgraded train to a Superfreight[12-3] for $20.
+18	Briand	Moved 7 spaces.
+18	Tom	Moved 6 spaces.
+18	Tom	Picked up Corn in Minneapolis.
+18	Tom	Drew card 28.
+18	Tom	Delivered Fruit for $23 to Minneapolis.
+18	Tom	Moved 6 spaces.
+17	Briand	Built 1 segments for $3.
+17	Briand	Moved 10 spaces.
+17	Briand	Picked up Sugar in San Francisco.
+17	Briand	Picked up Sugar in San Francisco.
+17	Briand	Moved 2 spaces.
+17	Tom	Moved 12 spaces.
+16	Briand	Upgraded train to a Fast Freight[12-2] for $20.
+16	Briand	Moved 9 spaces.
+16	Tom	Moved 12 spaces.
+15	Briand	Built 15 segments for $20.
+15	Briand	Moved 2 spaces.
+15	Briand	Drew card 10.
+15	Briand	Delivered Coffee for $55 to Seattle.
+15	Briand	Moved 7 spaces.
+15	Tom	Moved 3 spaces.
+15	Tom	Picked up Fruit in Tampa.
+15	Tom	Dropped off load Oats.
+15	Tom	Moved 9 spaces.
+14	Briand	Moved 9 spaces.
+14	Tom	Moved 7 spaces.
+14	Tom	Picked up Rice in New Orleans.
+14	Tom	Drew card 38.
+14	Tom	Delivered Tourists for $13 to New Orleans.
+14	Tom	Moved 5 spaces.
+13	Briand	Built 13 segments for $19.
+13	Briand	Moved 4 spaces.
+13	Briand	Drew card 121.
+13	Briand	Delivered Coffee for $34 to Los Angeles.
+13	Briand	Moved 5 spaces.
+13	Tom	Built 2 segments for $4.
+13	Tom	Moved 12 spaces.
+12	Briand	Moved 9 spaces.
+12	Tom	Built 16 segments for $20.
+12	Tom	Picked up Tourists in Chicago.
+12	Tom	Dropped off load Corn.
+12	Tom	Moved 11 spaces.
+12	Tom	Picked up Oats in Fargo.
+12	Tom	Drew card 12.
+12	Tom	Delivered Textiles for $26 to Fargo.
+12	Tom	Moved 1 spaces.
+11	Briand	Moved 9 spaces.
+11	Tom	Moved 4 spaces.
+11	Tom	Picked up Corn in Minneapolis.
+11	Tom	Drew card 13.
+11	Tom	Delivered Steel for $14 to Minneapolis.
+11	Tom	Moved 8 spaces.
+10	Briand	Moved 9 spaces.
+10	Tom	Built 9 segments for $15.
+10	Tom	Moved 3 spaces.
+10	Tom	Picked up Swine in St.Louis.
+10	Tom	Moved 5 spaces.
+10	Tom	Drew card 83.
+10	Tom	Delivered Fish for $19 to Kansas City.
+10	Tom	Moved 4 spaces.
+9	Briand	Moved 9 spaces.
+9	Tom	Moved 12 spaces.
+8	Briand	Built 16 segments for $19.
+8	Briand	Moved 1 spaces.
+8	Briand	Picked up Coffee in Veracruz.
+8	Briand	Dropped off load Oil.
+8	Briand	Picked up Coffee in Veracruz.
+8	Briand	Dropped off load Corn.
+8	Briand	Moved 8 spaces.
+8	Tom	Upgraded train to a Superfreight[12-3] for $20.
+8	Tom	Moved 9 spaces.
+8	Tom	Picked up Steel in Monterrey.
+7	Briand	Built 15 segments for $20.
+7	Briand	Picked up Oil in Tampico.
+7	Briand	Drew card 35.
+7	Briand	Delivered Nickel for $39 to Tampico.
+7	Briand	Moved 9 spaces.
+7	Tom	Event DERAILMENTS [150] has ended.
+7	Tom	Upgraded train to a Heavy Freight[9-3] for $20.
+7	Tom	Picked up Textiles in Monterrey.
+7	Tom	Moved 8 spaces.
+6	Briand	Moved 9 spaces.
+6	Tom	Built 7 segments for $9.
+6	Tom	Moved 3 spaces.
+6	Tom	Drew card 80.
+6	Tom	Event DERAILMENTS [150] was drawn.
+6	Tom	Delivered Tourists for $31 to Mexico City.
+6	Tom	Moved 4 spaces.
+6	Tom	Picked up Fish in Tampico.
+6	Tom	Drew card 71.
+6	Tom	Delivered Swine for $24 to Tampico.
+6	Tom	Moved 2 spaces.
+5	Briand	Moved 9 spaces.
+5	Tom	Moved 9 spaces.
+4	Briand	Built 9 segments for $17.
+4	Briand	Moved 2 spaces.
+4	Briand	Picked up Corn in Des Moines.
+4	Briand	Drew card 98.
+4	Briand	Delivered Nickel for $17 to Des Moines.
+4	Briand	Moved 7 spaces.
+4	Tom	Moved 9 spaces.
+3	Briand	Built 7 segments for $10.
+3	Briand	Moved 9 spaces.
+3	Briand	Picked up Nickel in Sudbury.
+3	Briand	Picked up Nickel in Sudbury.
+3	Tom	Built 4 segments for $4.
+3	Tom	Moved 5 spaces.
+3	Tom	Picked up Swine in St.Louis.
+3	Tom	Moved 4 spaces.
+3	Tom	Picked up Tourists in Chicago.
+2	Tom	Built 16 segments for $20.
+2	Briand	Built 18 segments for $20.
+1	Briand	Built 14 segments for $20.
+1	Tom	Built 13 segments for $20.
