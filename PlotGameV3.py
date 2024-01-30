@@ -54,4 +54,4 @@ def process_file(filename, starting_money):
     plt.legend()
     plt.show()
 
-process_file("240120IronDragonNoLoans.txt", 70)
+process_file("TMBS0008.txt", 60)

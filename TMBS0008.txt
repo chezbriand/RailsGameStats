@@ -1,0 +1,485 @@
+60	Briand	Pitched and drew cards 59, 84, 21.
+60	Briand	Event Spaceport Strike! [143] was drawn.
+60	Tom	Drew card 105.
+60	Tom	Event Solar Flares! [138] was drawn.
+60	Tom	Delivered Fruit for $31 to Hayn.
+60	Tom	Moved 16 spaces.
+59	Briand	Moved 7 spaces.
+59	Briand	Picked up Robots in D'Alembert.
+59	Briand	Dropped off load Workers.
+59	Briand	Picked up Robots in D'Alembert.
+59	Briand	Dropped off load Scientists.
+59	Briand	Moved 8 spaces.
+59	Briand	Picked up Workers in Mare Moscoviense.
+59	Briand	Picked up Workers in Mare Moscoviense.
+59	Briand	Drew card 31.
+59	Briand	Delivered Fish for $17 to Mare Moscoviense.
+59	Briand	Drew card 97.
+59	Briand	Delivered Water for $30 to Mare Moscoviense.
+59	Briand	Moved 1 spaces.
+59	Tom	Moved 3 spaces.
+59	Tom	Picked up Helium-3 in Messier.
+59	Tom	Drew card 57.
+59	Tom	Delivered Steel for $20 to Messier.
+59	Tom	Moved 13 spaces.
+58	Briand	Moved 16 spaces.
+58	Tom	Moved 9 spaces.
+58	Tom	Picked up Steel in Oceanus.
+58	Tom	Dropped off load Con. Mats.
+58	Tom	Moved 6 spaces.
+58	Tom	Picked up Fruit in Grimaldi.
+58	Tom	Dropped off load Bauxite.
+58	Tom	Moved 1 spaces.
+57	Briand	Moved 16 spaces.
+57	Tom	Built 2 segments for $4.
+57	Tom	Moved 12 spaces.
+57	Tom	Picked up Recyclables in Hertzsprung.
+57	Tom	Drew card 4.
+57	Tom	Delivered Water for $27 to Hertzsprung.
+57	Tom	Moved 4 spaces.
+56	Briand	Moved 6 spaces.
+56	Briand	Picked up Scientists in Sinus Iridum.
+56	Briand	Moved 10 spaces.
+56	Tom	Moved 16 spaces.
+55	Briand	Moved 12 spaces.
+55	Briand	Drew card 106.
+55	Briand	Delivered Hydroponics for $13 to Schickard.
+55	Briand	Moved 4 spaces.
+55	Tom	Moved 8 spaces.
+55	Tom	Picked up Water in Scott.
+55	Tom	Drew card 85.
+55	Tom	Delivered Titanium for $17 to Scott.
+55	Tom	Moved 3 spaces.
+55	Tom	Picked up Bauxite in Lyman.
+55	Tom	Drew card 47.
+55	Tom	Delivered Machinery for $30 to Lyman.
+55	Tom	Moved 5 spaces.
+54	Briand	Moved 11 spaces.
+54	Briand	Picked up Hydroponics in Clavius.
+54	Briand	Dropped off load Fish.
+54	Briand	Moved 5 spaces.
+54	Tom	Moved 16 spaces.
+53	Briand	Moved 14 spaces.
+53	Briand	Picked up Fish in Verne.
+53	Briand	Dropped off load Haz. Mats.
+53	Briand	Picked up Fish in Verne.
+53	Briand	Dropped off load Haz. Mats.
+53	Briand	Moved 2 spaces.
+53	Tom	Moved 2 spaces.
+53	Tom	Picked up Machinery in Mach.
+53	Tom	Moved 6 spaces.
+53	Tom	Delivered bonus for $20 for card 548.
+53	Tom	Moved 6 spaces.
+53	Tom	Moved 2 spaces.
+52	Briand	Built 2 segments for $6.
+52	Briand	Picked up Haz. Mats in Mare Ingenii.
+52	Briand	Picked up Haz. Mats in Mare Ingenii.
+52	Briand	Moved 1 spaces.
+52	Briand	Drew card 58.
+52	Briand	Event Food Shortage! [148] was drawn.
+52	Briand	Delivered Artifacts for $23 to Mare Ingenii.
+52	Briand	Drew card 54.
+52	Briand	Delivered Fruit for $35 to Mare Ingenii.
+52	Briand	Moved 11 spaces.
+52	Briand	Picked up Water in Scott.
+52	Briand	Drew card 11.
+52	Briand	Delivered Fruit for $28 to Scott.
+52	Briand	Moved 4 spaces.
+52	Tom	Moved 14 spaces.
+52	Tom	Picked up Con. Mats in Orientale.
+52	Tom	Drew card 53.
+52	Tom	Delivered Fish for $34 to Orientale.
+52	Tom	Moved 2 spaces.
+51	Briand	Moved 5 spaces.
+51	Briand	Picked up Artifacts in Tycho.
+51	Briand	Dropped off load Robots.
+51	Briand	Moved 11 spaces.
+51	Tom	Moved 16 spaces.
+50	Briand	Moved 10 spaces.
+50	Briand	Picked up Fruit in Grimaldi.
+50	Briand	Picked up Fruit in Grimaldi.
+50	Briand	Dropped off load Scientists.
+50	Briand	Dropped off load Recyclables.
+50	Briand	Moved 6 spaces.
+50	Tom	Built 6 segments for $15.
+50	Tom	Moved 16 spaces.
+49	Briand	Moved 16 spaces.
+49	Tom	Built 10 segments for $20.
+49	Tom	Moved 16 spaces.
+48	Briand	Built 6 segments for $6.
+48	Briand	Moved 16 spaces.
+48	Tom	Event Lava Flows! [141] has ended.
+47	Briand	Event Meteor Showers! [133] has ended.
+47	Briand	Built 1 segments for $5.
+47	Briand	Moved 2 spaces.
+47	Tom	Moved 1 spaces.
+47	Tom	Picked up Beer in Hayn.
+47	Tom	Drew card 101.
+47	Tom	Event Lava Flows! [141] was drawn.
+47	Tom	Delivered Aluminum for $26 to Hayn.
+47	Tom	Moved 8 spaces.
+47	Tom	Picked up Fish in Gauss.
+47	Tom	Drew card 125.
+47	Tom	Delivered Recyclables for $7 to Gauss.
+47	Tom	Moved 5 spaces.
+46	Briand	Moved 16 spaces.
+46	Briand	Pitched and drew cards 67, 95, 68.
+46	Briand	Player had 6 tracks destroyed.
+46	Briand	Meteor impacted 3 posts SE of Hertzsprung, Oceanus, Messier.
+46	Briand	Event Meteor Showers! [133] was drawn.
+46	Tom	Picked up Recyclables in Mare Crisium.
+46	Tom	Moved 5 spaces.
+46	Tom	Drew card 24.
+46	Tom	Delivered Water for $38 to Gauss.
+46	Tom	Moved 11 spaces.
+45	Briand	Pitched and drew cards 86, 38, 22.
+45	Tom	Moved 14 spaces.
+45	Tom	Picked up Aluminum in Australe.
+45	Tom	Dropped off load Fruit.
+45	Tom	Moved 2 spaces.
+44	Briand	Moved 3 spaces.
+44	Briand	Picked up Recyclables in Mare Moscoviense.
+44	Briand	Drew card 10.
+44	Briand	Delivered Titanium for $24 to Mare Moscoviense.
+44	Briand	Moved 8 spaces.
+44	Briand	Picked up Robots in D'Alembert.
+44	Briand	Drew card 28.
+44	Briand	Delivered Imports for $27 to D'Alembert.
+44	Briand	Moved 5 spaces.
+44	Tom	Built 8 segments for $18.
+44	Tom	Moved 16 spaces.
+43	Briand	Moved 16 spaces.
+43	Tom	Built 9 segments for $15.
+43	Tom	Moved 8 spaces.
+43	Tom	Picked up Water in Scott.
+43	Tom	Moved 3 spaces.
+43	Tom	Drew card 19.
+43	Tom	Delivered Helium-3 for $29 to Lyman.
+43	Tom	Moved 5 spaces.
+42	Briand	Moved 8 spaces.
+42	Briand	Picked up Imports in Mare Nectaris.
+42	Briand	Moved 8 spaces.
+42	Tom	Moved 16 spaces.
+41	Briand	Moved 16 spaces.
+41	Tom	Moved 16 spaces.
+40	Briand	Moved 16 spaces.
+40	Tom	Built 3 segments for $5.
+40	Tom	Moved 1 spaces.
+40	Tom	Picked up Helium-3 in Messier.
+40	Tom	Moved 6 spaces.
+40	Tom	Drew card 126.
+40	Tom	Delivered Artifacts for $15 to Mare Nectaris.
+40	Tom	Moved 9 spaces.
+39	Briand	Built 4 segments for $5.
+39	Briand	Moved 6 spaces.
+39	Briand	Drew card 102.
+39	Briand	Delivered Grain for $5 to Mare Humorum.
+39	Briand	Moved 7 spaces.
+39	Briand	Picked up Grain in Schickard.
+39	Briand	Dropped off load Robots.
+39	Briand	Picked up Titanium in Schickard.
+39	Briand	Dropped off load Robots.
+39	Briand	Moved 3 spaces.
+39	Tom	Built 10 segments for $19.
+39	Tom	Moved 4 spaces.
+39	Tom	Picked up Artifacts in Tycho.
+39	Tom	Dropped off load Scientists.
+39	Tom	Moved 12 spaces.
+39	Tom	Picked up Titanium in Schickard.
+39	Tom	Dropped off load Grain.
+38	Briand	Moved 16 spaces.
+38	Tom	Event Decompression [147] has ended.
+38	Tom	Event Meteor Showers! [135] has ended.
+38	Tom	Event Wildcat Strike! [145] has ended.
+38	Tom	Event Cosmic Rays! [139] has ended.
+37	Briand	Built 4 segments for $8.
+37	Briand	Picked up Scientists in Sinus Iridum.
+37	Briand	Moved 1 spaces.
+37	Briand	Moved 11 spaces.
+37	Tom	Picked up Grain in Schickard.
+37	Tom	Drew card 121.
+37	Tom	Event Cosmic Rays! [139] was drawn.
+37	Tom	Event Wildcat Strike! [145] was drawn.
+37	Briand	Player had 4 tracks destroyed.
+37	Tom	Player had 10 tracks destroyed.
+37	Tom	Meteor impacted 3 posts S of Mare Crisium, Tsiolkovskiy, Aristoteles.
+37	Tom	Event Meteor Showers! [135] was drawn.
+37	Tom	Event Decompression [147] was drawn.
+37	Tom	Delivered Helium-3 for $15 to Schickard.
+37	Tom	Moved 1 spaces.
+36	Briand	Built 11 segments for $19.
+36	Briand	Moved 4 spaces.
+36	Briand	Drew card 16.
+36	Briand	Delivered Robots for $30 to Russell.
+36	Briand	Moved 12 spaces.
+36	Tom	Moved 16 spaces.
+35	Briand	Moved 16 spaces.
+35	Tom	Moved 12 spaces.
+35	Tom	Picked up Helium-3 in Messier.
+35	Tom	Moved 4 spaces.
+34	Briand	Moved 15 spaces.
+34	Briand	Picked up Robots in D'Alembert.
+34	Briand	Picked up Robots in D'Alembert.
+34	Briand	Picked up Robots in D'Alembert.
+34	Briand	Moved 1 spaces.
+34	Tom	Built 11 segments for $19.
+34	Tom	Moved 1 spaces.
+34	Tom	Picked up Scientists in Mare Crisium.
+34	Tom	Moved 9 spaces.
+34	Tom	Drew card 110.
+34	Tom	Delivered Iron for $9 to Mare Nectaris.
+34	Tom	Moved 6 spaces.
+33	Briand	Moved 16 spaces.
+33	Tom	Moved 16 spaces.
+32	Briand	Built 5 segments for $9.
+32	Briand	Moved 11 spaces.
+32	Briand	Drew card 33.
+32	Briand	Delivered Fish for $14 to Mare Nectaris.
+32	Briand	Moved 5 spaces.
+32	Tom	Built 15 segments for $18.
+32	Tom	Moved 6 spaces.
+32	Tom	Drew card 48.
+32	Tom	Delivered Hydroponics for $16 to Daedalus.
+32	Tom	Moved 6 spaces.
+32	Tom	Picked up Iron in Gagarin.
+32	Tom	Moved 4 spaces.
+31	Briand	Built 10 segments for $12.
+31	Briand	Moved 7 spaces.
+31	Briand	Drew card 63.
+31	Briand	Delivered Tourists for $7 to Tranquility Base.
+31	Briand	Drew card 78.
+31	Briand	Delivered Solar Coll. for $37 to Tranquility Base.
+31	Briand	Moved 9 spaces.
+31	Tom	Drew card 103.
+31	Tom	Delivered Chemicals for $37 to Mare Ingenii.
+31	Tom	Moved 6 spaces.
+31	Tom	Picked up Hydroponics in Pavlov.
+31	Tom	Dropped off load Steel.
+31	Tom	Moved 10 spaces.
+30	Briand	Picked up Tourists in Mare Crisium.
+30	Briand	Upgraded train to a Saturn[16-3] for $10.
+30	Briand	Upgraded train to a Proton[14-3] for $10.
+30	Briand	Moved 12 spaces.
+30	Briand	Picked up Fish in Gauss.
+30	Briand	Dropped off load Tourists.
+30	Briand	Moved 2 spaces.
+30	Tom	Moved 16 spaces.
+29	Briand	Event Airlock Operator Strike! [144] has ended.
+29	Briand	Moved 11 spaces.
+29	Briand	Picked up Tourists in Mare Crisium.
+29	Briand	Moved 3 spaces.
+29	Tom	Upgraded train to a Saturn[16-3] for $10.
+29	Tom	Moved 14 spaces.
+28	Briand	Built 3 segments for $3.
+28	Briand	Moved 1 spaces.
+28	Briand	Drew card 34.
+28	Briand	Event Airlock Operator Strike! [144] was drawn.
+28	Briand	Delivered Robots for $32 to Messier.
+28	Briand	Moved 13 spaces.
+28	Tom	Built 1 segments for $3.
+28	Tom	Moved 6 spaces.
+28	Tom	Picked up Fruit in Grimaldi.
+28	Tom	Drew card 91.
+28	Tom	Delivered Imports for $19 to Grimaldi.
+28	Tom	Moved 6 spaces.
+28	Tom	Picked up Steel in Oceanus.
+28	Tom	Drew card 49.
+28	Tom	Delivered Chemicals for $8 to Oceanus.
+28	Tom	Moved 2 spaces.
+27	Briand	Moved 14 spaces.
+27	Tom	Built 8 segments for $15.
+27	Tom	Moved 5 spaces.
+27	Tom	Picked up Chemicals in Copernicus.
+27	Tom	Dropped off load Wine.
+27	Tom	Picked up Chemicals in Copernicus.
+27	Tom	Moved 9 spaces.
+26	Briand	Built 2 segments for $5.
+26	Briand	Moved 4 spaces.
+26	Briand	Picked up Solar Coll. in Kulik.
+26	Briand	Dropped off load Beer.
+26	Briand	Moved 7 spaces.
+26	Briand	Picked up Robots in D'Alembert.
+26	Briand	Moved 3 spaces.
+26	Tom	Built 14 segments for $20.
+26	Tom	Drew card 74.
+26	Tom	Delivered Con. Mats for $17 to Tranquility Base.
+26	Tom	Moved 10 spaces.
+25	Briand	Built 12 segments for $20.
+25	Briand	Moved 6 spaces.
+25	Briand	Drew card 12.
+25	Briand	Event Rail Tax [146] was drawn.
+25	Briand	Delivered Iron for $24 to Hayn.
+25	Briand	Picked up Beer in Hayn.
+25	Briand	Moved 8 spaces.
+25	Tom	Event Solar Flares! [137] has ended.
+25	Tom	Built 4 segments for $6.
+25	Tom	Moved 5 spaces.
+25	Tom	Picked up Con. Mats in Australe.
+25	Tom	Dropped off load Recyclables.
+25	Tom	Moved 9 spaces.
+25	Tom	Picked up Recyclables in Mare Nectaris.
+25	Tom	Dropped off load Wine.
+25	Tom	Picked up Imports in Mare Nectaris.
+24	Briand	Moved 14 spaces.
+24	Tom	Pitched and drew cards 123, 124, 23.
+24	Tom	Event Solar Flares! [137] was drawn.
+23	Briand	Upgraded train to a Atlas[14-2] for $10.
+23	Briand	Upgraded train to a Redstone[12-2] for $10.
+23	Briand	Moved 4 spaces.
+23	Briand	Picked up Iron in Pythagoras.
+23	Briand	Moved 6 spaces.
+23	Tom	Drew card 40.
+23	Tom	Delivered Wine for $22 to Mare Nectaris.
+23	Tom	Moved 8 spaces.
+22	Briand	Moved 10 spaces.
+22	Tom	Moved 13 spaces.
+22	Tom	Picked up Wine in Becvar.
+22	Tom	Picked up Wine in Becvar.
+22	Tom	Picked up Wine in Becvar.
+22	Tom	Moved 1 spaces.
+21	Briand	Built 4 segments for $8.
+21	Briand	Moved 10 spaces.
+21	Tom	Moved 10 spaces.
+21	Tom	Moved 4 spaces.
+20	Briand	Player's turn was skipped due to an event.
+20	Tom	Player's turn was skipped due to an event.
+19	Briand	Event Cosmic Rays! [140] has ended.
+19	Briand	Player's turn was skipped due to an event.
+19	Tom	4 load(s) must be dropped.
+19	Briand	1 turn(s) has been lost.
+19	Tom	1 turn(s) has been lost.
+19	Tom	Player's turn was skipped due to an event.
+18	Briand	Dropped off load Robots.
+18	Briand	Dropped off load Fruit.
+18	Tom	4 load(s) must be dropped.
+18	Briand	1 turn(s) has been lost.
+18	Tom	1 turn(s) has been lost.
+18	Tom	Dropped off load Wine.
+18	Tom	Dropped off load Imports.
+18	Tom	Dropped off load Haz. Mats.
+18	Briand	4 load(s) must be dropped.
+18	Tom	4 load(s) must be dropped.
+18	Briand	1 turn(s) has been lost.
+18	Tom	1 turn(s) has been lost.
+18	Briand	Picked up Fruit in Grimaldi.
+18	Briand	Drew card 75.
+18	Briand	Event Cosmic Rays! [140] was drawn.
+18	Briand	Delivered Water for $29 to Grimaldi.
+18	Briand	Moved 4 spaces.
+18	Tom	Upgraded train to a Proton[14-3] for $10.
+18	Tom	Moved 7 spaces.
+18	Tom	Picked up Wine in Becvar.
+18	Tom	Dropped off load Machinery.
+18	Tom	Moved 4 spaces.
+18	Tom	Moved 1 spaces.
+17	Briand	Moved 10 spaces.
+17	Tom	Moved 3 spaces.
+17	Tom	Moved 9 spaces.
+16	Briand	Moved 10 spaces.
+16	Tom	Built 1 segments for $3.
+16	Tom	Moved 1 spaces.
+16	Tom	Picked up Machinery in Wells.
+16	Tom	Drew card 93.
+16	Tom	Delivered Haz. Mats for $28 to Wells.
+16	Tom	Moved 11 spaces.
+15	Briand	Built 7 segments for $13.
+15	Briand	Moved 5 spaces.
+15	Briand	Picked up Water in Scott.
+15	Briand	Dropped off load Comp. Chips.
+15	Briand	Moved 5 spaces.
+15	Tom	Built 4 segments for $10.
+15	Tom	Moved 12 spaces.
+14	Briand	Built 13 segments for $20.
+14	Briand	Picked up Comp. Chips in Clavius.
+14	Briand	Drew card 36.
+14	Briand	Delivered Robots for $45 to Clavius.
+14	Briand	Moved 8 spaces.
+14	Tom	Built 5 segments for $20.
+14	Tom	Upgraded train to a Soyuz[12-3] for $10.
+14	Tom	Moved 2 spaces.
+14	Tom	Picked up Haz. Mats in Mare Ingenii.
+14	Tom	Dropped off load Machinery.
+14	Tom	Picked up Haz. Mats in Mare Ingenii.
+14	Tom	Moved 8 spaces.
+13	Briand	Built 4 segments for $15.
+13	Briand	Moved 10 spaces.
+13	Tom	Built 5 segments for $20.
+13	Tom	Upgraded train to a Vostok[10-3] for $10.
+13	Tom	Moved 9 spaces.
+13	Tom	Picked up Imports in Hertzsprung.
+13	Tom	Drew card 45.
+13	Tom	Delivered Hydroponics for $28 to Hertzsprung.
+13	Tom	Moved 1 spaces.
+12	Briand	Moved 10 spaces.
+12	Tom	Moved 5 spaces.
+12	Tom	Picked up Machinery in Mach.
+12	Tom	Drew card 46.
+12	Tom	Delivered Iron for $20 to Mach.
+12	Tom	Moved 5 spaces.
+11	Briand	Moved 10 spaces.
+11	Tom	Built 4 segments for $10.
+11	Tom	Moved 8 spaces.
+11	Tom	Picked up Iron in Gagarin.
+11	Tom	Dropped off load Fish.
+11	Tom	Moved 2 spaces.
+10	Briand	Moved 10 spaces.
+10	Tom	Built 10 segments for $20.
+10	Tom	Moved 4 spaces.
+10	Tom	Picked up Hydroponics in Pavlov.
+10	Tom	Dropped off load Steel.
+10	Tom	Moved 6 spaces.
+9	Briand	Moved 7 spaces.
+9	Briand	Picked up Robots in D'Alembert.
+9	Briand	Dropped off load Fish.
+9	Briand	Picked up Robots in D'Alembert.
+9	Briand	Dropped off load Iron.
+9	Briand	Moved 3 spaces.
+9	Tom	Event Meteor Showers! [131] has ended.
+9	Tom	Built 8 segments for $19.
+9	Tom	Moved 1 spaces.
+9	Tom	Picked up Steel in Tsiolkovskiy.
+9	Tom	Drew card 64.
+9	Tom	Delivered Artifacts for $33 to Tsiolkovskiy.
+9	Tom	Moved 9 spaces.
+8	Briand	Moved 10 spaces.
+8	Tom	Built 3 segments for $7.
+8	Tom	Picked up Fish in Verne.
+8	Tom	Drew card 56.
+8	Tom	Meteor impacted 3 posts N of Aristarchus, Messier, Barrow.
+8	Tom	Event Meteor Showers! [131] was drawn.
+8	Tom	Delivered Imports for $25 to Verne.
+8	Tom	Moved 10 spaces.
+7	Briand	Moved 10 spaces.
+7	Tom	Moved 10 spaces.
+6	Briand	Built 4 segments for $9.
+6	Briand	Moved 10 spaces.
+6	Tom	Moved 9 spaces.
+6	Tom	Picked up Artifacts in Tycho.
+6	Tom	Dropped off load Hydroponics.
+6	Tom	Moved 1 spaces.
+5	Briand	Built 16 segments for $19.
+5	Briand	Moved 2 spaces.
+5	Briand	Picked up Iron in Pythagoras.
+5	Briand	Drew card 41.
+5	Briand	Delivered Fish for $31 to Pythagoras.
+5	Briand	Moved 8 spaces.
+5	Tom	Moved 10 spaces.
+4	Briand	Moved 10 spaces.
+4	Tom	Built 3 segments for $12.
+4	Tom	Moved 2 spaces.
+4	Tom	Picked up Imports in Mare Nectaris.
+4	Tom	Drew card 7.
+4	Tom	Delivered Hydroponics for $12 to Mare Nectaris.
+4	Tom	Moved 8 spaces.
+3	Briand	Built 11 segments for $20.
+3	Briand	Moved 10 spaces.
+3	Briand	Picked up Fish in Gauss.
+3	Briand	Picked up Fish in Gauss.
+3	Tom	Built 10 segments for $20.
+3	Tom	Moved 10 spaces.
+3	Tom	Picked up Hydroponics in Pavlov.
+3	Tom	Picked up Hydroponics in Pavlov.
+2	Tom	Built 9 segments for $20.
+2	Briand	Built 10 segments for $20.
+1	Briand	Built 18 segments for $20.
+1	Tom	Built 12 segments for $20.
