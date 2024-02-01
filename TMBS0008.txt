@@ -394,7 +394,7 @@
 14	Briand	Drew card 36.
 14	Briand	Delivered Robots for $45 to Clavius.
 14	Briand	Moved 8 spaces.
-14	Tom	Built 5 segments for $20.
+14	Tom	Built 5 segments for $10.
 14	Tom	Upgraded train to a Soyuz[12-3] for $10.
 14	Tom	Moved 2 spaces.
 14	Tom	Picked up Haz. Mats in Mare Ingenii.
@@ -403,7 +403,7 @@
 14	Tom	Moved 8 spaces.
 13	Briand	Built 4 segments for $15.
 13	Briand	Moved 10 spaces.
-13	Tom	Built 5 segments for $20.
+13	Tom	Built 5 segments for $10.
 13	Tom	Upgraded train to a Vostok[10-3] for $10.
 13	Tom	Moved 9 spaces.
 13	Tom	Picked up Imports in Hertzsprung.
