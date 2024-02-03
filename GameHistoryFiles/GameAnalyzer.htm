@@ -15,6 +15,7 @@
             var lines = text.trim().split('\n').reverse();
             var players = {};
             var startingMoney = 60; // Change this to the starting money amount
+            var currentRound = null;
 
             lines.forEach(line => {
                 var parts = line.split('\t');
@@ -36,7 +37,14 @@
                 }
 
                 players[player].money += moneyChange;
-                players[player].history.push(players[player].money);
+
+                // If we've moved to the next round, update the history for all players
+                if (round !== currentRound) {
+                    for (var p in players) {
+                        players[p].history.push(players[p].money);
+                    }
+                    currentRound = round;
+                }
             });
 
             var datasets = [];
