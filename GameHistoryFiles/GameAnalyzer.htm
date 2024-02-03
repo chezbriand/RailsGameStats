@@ -16,6 +16,7 @@
             var players = {};
             var startingMoney = 60; // Change this to the starting money amount
             var currentRound = null;
+            var totalRounds = 0;
 
             lines.forEach(line => {
                 var parts = line.split('\t');
@@ -44,6 +45,7 @@
                         players[p].history.push(players[p].money);
                     }
                     currentRound = round;
+                    totalRounds++;
                 }
             });
 
@@ -61,7 +63,7 @@
             new Chart(ctx, {
                 type: 'line',
                 data: {
-                    labels: Array(lines.length).fill().map((_, i) => i + 1), // Rounds
+                    labels: Array(totalRounds).fill().map((_, i) => i + 1), // Rounds
                     datasets: datasets,
                 },
                 options: {
