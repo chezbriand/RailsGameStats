@@ -1,5 +1,5 @@
+import sys
 import matplotlib.pyplot as plt
-# import pandas as pd
 import re
 
 def parse_amount(action):
@@ -94,4 +94,4 @@ def process_file(filename, starting_money):
 
     plt.show()
 
-process_file("TMBS0008.txt", 60)
+process_file(sys.argv[1], int(sys.argv[2]))
