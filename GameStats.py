@@ -81,7 +81,8 @@ def process_file(filename, starting_money):
     for player, money in players.items():
         plt.plot(range(len(money)), money, label=player)
     plt.axhline(0, color='black', linewidth=0.5)  # Line at y=0
-    plt.axhline(250, color='black', linewidth=0.5)  # Line at y=250plt.xticks(range(len(rounds)), rounds)
+    plt.axhline(250, color='black', linewidth=0.5)  # Line at y=250
+    plt.xticks(range(len(rounds)), rounds)
     plt.xlabel('Round')
     plt.ylabel('Money')
     plt.legend()
