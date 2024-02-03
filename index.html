@@ -6,17 +6,39 @@
 </head>
 <body>
     <textarea id="inputArea" rows="10" cols="50"></textarea><br>
+    Starting Money: <input id="startingMoney" type="number" value="60"><br>
     <button onclick="analyzeGame()">Analyze</button>
+    <div id="stats" style="background-color: orange; padding: 5px;"></div>
     <canvas id="myChart"></canvas>
 
     <script>
+        function parseAmount(action) {
+            var match = action.match(/\$(\d+)/);
+            return match ? parseInt(match[1]) : 0;
+        }
+
+        function parseSegments(action) {
+            var match = action.match(/Built (\d+) segments/);
+            return match ? parseInt(match[1]) : 0;
+        }
+
+        function parseMovement(action) {
+            var match = action.match(/Moved (\d+) spaces/);
+            return match ? parseInt(match[1]) : 0;
+        }
+
         function analyzeGame() {
             var text = document.getElementById('inputArea').value;
+            var startingMoney = parseInt(document.getElementById('startingMoney').value);
             var lines = text.trim().split('\n').reverse();
             var players = {};
-            var startingMoney = 60; // Change this to the starting money amount
-            var currentRound = null;
-            var totalRounds = 0;
+            var currentRounds = {};
+            var rounds = [];
+            var segmentsBuilt = {};
+            var segmentsCost = {};
+            var loadsDelivered = {};
+            var loadsRevenue = {};
+            var milepostsMoved = {};
 
             lines.forEach(line => {
                 var parts = line.split('\t');
@@ -26,28 +48,66 @@
 
                 if (!players[player]) {
                     players[player] = { money: startingMoney, history: [] };
+                    currentRounds[player] = null;
+                    segmentsBuilt[player] = 0;
+                    segmentsCost[player] = 0;
+                    loadsDelivered[player] = 0;
+                    loadsRevenue[player] = 0;
+                    milepostsMoved[player] = 0;
                 }
 
-                var moneyChange = 0;
-                if (action.startsWith('Built') || action.startsWith('Upgraded')) {
-                    var amount = action.match(/\$([0-9]+)/)[1];
-                    moneyChange = -amount;
-                } else if (action.startsWith('Delivered')) {
-                    var amount = action.match(/\$([0-9]+)/)[1];
-                    moneyChange = +amount;
+                if (currentRounds[player] != round) {
+                    players[player].history.push(players[player].money);
+                    currentRounds[player] = round;
                 }
 
-                players[player].money += moneyChange;
-
-                // If we've moved to the next round, update the history for all players
-                if (round !== currentRound) {
-                    for (var p in players) {
-                        players[p].history.push(players[p].money);
+                if (action.startsWith("Built")) {
+                    var cost = parseAmount(action);
+                    players[player].money -= cost;
+                    segmentsBuilt[player] += parseSegments(action);
+                    segmentsCost[player] += cost;
+                } else if (action.startsWith("Upgraded") || action.startsWith("Player was taxed")) {
+                    players[player].money -= parseAmount(action);
+                } else if (action.startsWith("Delivered")) {
+                    var revenue = parseAmount(action);
+                    players[player].money += revenue;
+                    loadsDelivered[player] += 1;
+                    loadsRevenue[player] += revenue;
+                } else if (action.includes("for rent to")) {
+                    var rent = parseAmount(action);
+                    players[player].money -= rent;
+                    var recipient = action.split("for rent to")[1].trim();
+                    if (recipient && recipient in players) {
+                        if (currentRounds[recipient] != round) {
+                            players[recipient].history.push(players[recipient].money + rent);
+                            currentRounds[recipient] = round;
+                        } else {
+                            players[recipient].money += rent;
+                        }
                     }
-                    currentRound = round;
-                    totalRounds++;
+                } else if (action.startsWith("Moved")) {
+                    var movement = parseMovement(action);
+                    milepostsMoved[player] += movement;
+                }
+
+                if (!rounds.includes(round)) {
+                    rounds.push(round);
                 }
             });
+
+            // Add the final money totals for each player
+            for (var player in players) {
+                players[player].history.push(players[player].money);
+            }
+
+            var statsText = "";
+            statsText += "There were " + (rounds.length) + " rounds, and ";
+            var winner = Object.keys(players).reduce((a, b) => players[a].money > players[b].money ? a : b);
+            statsText += "the winner was " + winner + ".<br>";
+            for (var player in players) {
+                statsText += player + " built " + segmentsBuilt[player] + " segments for $" + segmentsCost[player] + " delivering " + loadsDelivered[player] + " loads for $" + loadsRevenue[player] + " with " + milepostsMoved[player] + " movements.<br>";
+            }
+            document.getElementById('stats').innerHTML = statsText;
 
             var datasets = [];
             for (var player in players) {
@@ -63,7 +123,7 @@
             new Chart(ctx, {
                 type: 'line',
                 data: {
-                    labels: Array(totalRounds).fill().map((_, i) => i + 1), // Rounds
+                    labels: rounds.concat([rounds.length]), // Add an extra round
                     datasets: datasets,
                 },
                 options: {
