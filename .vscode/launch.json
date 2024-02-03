@@ -7,7 +7,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["TMBS0008.txt", "60"] // Add your arguments here
+            "args": ["GameHistoryFiles/TMBS0008.txt", "60"] // Add your arguments here
         }
     ]
 }
