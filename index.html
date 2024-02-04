@@ -123,7 +123,7 @@
             new Chart(ctx, {
                 type: 'line',
                 data: {
-                    labels: rounds.concat([rounds.length]), // Add an extra round
+                    labels: [0].concat(rounds), 
                     datasets: datasets,
                 },
                 options: {
@@ -138,6 +138,9 @@
                             scaleLabel: {
                                 display: true,
                                 labelString: 'Round'
+                            },
+                            ticks: {
+                                beginAtZero: true
                             }
                         }],
                         yAxes: [{
