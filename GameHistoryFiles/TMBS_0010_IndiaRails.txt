@@ -1,0 +1,426 @@
+60	Tom	Moved 1 spaces.
+60	Tom	Picked up Linseed Oil in Allahabad.
+60	Tom	Drew card 39.
+60	Tom	Delivered Cotton for $16 to Allahabad.
+60	Tom	Picked up Pilgrims in Allahabad.
+60	Tom	Moved 11 spaces.
+60	Briand	Moved 4 spaces.
+60	Briand	Picked up Oil in Rawalpindi.
+60	Briand	Picked up Oil in Rawalpindi.
+60	Briand	Drew card 86.
+60	Briand	Delivered Wood for $39 to Rawalpindi.
+60	Briand	Moved 8 spaces.
+59	Tom	Built 8 segments for $18.
+59	Tom	Delivered bonus for $2 for card 900.
+59	Tom	Moved 12 spaces.
+59	Briand	Event Flood! [137] has ended.
+59	Briand	Moved 8 spaces.
+59	Briand	Dropped off load Pilgrims.
+59	Briand	Moved 4 spaces.
+58	Tom	Moved 10 spaces.
+58	Tom	Picked up Pilgrims in Asansol.
+58	Tom	Dropped off load Bauxite.
+58	Tom	Picked up Copper in Asansol.
+58	Tom	Moved 2 spaces.
+58	Briand	Moved 2 spaces.
+58	Briand	Picked up Pilgrims in Jaipur.
+58	Briand	Drew card 106.
+58	Briand	Player had 1 tracks destroyed.
+58	Tom	Player had 1 tracks destroyed.
+58	Tom	Player had 4 tracks destroyed.
+58	Briand	Player had 5 tracks destroyed.
+58	Briand	Event Flood! [137] was drawn.
+58	Briand	Delivered Coffee for $32 to Jaipur.
+58	Briand	Picked up Pilgrims in Jaipur.
+58	Briand	Moved 10 spaces.
+57	Tom	Built 1 segments for $3.
+57	Tom	Moved 2 spaces.
+57	Tom	Delivered bonus for $2 for card 900.
+57	Tom	Moved 7 spaces.
+57	Tom	Picked up Pilgrims in Bhubaneshwar.
+57	Tom	Drew card 122.
+57	Tom	Delivered Gypsum for $40 to Bhubaneshwar.
+57	Tom	Picked up Bauxite in Bhubaneshwar.
+57	Tom	Drew card 34.
+57	Tom	Delivered Dates for $43 to Bhubaneshwar.
+57	Tom	Moved 3 spaces.
+57	Briand	Moved 12 spaces.
+56	Tom	Moved 12 spaces.
+56	Briand	Event Pakistani Rail Strike! [144] has ended.
+55	Tom	Moved 12 spaces.
+55	Briand	Drew card 43.
+55	Briand	Event Pakistani Rail Strike! [144] was drawn.
+55	Briand	Delivered Tea for $37 to Karachi.
+55	Briand	Moved 10 spaces.
+54	Tom	Built 6 segments for $8.
+54	Tom	Moved 7 spaces.
+54	Tom	Picked up Cotton in Ahmadabad.
+54	Tom	Dropped off load Jute.
+54	Tom	Moved 5 spaces.
+54	Briand	Moved 12 spaces.
+53	Tom	Moved 12 spaces.
+53	Briand	Built 1 segments for $3.
+53	Briand	Moved 12 spaces.
+52	Tom	Built 7 segments for $9.
+52	Tom	Moved 2 spaces.
+52	Tom	Picked up Gypsum in Quetta.
+52	Tom	Picked up Dates in Quetta.
+52	Tom	Dropped off load Wood.
+52	Tom	Dropped off load Salt.
+52	Tom	Moved 10 spaces.
+52	Briand	Moved 12 spaces.
+51	Tom	Moved 12 spaces.
+51	Briand	Moved 1 spaces.
+51	Briand	Picked up Coffee in Cochin.
+51	Briand	Moved 11 spaces.
+51	Briand	Delivered bonus for $2 for card 900.
+50	Tom	Moved 3 spaces.
+50	Tom	Picked up Salt in Jamnagar.
+50	Tom	Drew card 27.
+50	Tom	Delivered Jute for $41 to Jamnagar.
+50	Tom	Moved 9 spaces.
+50	Briand	Moved 9 spaces.
+50	Briand	Picked up Pilgrims in Hyderabad I..
+50	Briand	Drew card 73.
+50	Briand	Delivered Tea for $26 to Hyderabad I..
+50	Briand	Moved 3 spaces.
+49	Tom	Moved 12 spaces.
+49	Briand	Moved 11 spaces.
+49	Briand	Picked up Wood in Visakhapatnam.
+49	Briand	Dropped off load Tea.
+49	Briand	Moved 1 spaces.
+48	Tom	Moved 12 spaces.
+48	Briand	Moved 12 spaces.
+47	Tom	Moved 12 spaces.
+47	Briand	Moved 12 spaces.
+46	Tom	Built 11 segments for $16.
+46	Tom	Moved 5 spaces.
+46	Tom	Picked up Jute in Chittagong.
+46	Tom	Dropped off load Steel.
+46	Tom	Picked up Jute in Chittagong.
+46	Tom	Dropped off load Imports.
+46	Tom	Moved 7 spaces, paying $4 for rent to Briand
+46	Briand	Moved 7 spaces.
+46	Briand	Picked up Tea in Darjeeling.
+46	Briand	Picked up Tea in Darjeeling.
+46	Briand	Dropped off load Coal.
+46	Briand	Dropped off load Coal.
+46	Briand	Picked up Tea in Darjeeling.
+46	Briand	Moved 5 spaces.
+45	Tom	Moved 1 spaces.
+45	Tom	Picked up Imports in Khulna.
+45	Tom	Moved 3 spaces.
+45	Tom	Delivered bonus for $2 for card 900.
+45	Tom	Moved 8 spaces.
+45	Briand	Built 5 segments for $8.
+45	Briand	Drew card 55.
+45	Briand	Delivered Fish for $36 to English Bazar.
+45	Briand	Moved 9 spaces.
+44	Tom	Moved 6 spaces.
+44	Tom	Picked up Pilgrims in Gorakhpur.
+44	Tom	Drew card 128.
+44	Tom	Delivered Sugar for $22 to Gorakhpur.
+44	Tom	Moved 6 spaces.
+44	Briand	Picked up Coal in Guwahati.
+44	Briand	Drew card 82.
+44	Briand	Delivered Wood for $23 to Guwahati.
+44	Briand	Picked up Coal in Guwahati.
+44	Briand	Drew card 126.
+44	Briand	Delivered Fish for $44 to Guwahati.
+44	Briand	Moved 7 spaces.
+43	Tom	Moved 3 spaces.
+43	Tom	Picked up Steel in Patna.
+43	Tom	Drew card 136.
+43	Tom	Delivered Sugar for $21 to Patna.
+43	Tom	Moved 9 spaces.
+43	Briand	Built 7 segments for $13.
+43	Briand	Moved 12 spaces.
+42	Tom	Built 3 segments for $7.
+42	Tom	Moved 12 spaces.
+42	Briand	Moved 12 spaces.
+41	Tom	Moved 12 spaces.
+41	Briand	Moved 2 spaces.
+41	Briand	Picked up Wood in Visakhapatnam.
+41	Briand	Dropped off load Imports.
+41	Briand	Moved 10 spaces.
+40	Tom	Moved 5 spaces.
+40	Tom	Picked up Sugar in Hyderabad P..
+40	Tom	Picked up Sugar in Hyderabad P..
+40	Tom	Dropped off load Coal.
+40	Tom	Dropped off load Pilgrims.
+40	Tom	Moved 7 spaces.
+40	Briand	Built 16 segments for $19.
+40	Briand	Moved 12 spaces.
+39	Tom	Built 1 segments for $1.
+39	Tom	Moved 12 spaces.
+39	Briand	Built 12 segments for $18.
+39	Briand	Moved 5 spaces.
+39	Briand	Picked up Fish in Mangalore.
+39	Briand	Dropped off load Coffee.
+39	Briand	Picked up Fish in Mangalore.
+39	Briand	Dropped off load Coffee.
+39	Briand	Moved 7 spaces.
+38	Tom	Event Sandstorms! [146] has ended.
+38	Tom	Built 10 segments for $14.
+38	Tom	Moved 12 spaces.
+38	Briand	Moved 4 spaces.
+38	Briand	Picked up Coffee in Cochin.
+38	Briand	Dropped off load Pilgrims.
+38	Briand	Picked up Imports in Cochin.
+38	Briand	Dropped off load Dates.
+38	Briand	Picked up Coffee in Cochin.
+38	Briand	Moved 4 spaces.
+38	Briand	Picked up Pilgrims in Tiruchchirappalli.
+38	Briand	Drew card 51.
+38	Briand	Delivered Copper for $21 to Tiruchchirappalli.
+38	Briand	Moved 4 spaces.
+37	Tom	Event Derailment! [150] has ended.
+37	Tom	Pitched and drew cards 113, 93, 65.
+37	Briand	Player had 2 tracks destroyed.
+37	Tom	Event Sandstorms! [146] was drawn.
+37	Briand	Moved 12 spaces.
+36	Tom	Pitched and drew cards 3, 76, 114.
+36	Tom	Event Derailment! [150] was drawn.
+36	Briand	Moved 12 spaces.
+35	Tom	Event Rampaging Elephants! [149] has ended.
+35	Tom	Moved 6 spaces.
+35	Tom	Picked up Pilgrims in Visakhapatnam.
+35	Tom	Dropped off load Pilgrims.
+35	Tom	Picked up Wood in Visakhapatnam.
+35	Tom	Drew card 8.
+35	Tom	Delivered Indigo for $32 to Visakhapatnam.
+35	Tom	Moved 6 spaces.
+35	Tom	Picked up Pilgrims in Vijayawada.
+35	Tom	Picked up Coal in Vijayawada.
+35	Briand	Built 10 segments for $16.
+35	Briand	Moved 12 spaces.
+34	Tom	Dropped off load Coal.
+34	Tom	Picked up Coal in Vijayawada.
+34	Tom	Dropped off load Rubber.
+34	Tom	Drew card 135.
+34	Tom	1 load(s) must be dropped.
+34	Tom	Event Rampaging Elephants! [149] was drawn.
+34	Tom	Event Government Subsidy! [155] was drawn.
+34	Tom	Delivered Indigo for $26 to Vijayawada.
+34	Tom	Moved 9 spaces.
+34	Briand	Moved 2 spaces.
+34	Briand	Drew card 111.
+34	Briand	Delivered Sugar for $22 to Calcutta.
+34	Briand	Moved 5 spaces.
+34	Briand	Picked up Copper in Asansol.
+34	Briand	Dropped off load Millet.
+34	Briand	Moved 5 spaces.
+33	Tom	Moved 6 spaces.
+33	Tom	Moved 6 spaces.
+33	Briand	Moved 12 spaces.
+32	Tom	Moved 2 spaces.
+32	Tom	Picked up Rubber in Anuradhapura.
+32	Tom	Dropped off load Oil.
+32	Tom	Moved 4 spaces.
+32	Briand	Moved 1 spaces.
+32	Briand	Picked up Millet in Bareilly.
+32	Briand	Drew card 52.
+32	Briand	Delivered Sugar for $19 to Bareilly.
+32	Briand	Moved 11 spaces.
+31	Tom	Built 6 segments for $10.
+31	Tom	Moved 1 spaces.
+31	Tom	Picked up Indigo in Colombo.
+31	Tom	Picked up Indigo in Colombo.
+31	Tom	Moved 5 spaces.
+31	Tom	Moved 6 spaces.
+31	Briand	Moved 12 spaces.
+30	Tom	Moved 6 spaces.
+30	Briand	Built 14 segments for $18.
+30	Briand	Moved 7 spaces.
+30	Briand	Picked up Sugar in Hyderabad P..
+30	Briand	Dropped off load Jute.
+30	Briand	Picked up Sugar in Hyderabad P..
+30	Briand	Dropped off load Gypsum.
+30	Briand	Moved 5 spaces.
+29	Tom	Built 5 segments for $10.
+29	Tom	Moved 3 spaces.
+29	Tom	Delivered bonus for $2 for card 900.
+29	Tom	Delivered bonus for $2 for card 900.
+29	Tom	Moved 6 spaces.
+29	Tom	Picked up Pilgrims in Vijayawada.
+29	Tom	Drew card 13.
+29	Tom	Delivered Bauxite for $10 to Vijayawada.
+29	Tom	Moved 3 spaces.
+29	Briand	Built 1 segments for $3.
+29	Briand	Moved 9 spaces.
+28	Tom	Built 11 segments for $20.
+28	Tom	Moved 12 spaces.
+28	Briand	Event Flood! [138] has ended.
+28	Briand	Moved 3 spaces.
+28	Briand	Picked up Dates in Quetta.
+28	Briand	Picked up Gypsum in Quetta.
+28	Briand	Drew card 12.
+28	Briand	Delivered Copper for $40 to Quetta.
+28	Briand	Moved 9 spaces.
+27	Tom	Built 13 segments for $20.
+27	Tom	Moved 6 spaces.
+27	Tom	Picked up Pilgrims in Ahmadabad.
+27	Tom	Drew card 24.
+27	Tom	Delivered Goats for $17 to Ahmadabad.
+27	Tom	Moved 6 spaces.
+27	Briand	Built 5 segments for $9.
+27	Briand	Moved 3 spaces.
+27	Briand	Drew card 103.
+27	Briand	Player had 1 tracks destroyed.
+27	Briand	Event Flood! [138] was drawn.
+27	Briand	Delivered Goats for $17 to Karachi.
+27	Briand	Moved 9 spaces.
+26	Tom	Built 6 segments for $8.
+26	Tom	Moved 7 spaces.
+26	Tom	Picked up Bauxite in Nagpur.
+26	Tom	Drew card 87.
+26	Tom	Delivered Cotton for $13 to Nagpur.
+26	Tom	Moved 5 spaces.
+26	Briand	Moved 12 spaces.
+25	Tom	Moved 12 spaces.
+25	Briand	Moved 12 spaces.
+24	Tom	Built 3 segments for $7.
+24	Tom	Moved 11 spaces.
+24	Tom	Picked up Cotton in Lahore.
+24	Tom	Dropped off load Millet.
+24	Tom	Picked up Goats in Lahore.
+24	Tom	Moved 1 spaces.
+24	Briand	Built 14 segments for $16.
+24	Briand	Moved 12 spaces.
+23	Tom	Built 17 segments for $20.
+23	Tom	Moved 5 spaces.
+23	Tom	Drew card 21.
+23	Tom	Delivered Coal for $19 to Ludhiana.
+23	Tom	Picked up Millet in Ludhiana.
+23	Tom	Drew card 32.
+23	Tom	Delivered Steel for $22 to Ludhiana.
+23	Tom	Moved 7 spaces.
+23	Briand	Moved 12 spaces.
+22	Tom	Moved 12 spaces.
+22	Briand	Moved 3 spaces.
+22	Briand	Picked up Goats in Kathmandu.
+22	Briand	Moved 9 spaces.
+21	Tom	Moved 6 spaces.
+21	Tom	Picked up Steel in Patna.
+21	Tom	Dropped off load Imports.
+21	Tom	Moved 6 spaces.
+21	Briand	Upgraded train to a Superfreight[12-3] for $20.
+21	Briand	Moved 12 spaces.
+20	Tom	Moved 4 spaces.
+20	Tom	Picked up Imports in Khulna.
+20	Tom	Moved 8 spaces.
+20	Briand	Upgraded train to a Fast Freight[12-2] for $20.
+20	Briand	Moved 4 spaces.
+20	Briand	Picked up Jute in Chittagong.
+20	Briand	Drew card 69.
+20	Briand	Delivered Gypsum for $50 to Chittagong.
+20	Briand	Moved 5 spaces.
+19	Tom	Upgraded train to a Superfreight[12-3] for $20.
+19	Tom	Moved 1 spaces.
+19	Tom	Picked up Coal in Guwahati.
+19	Tom	Moved 11 spaces.
+19	Briand	Built 2 segments for $5.
+19	Briand	Moved 9 spaces.
+18	Tom	Built 2 segments for $6.
+18	Tom	Delivered bonus for $2 for card 900.
+18	Tom	Moved 12 spaces.
+18	Briand	Built 12 segments for $20.
+18	Briand	Moved 3 spaces.
+18	Briand	Picked up Copper in Asansol.
+18	Briand	Moved 5 spaces.
+18	Briand	Drew card 60.
+18	Briand	Delivered Fish for $31 to Calcutta.
+18	Briand	Moved 1 spaces.
+17	Tom	Pitched and drew cards 129, 15, 89.
+17	Briand	Built 1 segments for $1.
+17	Briand	Moved 9 spaces.
+16	Tom	Picked up Pilgrims in Varanasi.
+16	Tom	Drew card 74.
+16	Tom	Delivered Rice for $15 to Varanasi.
+16	Tom	Moved 6 spaces.
+16	Briand	Moved 9 spaces.
+15	Tom	Moved 11 spaces.
+15	Tom	Picked up Rice in Dhaka.
+15	Tom	Dropped off load Pilgrims.
+15	Tom	Moved 1 spaces.
+15	Briand	Built 3 segments for $5.
+15	Briand	Moved 9 spaces.
+14	Tom	Upgraded train to a Fast Freight[12-2] for $20.
+14	Tom	Moved 9 spaces.
+14	Briand	Built 3 segments for $5.
+14	Briand	Moved 9 spaces.
+13	Tom	Built 2 segments for $8.
+13	Tom	Moved 4 spaces.
+13	Tom	Picked up Oil in Dibrugarh.
+13	Tom	Drew card 85.
+13	Tom	Delivered Machinery for $22 to Dibrugarh.
+13	Tom	Picked up Pilgrims in Dibrugarh.
+13	Tom	Drew card 33.
+13	Tom	Delivered Linseed Oil for $32 to Dibrugarh.
+13	Tom	Moved 5 spaces.
+13	Briand	Built 17 segments for $20.
+13	Briand	Picked up Fish in Mangalore.
+13	Briand	Moved 9 spaces.
+12	Tom	Moved 9 spaces.
+12	Briand	Built 13 segments for $20.
+12	Briand	Drew card 17.
+12	Briand	Delivered Gypsum for $50 to Madras.
+12	Briand	Moved 9 spaces.
+11	Tom	Moved 9 spaces.
+11	Briand	Moved 9 spaces.
+10	Tom	Moved 2 spaces.
+10	Tom	Picked up Machinery in Patna.
+10	Tom	Dropped off load Textiles.
+10	Tom	Moved 7 spaces.
+10	Briand	Moved 9 spaces.
+9	Tom	Built 2 segments for $5.
+9	Tom	Moved 2 spaces.
+9	Tom	Picked up Linseed Oil in Allahabad.
+9	Tom	Dropped off load Cotton.
+9	Tom	Moved 7 spaces.
+9	Briand	Moved 9 spaces.
+8	Tom	Built 13 segments for $20.
+8	Tom	Moved 9 spaces.
+8	Briand	Moved 9 spaces.
+7	Tom	Built 1 segments for $5.
+7	Tom	Moved 6 spaces.
+7	Tom	Picked up Cotton in Lahore.
+7	Tom	Drew card 63.
+7	Tom	Delivered Machinery for $17 to Lahore.
+7	Tom	Moved 3 spaces.
+7	Briand	Moved 2 spaces.
+7	Briand	Picked up Gypsum in Quetta.
+7	Briand	Dropped off load Textiles.
+7	Briand	Picked up Gypsum in Quetta.
+7	Briand	Dropped off load Rice.
+7	Briand	Moved 7 spaces.
+6	Tom	Moved 9 spaces.
+6	Briand	Moved 9 spaces.
+5	Tom	Built 4 segments for $8.
+5	Tom	Picked up Textiles in Agra.
+5	Tom	Drew card 79.
+5	Tom	Delivered Imports for $24 to Agra.
+5	Tom	Moved 9 spaces.
+5	Briand	Built 7 segments for $14.
+5	Briand	Moved 1 spaces.
+5	Briand	Picked up Rice in Hyderabad P..
+5	Briand	Drew card 123.
+5	Briand	Delivered Textiles for $15 to Hyderabad P..
+5	Briand	Moved 8 spaces.
+4	Tom	Moved 8 spaces.
+4	Tom	Picked up Machinery in Patna.
+4	Tom	Dropped off load Imports.
+4	Tom	Moved 1 spaces.
+4	Briand	Moved 9 spaces.
+3	Tom	Built 5 segments for $5.
+3	Tom	Moved 9 spaces.
+3	Tom	Picked up Imports in Khulna.
+3	Tom	Picked up Imports in Khulna.
+3	Briand	Built 9 segments for $10.
+3	Briand	Moved 9 spaces.
+3	Briand	Picked up Textiles in Hyderabad I..
+3	Briand	Picked up Textiles in Hyderabad I..
+2	Briand	Built 16 segments for $20.
+2	Tom	Built 14 segments for $20.
+1	Tom	Built 12 segments for $20.
+1	Briand	Built 15 segments for $20.

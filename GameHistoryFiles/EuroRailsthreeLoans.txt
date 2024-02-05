@@ -1,0 +1,501 @@
+62	Alex	Moved 7 spaces.
+62	Alex	Picked up Potatoes in Lodz.
+62	Alex	Moved 5 spaces.
+62	Briand	Moved 4 spaces.
+62	Briand	Picked up Oranges in Sevilla.
+62	Briand	Picked up Cork in Sevilla.
+62	Briand	Picked up Cork in Sevilla.
+62	Briand	Dropped off load Tobacco.
+62	Briand	Dropped off load Wheat.
+62	Briand	Moved 8 spaces.
+62	Chip	Moved 11 spaces.
+62	Chip	Picked up Oranges in Valencia.
+62	Chip	Drew card 116.
+62	Chip	Delivered Tourists for $35 to Valencia.
+62	Chip	Moved 1 spaces.
+61	Alex	Dropped off load Imports.
+61	Alex	Picked up Copper in Wroclaw.
+61	Alex	Moved 12 spaces.
+61	Briand	Moved 4 spaces.
+61	Briand	Drew card 99.
+61	Briand	Delivered Coal for $37 to Madrid.
+61	Briand	Moved 8 spaces.
+61	Chip	Moved 12 spaces.
+60	Alex	Moved 12 spaces.
+60	Briand	Moved 12 spaces.
+60	Chip	Moved 12 spaces.
+59	Alex	Moved 8 spaces.
+59	Alex	Drew card 7.
+59	Alex	Delivered Steel for $6 to Paris.
+59	Alex	Moved 4 spaces.
+59	Briand	Moved 4 spaces.
+59	Briand	Picked up Wheat in Lyon.
+59	Briand	Drew card 63.
+59	Briand	Delivered China for $23 to Lyon.
+59	Briand	Moved 8 spaces.
+59	Chip	Moved 12 spaces.
+58	Alex	Moved 2 spaces.
+58	Alex	Picked up Imports in Antwerpen.
+58	Alex	Drew card 22.
+58	Alex	Delivered Cars for $12 to Antwerpen.
+58	Alex	Moved 10 spaces.
+58	Briand	Moved 12 spaces.
+58	Chip	Picked up Tourists in Ruhr.
+58	Chip	Dropped off load Cork.
+58	Chip	Moved 12 spaces.
+57	Alex	Picked up Steel in Luxembourg.
+57	Alex	Drew card 80.
+57	Alex	Delivered Labor for $22 to Luxembourg.
+57	Alex	Moved 12 spaces.
+57	Briand	Moved 12 spaces.
+57	Chip	Moved 6 spaces.
+57	Chip	Moved 6 spaces.
+56	Alex	Moved 12 spaces.
+56	Briand	Moved 7 spaces.
+56	Briand	Picked up Coal in Wroclaw.
+56	Briand	Dropped off load China.
+56	Briand	Moved 5 spaces.
+56	Chip	Moved 4 spaces.
+55	Alex	Moved 3 spaces.
+55	Alex	Picked up Cars in Torino.
+55	Alex	Moved 9 spaces.
+55	Briand	Moved 9 spaces.
+55	Briand	Picked up China in Leipzig.
+55	Briand	Picked up China in Leipzig.
+55	Briand	Moved 3 spaces.
+55	Chip	Moved 1 spaces.
+55	Chip	Picked up Oil in Oslo.
+55	Chip	Dropped off load Imports.
+55	Chip	Picked up Wood in Oslo.
+55	Chip	Drew card 109.
+55	Chip	Delivered Cork for $73 to Oslo.
+55	Chip	Moved 5 spaces.
+55	Chip	Moved 6 spaces.
+54	Alex	Built 9 segments for $17.
+54	Alex	Moved 10 spaces.
+54	Alex	Drew card 110.
+54	Alex	Delivered Tourists for $32 to Napoli.
+54	Alex	Moved 2 spaces.
+54	Briand	Moved 12 spaces.
+54	Chip	Moved 12 spaces.
+53	Alex	Moved 12 spaces.
+53	Briand	Moved 12 spaces.
+53	Chip	Picked up Imports in Hamburg.
+53	Chip	Drew card 57.
+53	Chip	Delivered Cork for $51 to Hamburg.
+53	Chip	Moved 12 spaces.
+52	Alex	Moved 12 spaces.
+52	Briand	Event Heavy Snow [151] has ended.
+52	Briand	Moved 12 spaces.
+52	Chip	Moved 12 spaces.
+51	Alex	Moved 11 spaces.
+51	Alex	Picked up Labor in Sarajevo.
+51	Alex	Drew card 118.
+51	Alex	Delivered Potatoes for $22 to Sarajevo.
+51	Alex	Moved 1 spaces.
+51	Briand	Built 7 segments for $10.
+51	Briand	Moved 9 spaces.
+51	Briand	Drew card 91.
+51	Briand	Event Heavy Snow [151] was drawn.
+51	Briand	Delivered Wheat for $15 to Madrid.
+51	Briand	Drew card 97.
+51	Alex	Player was taxed $20.
+51	Chip	Player was taxed $15.
+51	Briand	Event Excess Profits Tax! [150] was drawn.
+51	Briand	Delivered Tourists for $35 to Madrid.
+51	Briand	Moved 3 spaces.
+51	Chip	Moved 12 spaces.
+50	Alex	Moved 12 spaces.
+50	Briand	Moved 12 spaces.
+50	Chip	Moved 12 spaces.
+49	Alex	Moved 12 spaces.
+49	Briand	Moved 9 spaces.
+49	Briand	Picked up Wheat in Lyon.
+49	Briand	Dropped off load Beer.
+49	Briand	Moved 3 spaces.
+49	Chip	Moved 12 spaces.
+48	Alex	Moved 9 spaces.
+48	Alex	Picked up Potatoes in Szczesin.
+48	Alex	Moved 3 spaces.
+48	Briand	Moved 12 spaces.
+48	Chip	Built 7 segments for $16.
+48	Chip	Moved 1 spaces.
+48	Chip	Picked up Cork in Sevilla.
+48	Chip	Picked up Cork in Sevilla.
+48	Chip	Picked up Cork in Sevilla.
+48	Chip	Dropped off load Wine.
+48	Chip	Dropped off load Wheat.
+48	Chip	Dropped off load Wheat.
+48	Chip	Moved 11 spaces.
+47	Alex	Moved 9 spaces.
+47	Alex	Drew card 1.
+47	Alex	Delivered Oil for $24 to Bremen.
+47	Alex	Moved 3 spaces.
+47	Briand	Built 2 segments for $6.
+47	Briand	Moved 11 spaces.
+47	Briand	Picked up Tourists in Ruhr.
+47	Briand	Dropped off load China.
+47	Briand	Moved 1 spaces.
+47	Chip	Moved 12 spaces.
+46	Alex	Built 9 segments for $11.
+46	Alex	Moved 6 spaces.
+46	Alex	Picked up Tourists in Ruhr.
+46	Alex	Drew card 44.
+46	Alex	Delivered Wood for $27 to Ruhr.
+46	Alex	Moved 6 spaces.
+46	Briand	Moved 12 spaces.
+46	Chip	Built 15 segments for $19.
+46	Chip	Moved 12 spaces.
+45	Alex	Moved 12 spaces.
+45	Briand	Moved 2 spaces.
+45	Briand	Picked up Beer in Munchen.
+45	Briand	Drew card 20.
+45	Briand	Delivered Tobacco for $22 to Munchen.
+45	Briand	Moved 10 spaces.
+45	Chip	Pitched and drew cards 140, 38, 124.
+44	Alex	Moved 12 spaces.
+44	Briand	Built 7 segments for $9.
+44	Briand	Moved 12 spaces.
+44	Chip	Pitched and drew cards 86, 61, 78.
+43	Alex	Moved 12 spaces.
+43	Briand	Built 13 segments for $20.
+43	Briand	Moved 8 spaces.
+43	Briand	Picked up Tobacco in Napoli.
+43	Briand	Picked up Tobacco in Napoli.
+43	Briand	Moved 4 spaces.
+43	Chip	Event Heavy Snow [154] has ended.
+43	Chip	Built 3 segments for $7.
+43	Chip	Picked up Wheat in Lyon.
+43	Chip	Picked up Wheat in Lyon.
+43	Chip	Drew card 39.
+43	Chip	Delivered Wood for $28 to Lyon.
+43	Chip	Moved 9 spaces, paying $4 for rent to Briand
+42	Alex	Picked up Oil in Beograd.
+42	Alex	Moved 10 spaces.
+42	Alex	Picked up Wood in Sarajevo.
+42	Alex	Moved 2 spaces.
+42	Briand	Upgraded train to a Superfreight[12-3] for $20.
+42	Briand	Moved 12 spaces.
+42	Chip	Built 1 segments for $3.
+42	Chip	Moved 2 spaces.
+42	Chip	Drew card 33.
+42	Chip	Event Heavy Snow [154] was drawn.
+42	Chip	Delivered Wood for $17 to Milano.
+42	Chip	Moved 7 spaces, paying $4 for rent to Alex
+41	Alex	Moved 12 spaces.
+41	Briand	Event Wildcat Strike! [149] has ended.
+41	Chip	Moved 12 spaces, paying $4 for rent to
+40	Alex	Moved 12 spaces.
+40	Briand	Drew card 28.
+40	Briand	Event Wildcat Strike! [149] was drawn.
+40	Briand	Delivered Cork for $46 to Venezia.
+40	Briand	Moved 11 spaces.
+40	Chip	Moved 1 spaces.
+40	Chip	Picked up Wood in Sarajevo.
+40	Chip	Picked up Wood in Sarajevo.
+40	Chip	Dropped off load Steel.
+40	Chip	Dropped off load Oranges.
+40	Chip	Moved 11 spaces, paying $4 for rent to
+39	Alex	Moved 11 spaces.
+39	Alex	Drew card 40.
+39	Alex	Delivered Coal for $33 to Napoli.
+39	Alex	Moved 1 spaces.
+39	Briand	Upgraded train to a Fast Freight[12-2] for $20.
+39	Briand	Moved 9 spaces.
+39	Chip	Moved 3 spaces.
+38	Alex	Moved 12 spaces.
+38	Briand	Built 2 segments for $4.
+38	Briand	Moved 4 spaces.
+38	Briand	Picked up China in Leipzig.
+38	Briand	Drew card 23.
+38	Briand	Delivered Cork for $52 to Leipzig.
+38	Briand	Moved 5 spaces.
+38	Chip	Pitched and drew cards 128, 85, 35.
+37	Alex	Moved 12 spaces.
+37	Briand	Moved 9 spaces.
+37	Chip	Event Gales [161] has ended.
+37	Chip	Pitched and drew cards 82, 141, 14.
+36	Alex	Moved 12 spaces.
+36	Briand	Moved 9 spaces.
+36	Chip	Moved 2 spaces.
+36	Chip	Picked up Wine in Wien.
+36	Chip	Drew card 54.
+36	Chip	Event Tooling Needed! [167] was drawn.
+36	Chip	Event Gales [161] was drawn.
+36	Chip	Delivered Cork for $53 to Wien.
+36	Chip	Moved 7 spaces.
+35	Alex	Built 5 segments for $9.
+35	Alex	Moved 3 spaces.
+35	Alex	Drew card 72.
+35	Alex	Delivered Imports for $25 to Budapest.
+35	Alex	Moved 9 spaces.
+35	Briand	Moved 9 spaces.
+35	Chip	Built 3 segments for $3.
+35	Chip	Moved 12 spaces.
+35	Chip	Picked up Steel in Ruhr.
+35	Chip	Dropped off load Oil.
+34	Alex	Moved 5 spaces.
+34	Alex	Picked up Coal in Wroclaw.
+34	Alex	Moved 7 spaces.
+34	Briand	Moved 9 spaces.
+34	Chip	Moved 6 spaces.
+34	Chip	Moved 6 spaces.
+33	Alex	Built 9 segments for $13.
+33	Alex	Moved 8 spaces.
+33	Alex	Picked up Imports in Hamburg.
+33	Alex	Dropped off load Cheese.
+33	Alex	Moved 4 spaces.
+33	Briand	Moved 9 spaces.
+33	Chip	Moved 8 spaces.
+32	Alex	Built 11 segments for $20.
+32	Alex	Moved 3 spaces.
+32	Alex	Drew card 136.
+32	Alex	Delivered Cattle for $17 to Berlin.
+32	Alex	Moved 9 spaces.
+32	Briand	Moved 9 spaces.
+32	Briand	Picked up Cork in Sevilla.
+32	Chip	Moved 5 spaces.
+32	Chip	Picked up Oil in Newcastle.
+32	Chip	Drew card 16.
+32	Chip	Delivered Cork for $55 to Newcastle.
+32	Chip	Moved 7 spaces.
+31	Alex	Moved 4 spaces.
+31	Alex	Picked up Cheese in Holland.
+31	Alex	Drew card 24.
+31	Alex	Delivered Labor for $23 to Holland.
+31	Alex	Moved 8 spaces.
+31	Briand	Picked up Cork in Sevilla.
+31	Briand	Dropped off load Wine.
+31	Briand	Dropped off load Wine.
+31	Briand	Moved 3 spaces.
+31	Chip	Moved 6 spaces.
+31	Chip	Moved 6 spaces.
+30	Alex	Moved 11 spaces.
+30	Alex	Picked up Cattle in Bern.
+30	Alex	Moved 1 spaces.
+30	Briand	Moved 9 spaces.
+30	Chip	Moved 4 spaces.
+29	Alex	Moved 5 spaces.
+29	Alex	Drew card 15.
+29	Alex	Delivered Copper for $20 to Milano.
+29	Alex	Moved 7 spaces.
+29	Briand	Moved 9 spaces.
+29	Chip	Moved 12 spaces.
+28	Alex	Moved 12 spaces.
+28	Briand	Moved 9 spaces.
+28	Chip	Moved 12 spaces.
+27	Alex	Moved 7 spaces.
+27	Alex	Picked up Copper in Beograd.
+27	Alex	Picked up Labor in Beograd.
+27	Alex	Moved 5 spaces.
+27	Briand	Moved 9 spaces.
+27	Chip	Moved 12 spaces.
+26	Alex	Moved 12 spaces.
+26	Briand	Built 6 segments for $20.
+26	Briand	Moved 9 spaces.
+26	Chip	Moved 12 spaces.
+25	Alex	Built 8 segments for $12.
+25	Alex	Moved 12 spaces.
+25	Briand	Built 10 segments for $19.
+25	Briand	Moved 9 spaces.
+25	Chip	Pitched and drew cards 112, 37, 138.
+24	Alex	Built 18 segments for $20.
+24	Alex	Moved 12 spaces.
+24	Briand	Event Derailments [162] has ended.
+24	Briand	Built 15 segments for $20.
+24	Briand	Moved 9 spaces.
+24	Chip	Event Gales [160] has ended.
+24	Chip	Built 12 segments for $20.
+24	Chip	Moved 6 spaces.
+24	Chip	Picked up Oranges in Sevilla.
+24	Chip	Picked up Cork in Sevilla.
+24	Chip	Picked up Cork in Sevilla.
+24	Chip	Dropped off load China.
+24	Chip	Dropped off load Tourists.
+24	Chip	Moved 6 spaces.
+23	Alex	Drew card 89.
+23	Alex	Delivered Cheese for $23 to Napoli.
+23	Alex	Moved 2 spaces.
+23	Alex	Moved 10 spaces.
+23	Briand	Moved 1 spaces.
+23	Briand	Picked up Wine in Wien.
+23	Briand	Picked up Wine in Wien.
+23	Briand	Drew card 144.
+23	Briand	Event Derailments [162] was drawn.
+23	Briand	Delivered Imports for $19 to Wien.
+23	Briand	Moved 8 spaces.
+23	Chip	Pitched and drew cards 134, 83, 107.
+23	Chip	Event Gales [160] was drawn.
+22	Alex	Moved 12 spaces.
+22	Briand	Moved 9 spaces.
+22	Chip	Event Derailments [163] has ended.
+22	Chip	Pitched and drew cards 66, 143, 70.
+21	Alex	Moved 1 spaces.
+21	Alex	Drew card 69.
+21	Alex	Delivered Steel for $16 to Torino.
+21	Alex	Moved 11 spaces.
+21	Briand	Player's turn was skipped due to an event.
+21	Briand	Dropped off load Wood.
+21	Chip	Pitched and drew cards 45, 36, 64.
+21	Briand	1 load(s) must be dropped.
+21	Briand	1 turn(s) has been lost.
+21	Chip	Event Derailments [163] was drawn.
+20	Alex	Moved 9 spaces.
+20	Alex	Picked up Steel in Ruhr.
+20	Alex	Moved 3 spaces.
+20	Briand	Moved 6 spaces.
+20	Briand	Picked up Imports in Hamburg.
+20	Briand	Dropped off load Wood.
+20	Briand	Moved 3 spaces.
+20	Chip	Moved 7 spaces.
+20	Chip	Drew card 17.
+20	Chip	Delivered Flowers for $35 to Madrid.
+20	Chip	Moved 3 spaces.
+19	Alex	Moved 12 spaces.
+19	Briand	Moved 4 spaces.
+19	Briand	Moved 5 spaces.
+19	Chip	Built 12 segments for $17.
+19	Chip	Moved 12 spaces.
+18	Alex	Moved 12 spaces.
+18	Briand	Built 9 segments for $15.
+18	Briand	Moved 6 spaces.
+18	Chip	Moved 12 spaces.
+17	Alex	Built 2 segments for $4.
+17	Alex	Moved 4 spaces.
+17	Alex	Drew card 114.
+17	Alex	Event Something Special! [168] was drawn.
+17	Alex	Delivered Steel for $19 to Warszawa.
+17	Alex	Moved 8 spaces.
+17	Briand	Built 14 segments for $18.
+17	Briand	Moved 8 spaces.
+17	Briand	Picked up Wood in Stockholm.
+17	Briand	Dropped off load Potatoes.
+17	Briand	Picked up Wood in Stockholm.
+17	Briand	Drew card 142.
+17	Briand	Delivered Beer for $36 to Stockholm.
+17	Briand	Moved 1 spaces.
+17	Chip	Moved 12 spaces.
+16	Alex	Built 8 segments for $14.
+16	Alex	Moved 6 spaces.
+16	Briand	Moved 9 spaces.
+16	Chip	Built 10 segments for $14.
+16	Chip	Picked up Tourists in Ruhr.
+16	Chip	Moved 11 spaces.
+16	Chip	Picked up China in Leipzig.
+16	Chip	Drew card 84.
+16	Chip	Delivered Fish for $30 to Leipzig.
+16	Chip	Moved 1 spaces.
+15	Alex	Event Gales [159] has ended.
+15	Alex	Built 6 segments for $8.
+15	Alex	Moved 7 spaces.
+15	Briand	Moved 4 spaces.
+15	Briand	Moved 5 spaces.
+15	Chip	Upgraded train to a Superfreight[12-3] for $20.
+15	Chip	Moved 12 spaces.
+15	Chip	Picked up Flowers in Holland.
+14	Alex	Moved 8 spaces.
+14	Alex	Picked up Cheese in Holland.
+14	Alex	Drew card 90.
+14	Alex	Event Gales [159] was drawn.
+14	Alex	Delivered Potatoes for $12 to Holland.
+14	Alex	Moved 4 spaces.
+14	Briand	Built 2 segments for $7.
+14	Briand	Moved 1 spaces.
+14	Chip	Built 11 segments for $18.
+14	Chip	Drew card 106.
+14	Chip	Delivered Oranges for $33 to Holland.
+14	Chip	Moved 12 spaces.
+13	Alex	Moved 12 spaces.
+13	Briand	Built 13 segments for $20.
+13	Briand	Moved 4 spaces.
+13	Briand	Picked up Potatoes in Szczesin.
+13	Briand	Drew card 56.
+13	Briand	Delivered Tobacco for $36 to Szczesin.
+13	Briand	Moved 2 spaces.
+13	Chip	Moved 12 spaces.
+12	Alex	Upgraded train to a Fast Freight[12-2] for $20.
+12	Alex	Picked up Potatoes in Szczesin.
+12	Alex	Moved 3 spaces.
+12	Alex	Drew card 42.
+12	Alex	Delivered Tobacco for $32 to Berlin.
+12	Alex	Moved 6 spaces.
+12	Briand	Moved 9 spaces.
+12	Chip	Moved 12 spaces.
+11	Alex	Moved 9 spaces.
+11	Briand	Built 3 segments for $3.
+11	Briand	Moved 4 spaces.
+11	Briand	Picked up Beer in Frankfurt.
+11	Briand	Dropped off load Tobacco.
+11	Briand	Moved 5 spaces.
+11	Chip	Moved 12 spaces.
+10	Alex	Moved 9 spaces.
+10	Briand	Moved 9 spaces.
+10	Chip	Upgraded train to a Fast Freight[12-2] for $20.
+10	Chip	Moved 8 spaces.
+10	Chip	Picked up Fish in Porto.
+10	Chip	Moved 1 spaces.
+9	Alex	Moved 2 spaces.
+9	Alex	Moved 7 spaces.
+9	Briand	Moved 9 spaces.
+9	Chip	Moved 9 spaces.
+8	Alex	Built 3 segments for $5.
+8	Alex	Moved 9 spaces.
+8	Briand	Moved 9 spaces.
+8	Chip	Built 15 segments for $20.
+8	Chip	Moved 1 spaces.
+8	Chip	Moved 2 spaces.
+8	Chip	Drew card 26.
+8	Chip	Delivered Cheese for $30 to Madrid.
+8	Chip	Moved 6 spaces.
+7	Alex	Built 2 segments for $2.
+7	Alex	Moved 6 spaces.
+7	Alex	Picked up Tobacco in Napoli.
+7	Alex	Moved 3 spaces.
+7	Briand	Picked up Tobacco in Napoli.
+7	Briand	Dropped off load Chocolate.
+7	Briand	Picked up Tobacco in Napoli.
+7	Briand	Dropped off load Potatoes.
+7	Briand	Moved 9 spaces.
+7	Chip	Built 9 segments for $12.
+7	Chip	Moved 4 spaces.
+7	Chip	Picked up Oranges in Valencia.
+7	Chip	Drew card 13.
+7	Chip	Delivered Flowers for $34 to Valencia.
+7	Chip	Moved 4 spaces.
+6	Alex	Built 16 segments for $20.
+6	Alex	Moved 2 spaces.
+6	Alex	Drew card 4.
+6	Alex	Delivered Tourists for $28 to Roma.
+6	Alex	Moved 2 spaces.
+6	Briand	Moved 9 spaces.
+6	Chip	Built 5 segments for $9.
+6	Chip	Moved 9 spaces.
+5	Alex	Moved 9 spaces.
+5	Briand	Built 13 segments for $17.
+5	Briand	Moved 6 spaces.
+5	Briand	Picked up Chocolate in Zurich.
+5	Briand	Drew card 65.
+5	Briand	Delivered Potatoes for $20 to Zurich.
+5	Briand	Moved 3 spaces.
+5	Chip	Built 1 segments for $1.
+5	Chip	Moved 9 spaces.
+4	Alex	Moved 9 spaces.
+4	Briand	Moved 9 spaces.
+4	Chip	Moved 9 spaces.
+3	Alex	Built 6 segments for $11.
+3	Alex	Moved 9 spaces.
+3	Alex	Picked up Tourists in Ruhr.
+3	Alex	Picked up Steel in Ruhr.
+3	Briand	Built 8 segments for $11.
+3	Briand	Moved 9 spaces.
+3	Briand	Picked up Potatoes in Szczesin.
+3	Briand	Picked up Potatoes in Szczesin.
+3	Chip	Moved 9 spaces.
+3	Chip	Picked up Cheese in Holland.
+3	Chip	Picked up Flowers in Holland.
+2	Chip	Built 16 segments for $20.
+2	Briand	Built 9 segments for $20.
+2	Alex	Built 10 segments for $19.
+1	Alex	Built 13 segments for $20.
+1	Briand	Built 12 segments for $19.
+1	Chip	Built 17 segments for $20.
