@@ -115,15 +115,18 @@
             document.getElementById('stats').innerHTML = statsText;
 
             var datasets = [];
+            var colors = ['blue', 'red', 'orange', 'yellow', 'green', 'purple', 'black', 'pink'];
+            var colorIndex = 0;
             for (var player in players) {
                 datasets.push({
                     label: player,
                     data: players[player].history,
                     fill: false,
-                    borderColor: '#' + Math.floor(Math.random()*16777215).toString(16), // Random color
+                    borderColor: colors[colorIndex % colors.length],
                 });
+                colorIndex++;
             }
-
+            
             var ctx = document.getElementById('myChart').getContext('2d');
             new Chart(ctx, {
                 type: 'line',

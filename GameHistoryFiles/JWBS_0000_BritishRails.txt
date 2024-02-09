@@ -1,0 +1,392 @@
+62	Briand	Moved 6 spaces.
+62	Briand	Drew card 41.
+62	Briand	Event Flood! [139] was drawn.
+62	Briand	Delivered Rubber for $39 to Newcastle.
+62	Briand	Moved 4 spaces.
+62	Briand	Drew card 73.
+62	Briand	Delivered Steel for $12 to Middlesbrough.
+62	Briand	Moved 2 spaces.
+62	judd	Drew card 108.
+62	judd	Delivered Con Mats for $41 to Edinburgh.
+62	judd	Picked up Coal in Edinburgh.
+62	judd	Moved 8 spaces.
+62	judd	Drew card 22.
+62	judd	Delivered Oats for $9 to Glasgow.
+62	judd	Moved 3 spaces.
+61	Briand	Built 1 segments for $3.
+61	Briand	Moved 12 spaces.
+61	judd	Built 2 segments for $4.
+61	judd	Moved 7 spaces.
+61	judd	Picked up Oats in Dumfries.
+61	judd	Dropped off load Jute.
+61	judd	Moved 5 spaces.
+60	Briand	Moved 12 spaces.
+60	judd	Moved 12 spaces.
+59	Briand	Picked up Steel in Birmingham.
+59	Briand	Dropped off load Textiles.
+59	Briand	Moved 12 spaces.
+59	judd	Moved 12 spaces.
+58	Briand	Moved 9 spaces.
+58	Briand	Picked up Con Mats in Cambridge.
+58	Briand	Dropped off load Hops.
+58	Briand	Moved 3 spaces.
+58	judd	Moved 12 spaces.
+58	judd	Picked up Con Mats in Cambridge.
+58	judd	Dropped off load Imports.
+57	Briand	Moved 12 spaces.
+57	judd	Pitched and drew cards 61, 2, 79.
+56	Briand	Moved 5 spaces.
+56	Briand	Picked up Rubber in Southampton.
+56	Briand	Moved 7 spaces.
+56	judd	Moved 7 spaces.
+56	judd	Picked up Tourists in London.
+56	judd	Dropped off load Con Mats.
+56	judd	Picked up Imports in London.
+56	judd	Drew card 43.
+56	judd	Delivered Coal for $22 to London.
+56	judd	Moved 4 spaces.
+55	Briand	Moved 9 spaces.
+55	Briand	Drew card 56.
+55	Briand	Delivered Machinery for $16 to Brighton.
+55	Briand	Moved 3 spaces.
+55	judd	Moved 3 spaces.
+55	judd	Picked up Con Mats in Cambridge.
+55	judd	Drew card 47.
+55	judd	Delivered Cotton for $22 to Cambridge.
+55	judd	Moved 9 spaces.
+54	Briand	Moved 12 spaces.
+54	judd	Moved 12 spaces.
+53	Briand	Moved 2 spaces.
+53	Briand	Picked up Hops in Dover.
+53	Briand	Drew card 67.
+53	Briand	Delivered Coal for $34 to Dover.
+53	Briand	Moved 10 spaces.
+53	judd	Built 6 segments for $6.
+53	judd	Moved 6 spaces.
+53	judd	Picked up Cotton in Liverpool.
+53	judd	Dropped off load Pigs.
+53	judd	Moved 6 spaces.
+53	judd	Picked up Coal in Manchester.
+53	judd	Dropped off load Textiles.
+52	Briand	Moved 12 spaces.
+52	judd	Pitched and drew cards 59, 96, 19.
+51	Briand	Built 6 segments for $8.
+51	Briand	Picked up Machinery in Ipswich.
+51	Briand	Drew card 124.
+51	Briand	Delivered Coal for $19 to Ipswich.
+51	Briand	Moved 12 spaces.
+51	judd	Built 2 segments for $2.
+51	judd	Moved 1 spaces.
+51	judd	Picked up Textiles in Manchester.
+51	judd	Moved 6 spaces.
+51	judd	Drew card 11.
+51	judd	Delivered Jute for $24 to Lancaster.
+51	judd	Moved 4 spaces.
+50	Briand	Moved 12 spaces.
+50	judd	Built 1 segments for $3.
+50	judd	Moved 2 spaces.
+49	Briand	Built 2 segments for $6.
+49	Briand	Moved 12 spaces.
+49	Briand	Picked up Coal in Manchester.
+49	Briand	Dropped off load Cotton.
+49	judd	Pitched and drew cards 107, 101, 13.
+48	Briand	Event Flood! [138] has ended.
+48	Briand	Event Lorry Drivers Strike! [153] has ended.
+48	Briand	Event Derailment! [141] has ended.
+48	judd	Event Heavy Fog! [137] has ended.
+48	judd	Pitched and drew cards 50, 86, 53.
+47	Briand	Moved 6 spaces.
+47	Briand	Picked up Cotton in Liverpool.
+47	Briand	Drew card 55.
+47	Briand	Event Derailment! [141] was drawn.
+47	Briand	Event Lorry Drivers Strike! [153] was drawn.
+47	Briand	Player had 1 tracks destroyed.
+47	judd	Player had 1 tracks destroyed.
+47	Briand	Player had 1 tracks destroyed.
+47	Briand	Event Flood! [138] was drawn.
+47	Briand	Delivered Machinery for $11 to Liverpool.
+47	Briand	Moved 1 spaces.
+47	judd	Pitched and drew cards 29, 69, 31.
+47	judd	Event Heavy Fog! [137] was drawn.
+46	Briand	Moved 12 spaces.
+46	judd	Moved 6 spaces.
+46	judd	Picked up Pigs in Lancaster.
+46	judd	Drew card 20.
+46	judd	Delivered Con Mats for $22 to Lancaster.
+46	judd	Moved 5 spaces.
+45	Briand	Event Irish Sea Gales! [151] has ended.
+45	Briand	Moved 12 spaces.
+45	judd	Moved 4 spaces.
+44	Briand	Moved 4 spaces.
+44	Briand	Picked up Machinery in Carlisle.
+44	Briand	Drew card 126.
+44	Briand	Event Irish Sea Gales! [151] was drawn.
+44	Briand	Delivered Con Mats for $30 to Carlisle.
+44	Briand	Moved 8 spaces.
+44	judd	Built 2 segments for $4.
+44	judd	Moved 12 spaces.
+43	Briand	Moved 2 spaces.
+43	Briand	Picked up Coal in Newcastle.
+43	Briand	Drew card 120.
+43	Briand	Delivered Beer for $27 to Newcastle.
+43	Briand	Moved 10 spaces.
+43	judd	Moved 12 spaces.
+42	Briand	Moved 5 spaces.
+42	Briand	Picked up Textiles in Leeds.
+42	Briand	Drew card 36.
+42	Briand	Delivered Con Mats for $17 to Leeds.
+42	Briand	Moved 7 spaces.
+42	judd	Event Wildcat Strike! [146] has ended.
+42	judd	Event Scottish Rail Strike! [145] has ended.
+41	Briand	Moved 12 spaces.
+41	judd	Event Heavy Snow! [149] has ended.
+41	judd	Pitched and drew cards 116, 26, 122.
+41	judd	Event Scottish Rail Strike! [145] was drawn.
+41	judd	Event Wildcat Strike! [146] was drawn.
+40	Briand	Moved 12 spaces.
+40	judd	Pitched and drew cards 71, 40, 123.
+40	judd	Event Heavy Snow! [149] was drawn.
+39	Briand	Moved 9 spaces.
+39	Briand	Picked up Con Mats in Cambridge.
+39	Briand	Dropped off load Rubber.
+39	Briand	Moved 3 spaces.
+39	judd	Pitched and drew cards 113, 16, 128.
+38	Briand	Moved 10 spaces.
+38	Briand	Picked up Beer in Reading.
+38	Briand	Dropped off load Cotton.
+38	Briand	Moved 2 spaces.
+38	judd	Moved 2 spaces.
+38	judd	Picked up Jute in Dundee.
+38	judd	Picked up Jute in Dundee.
+38	judd	Drew card 64.
+38	judd	Delivered Sugar for $33 to Dundee.
+38	judd	Drew card 46.
+38	judd	Delivered Con Mats for $44 to Dundee.
+38	judd	Moved 10 spaces.
+37	Briand	Moved 12 spaces.
+37	judd	Moved 12 spaces.
+36	Briand	Moved 5 spaces.
+36	Briand	Picked up Rubber in Southampton.
+36	Briand	Dropped off load Hops.
+36	Briand	Moved 7 spaces.
+36	judd	Moved 12 spaces.
+35	Briand	Moved 12 spaces.
+35	judd	Moved 12 spaces.
+34	Briand	Moved 1 spaces.
+34	Briand	Picked up Con Mats in Cambridge.
+34	Briand	Dropped off load Coal.
+34	Briand	Moved 11 spaces.
+34	judd	Moved 8 spaces.
+34	judd	Picked up Sugar in Lincoln.
+34	judd	Dropped off load Jute.
+34	judd	Moved 4 spaces.
+33	Briand	Built 4 segments for $8.
+33	Briand	Moved 8 spaces.
+33	Briand	Picked up Hops in Dover.
+33	Briand	Drew card 68.
+33	Briand	Delivered Fish for $31 to Dover.
+33	Briand	Moved 4 spaces.
+33	judd	Moved 12 spaces.
+32	Briand	Moved 12 spaces.
+32	judd	Moved 1 spaces.
+32	judd	Picked up Con Mats in Cambridge.
+32	judd	Dropped off load Chemicals.
+32	judd	Picked up Con Mats in Cambridge.
+32	judd	Moved 11 spaces.
+31	Briand	Moved 12 spaces.
+31	judd	Built 11 segments for $19.
+31	judd	Moved 1 spaces.
+31	judd	Drew card 63.
+31	judd	Delivered Jute for $37 to Nottingham.
+31	judd	Moved 5 spaces.
+30	Briand	Moved 12 spaces.
+30	judd	Built 4 segments for $8.
+30	judd	Moved 12 spaces.
+29	Briand	Built 9 segments for $11.
+29	Briand	Moved 12 spaces.
+29	judd	Moved 12 spaces.
+28	Briand	Built 13 segments for $20.
+28	Briand	Moved 5 spaces.
+28	Briand	Picked up Coal in Hull.
+28	Briand	Dropped off load Tourists.
+28	Briand	Picked up Fish in Hull.
+28	Briand	Moved 7 spaces.
+28	judd	Moved 12 spaces.
+27	Briand	Built 16 segments for $20.
+27	Briand	Moved 8 spaces.
+27	Briand	Drew card 112.
+27	Briand	Delivered Rubber for $37 to Middlesbrough.
+27	Briand	Moved 4 spaces.
+27	judd	Built 10 segments for $16.
+27	judd	Moved 12 spaces.
+26	Briand	Moved 12 spaces.
+26	judd	Picked up Jute in Dundee.
+26	judd	Picked up Jute in Dundee.
+26	judd	Dropped off load Cars.
+26	judd	Moved 12 spaces.
+25	Briand	Moved 1 spaces.
+25	Briand	Picked up Cotton in Liverpool.
+25	Briand	Moved 11 spaces.
+25	judd	Drew card 39.
+25	judd	Event Goods Shortage in Wales! [155] was drawn.
+25	judd	Delivered Beer for $39 to Glasgow.
+25	judd	Moved 4 spaces.
+25	judd	Picked up Chemicals in Ayr.
+25	judd	Drew card 32.
+25	judd	Delivered Cotton for $25 to Ayr.
+25	judd	Moved 8 spaces.
+24	Briand	Moved 1 spaces.
+24	Briand	Drew card 95.
+24	Briand	Delivered Rubber for $34 to Holyhead.
+24	Briand	Moved 11 spaces.
+24	judd	Moved 12 spaces.
+23	Briand	Moved 12 spaces.
+23	judd	Moved 12 spaces.
+22	Briand	Built 11 segments for $18.
+22	Briand	Moved 12 spaces.
+22	judd	Moved 9 spaces.
+22	judd	Picked up Cars in Birmingham.
+22	judd	Moved 3 spaces.
+21	Briand	Built 10 segments for $17.
+21	Briand	Moved 12 spaces.
+21	judd	Upgraded train to a Superfreight[12-3] for $20.
+21	judd	Moved 3 spaces.
+21	judd	Picked up Beer in Northampton.
+21	judd	Dropped off load Cotton.
+21	judd	Moved 9 spaces.
+20	Briand	Built 10 segments for $20.
+20	Briand	Picked up Tourists in London.
+20	Briand	Dropped off load Imports.
+20	Briand	Moved 10 spaces.
+20	Briand	Picked up Imports in Southampton.
+20	Briand	Dropped off load Cotton.
+20	Briand	Picked up Rubber in Southampton.
+20	Briand	Dropped off load Oil.
+20	Briand	Picked up Rubber in Southampton.
+20	Briand	Drew card 82.
+20	Briand	Delivered Cattle for $17 to Southampton.
+20	Briand	Moved 2 spaces.
+20	judd	Event Derailment! [143] has ended.
+20	judd	Moved 12 spaces.
+19	Briand	Moved 2 spaces.
+19	Briand	Picked up Oil in Portsmouth.
+19	Briand	Drew card 99.
+19	Briand	Delivered Coal for $28 to Portsmouth.
+19	Briand	Moved 10 spaces.
+19	judd	Built 6 segments for $10.
+19	judd	Moved 4 spaces.
+19	judd	Picked up Cotton in Liverpool.
+19	judd	Picked up Cotton in Liverpool.
+19	judd	Drew card 88.
+19	judd	Delivered Jute for $30 to Liverpool.
+19	judd	Drew card 35.
+19	judd	Event Derailment! [143] was drawn.
+19	judd	Delivered Oats for $20 to Liverpool.
+19	judd	Moved 8 spaces.
+18	Briand	Built 1 segments for $3.
+18	Briand	Moved 10 spaces.
+18	Briand	Picked up Cattle in Colchester.
+18	Briand	Drew card 105.
+18	Briand	Delivered Cotton for $28 to Colchester.
+18	Briand	Moved 2 spaces.
+18	judd	Moved 12 spaces.
+17	Briand	Moved 12 spaces.
+17	judd	Built 1 segments for $1.
+17	judd	Moved 2 spaces.
+17	judd	Picked up Oats in Dumfries.
+17	judd	Moved 10 spaces.
+16	Briand	Moved 12 spaces.
+16	judd	Built 12 segments for $17.
+16	judd	Moved 2 spaces.
+16	judd	Drew card 6.
+16	judd	Delivered Jute for $10 to Glasgow.
+16	judd	Moved 10 spaces.
+16	judd	Picked up Jute in Dundee.
+16	judd	Dropped off load Chemicals.
+15	Briand	Moved 11 spaces.
+15	Briand	Picked up Coal in Manchester.
+15	Briand	Dropped off load Barley.
+15	Briand	Moved 1 spaces.
+15	judd	Event North Sea Gales! [150] has ended.
+15	judd	Upgraded train to a Fast Freight[12-2] for $20.
+14	Briand	Built 10 segments for $12.
+14	Briand	Moved 3 spaces.
+14	Briand	Picked up Cotton in Liverpool.
+14	Briand	Dropped off load Machinery.
+14	Briand	Picked up Cotton in Liverpool.
+14	Briand	Dropped off load Textiles.
+14	Briand	Moved 9 spaces.
+14	judd	Pitched and drew cards 92, 111, 30.
+14	judd	Event North Sea Gales! [150] was drawn.
+13	Briand	Built 6 segments for $10.
+13	Briand	Moved 1 spaces.
+13	Briand	Picked up Textiles in Leeds.
+13	Briand	Drew card 25.
+13	Briand	Delivered Tobacco for $22 to Leeds.
+13	Briand	Moved 11 spaces.
+13	judd	Pitched and drew cards 10, 110, 90.
+12	Briand	Moved 12 spaces.
+12	judd	Pitched and drew cards 18, 49, 34.
+11	Briand	Built 5 segments for $9.
+11	Briand	Moved 10 spaces.
+11	Briand	Picked up Tobacco in Bristol.
+11	Briand	Moved 2 spaces.
+11	judd	Pitched and drew cards 78, 89, 117.
+10	Briand	Upgraded train to a Superfreight[12-3] for $20.
+10	Briand	Moved 3 spaces.
+10	Briand	Picked up Machinery in Gloucester.
+10	Briand	Drew card 83.
+10	Briand	Delivered Tourists for $15 to Gloucester.
+10	Briand	Moved 9 spaces.
+10	judd	Picked up Jute in Dundee.
+10	judd	Drew card 76.
+10	judd	Delivered China for $34 to Dundee.
+10	judd	Moved 6 spaces.
+9	Briand	Built 5 segments for $7.
+9	Briand	Moved 7 spaces.
+9	Briand	Picked up Tourists in London.
+9	Briand	Dropped off load Barley.
+9	Briand	Moved 5 spaces.
+9	judd	Moved 9 spaces.
+8	Briand	Moved 11 spaces.
+8	Briand	Picked up Barley in Norwich.
+8	Briand	Dropped off load Steel.
+8	Briand	Picked up Barley in Norwich.
+8	Briand	Drew card 100.
+8	Briand	Delivered China for $21 to Norwich.
+8	Briand	Moved 1 spaces.
+8	judd	Built 1 segments for $6.
+8	judd	Moved 1 spaces.
+8	judd	Picked up Chemicals in Ayr.
+8	judd	Moved 8 spaces.
+7	Briand	Moved 12 spaces.
+7	judd	Built 11 segments for $17.
+7	judd	Moved 2 spaces.
+7	judd	Drew card 27.
+7	judd	Delivered Coal for $17 to Stranraer.
+7	judd	Moved 7 spaces.
+6	Briand	Moved 12 spaces.
+6	judd	Moved 9 spaces.
+5	Briand	Upgraded train to a Fast Freight[12-2] for $20.
+5	Briand	Moved 6 spaces.
+5	Briand	Picked up Steel in Birmingham.
+5	Briand	Drew card 65.
+5	Briand	Delivered Coal for $11 to Birmingham.
+5	Briand	Moved 3 spaces.
+5	judd	Moved 9 spaces.
+4	Briand	Moved 3 spaces.
+4	Briand	Picked up China in Stoke.
+4	Briand	Dropped off load Textiles.
+4	Briand	Moved 6 spaces.
+4	Briand	Picked up Textiles in Manchester.
+4	Briand	Picked up Coal in Manchester.
+4	judd	Moved 2 spaces.
+4	judd	Picked up Coal in Manchester.
+4	judd	Moved 7 spaces.
+4	judd	Picked up China in Stoke.
+3	Briand	Built 7 segments for $11.
+3	judd	Built 9 segments for $13.
+2	judd	Built 15 segments for $20.
+2	Briand	Built 18 segments for $20.
+1	Briand	Built 19 segments for $20.
+1	judd	Built 16 segments for $20.

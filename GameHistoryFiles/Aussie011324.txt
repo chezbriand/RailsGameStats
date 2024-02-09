@@ -1,0 +1,445 @@
+48	ARStoo	Moved 12 spaces.
+48	Briand	Picked up Fish in Launceston.
+48	Briand	Moved 2 spaces.
+48	Briand	Dropped off load Citrus.
+48	Briand	Picked up Citrus in Hobart.
+48	Briand	Drew card 24.
+48	Briand	Delivered Sugar for $41 to Hobart.
+48	Briand	Moved 4 spaces.
+48	Briand	Moved 6 spaces.
+48	alex	Built 16 segments for $18.
+48	alex	Moved 12 spaces.
+47	ARStoo	Event Lorry Drivers Strike! [135] has ended.
+47	ARStoo	Moved 12 spaces.
+47	Briand	Moved 1 spaces.
+47	Briand	Picked up Beer in Melbourne.
+47	Briand	Drew card 103.
+47	Briand	Delivered Bananas for $25 to Melbourne.
+47	Briand	Moved 6 spaces.
+47	alex	Built 20 segments for $20.
+47	alex	Moved 4 spaces.
+47	alex	Drew card 107.
+47	alex	Delivered Beer for $48 to Wyndham.
+47	alex	Moved 8 spaces.
+46	ARStoo	Moved 6 spaces.
+46	ARStoo	Picked up Titanium in Bunbury.
+46	ARStoo	Dropped off load Tourists.
+46	ARStoo	Picked up Titanium in Bunbury.
+46	ARStoo	Drew card 70.
+46	ARStoo	Event Lorry Drivers Strike! [135] was drawn.
+46	ARStoo	Delivered Oil for $21 to Bunbury.
+46	ARStoo	Moved 4 spaces.
+46	ARStoo	Picked up Oats in Perth.
+46	ARStoo	Drew card 54.
+46	ARStoo	Delivered Citrus for $44 to Perth.
+46	ARStoo	Moved 2 spaces.
+46	Briand	Moved 12 spaces.
+46	alex	Moved 12 spaces.
+45	ARStoo	Moved 12 spaces.
+45	Briand	Moved 12 spaces.
+45	alex	Moved 12 spaces.
+44	ARStoo	Moved 12 spaces.
+44	Briand	Picked up Bananas in Bundaberg.
+44	Briand	Dropped off load Tin.
+44	Briand	Moved 9 spaces.
+44	alex	Moved 12 spaces.
+43	ARStoo	Moved 12 spaces.
+43	Briand	Moved 5 spaces.
+43	Briand	Picked up Sugar in Townsville.
+43	Briand	Picked up Sugar in Townsville.
+43	Briand	Drew card 90.
+43	Briand	Delivered Bananas for $16 to Townsville.
+43	Briand	Moved 5 spaces.
+43	Briand	Drew card 81.
+43	Briand	Delivered Bananas for $24 to Cairns.
+43	Briand	Moved 2 spaces.
+43	alex	Built 1 segments for $6.
+43	alex	Moved 12 spaces.
+42	ARStoo	Built 2 segments for $4.
+42	ARStoo	Moved 12 spaces.
+42	Briand	Moved 1 spaces.
+42	Briand	Picked up Tin in Cooktown.
+42	Briand	Drew card 68.
+42	Briand	Delivered Imports for $45 to Cooktown.
+42	Briand	Moved 11 spaces.
+42	alex	Moved 12 spaces.
+41	ARStoo	Moved 10 spaces.
+41	ARStoo	Picked up Tourists in Sydney.
+41	ARStoo	Dropped off load Wheat.
+41	ARStoo	Moved 2 spaces.
+41	Briand	Moved 11 spaces.
+41	Briand	Picked up Bananas in Bundaberg.
+41	Briand	Dropped off load Citrus.
+41	Briand	Picked up Bananas in Bundaberg.
+41	Briand	Dropped off load Oil.
+41	Briand	Moved 1 spaces.
+41	alex	Moved 8 spaces.
+41	alex	Picked up Beer in Melbourne.
+41	alex	Moved 4 spaces.
+40	ARStoo	Moved 4 spaces.
+40	ARStoo	Picked up Wheat in Wagga Wagga.
+40	ARStoo	Drew card 4.
+40	ARStoo	Delivered Bananas for $19 to Wagga Wagga.
+40	ARStoo	Moved 8 spaces.
+40	Briand	Moved 12 spaces.
+40	alex	Moved 12 spaces.
+39	ARStoo	Moved 8 spaces.
+39	ARStoo	Picked up Citrus in Lismore.
+39	ARStoo	Dropped off load Beer.
+39	ARStoo	Moved 4 spaces.
+39	Briand	Moved 12 spaces.
+39	alex	Moved 12 spaces.
+38	ARStoo	Moved 1 spaces.
+38	ARStoo	Picked up Oil in Toowoomba.
+38	ARStoo	Dropped off load Sheep.
+38	ARStoo	Moved 1 spaces.
+38	ARStoo	Moved 6 spaces.
+38	ARStoo	Picked up Bananas in Bundaberg.
+38	ARStoo	Dropped off load Tourists.
+38	ARStoo	Moved 4 spaces.
+38	Briand	Moved 6 spaces.
+38	Briand	Picked up Imports in Melbourne.
+38	Briand	Dropped off load Citrus.
+38	Briand	Moved 6 spaces.
+38	alex	Moved 4 spaces.
+38	alex	Moved 8 spaces.
+37	ARStoo	Built 14 segments for $16.
+37	ARStoo	Moved 4 spaces.
+37	Briand	Moved 1 spaces.
+37	Briand	Moved 1 spaces.
+37	alex	Moved 8 spaces.
+37	alex	Picked up Tourists in Sydney.
+37	alex	Moved 4 spaces.
+36	ARStoo	Pitched and drew cards 25, 48, 96.
+36	Briand	Moved 2 spaces.
+36	Briand	Picked up Citrus in Hobart.
+36	Briand	Picked up Citrus in Hobart.
+36	Briand	Drew card 84.
+36	Briand	Player was taxed $10.
+36	Briand	Event Rail Tax! [124] was drawn.
+36	Briand	Delivered Oil for $27 to Hobart.
+36	Briand	Moved 4 spaces.
+36	Briand	Moved 6 spaces.
+36	alex	Moved 12 spaces.
+35	ARStoo	Moved 8 spaces.
+35	ARStoo	Picked up Sheep in Charleville.
+35	ARStoo	Drew card 76.
+35	ARStoo	Delivered Tin for $25 to Charleville.
+35	ARStoo	Moved 4 spaces.
+35	Briand	Built 1 segments for $3.
+35	Briand	Moved 6 spaces.
+35	alex	Built 1 segments for $4.
+35	alex	Moved 12 spaces.
+34	ARStoo	Moved 12 spaces.
+34	Briand	Moved 12 spaces.
+34	alex	Built 11 segments for $19.
+34	alex	Moved 11 spaces.
+34	alex	Drew card 8.
+34	alex	Delivered Wine for $29 to Townsville.
+34	alex	Moved 1 spaces.
+33	ARStoo	Upgraded train to a Superfreight[12-3] for $20.
+33	ARStoo	Moved 6 spaces.
+33	ARStoo	Picked up Tourists in Sydney.
+33	ARStoo	Drew card 22.
+33	ARStoo	Delivered Sheep for $13 to Sydney.
+33	ARStoo	Moved 3 spaces.
+33	Briand	Built 2 segments for $6.
+33	Briand	Moved 7 spaces.
+33	Briand	Drew card 50.
+33	Briand	Delivered Oil for $27 to Tarcoola.
+33	Briand	Moved 5 spaces.
+33	alex	Moved 12 spaces.
+32	ARStoo	Built 5 segments for $7.
+32	ARStoo	Moved 9 spaces.
+32	Briand	Built 9 segments for $18.
+32	Briand	Moved 12 spaces.
+32	alex	Moved 12 spaces.
+31	ARStoo	Built 4 segments for $9.
+31	ARStoo	Moved 9 spaces.
+31	Briand	Moved 12 spaces.
+31	alex	Built 1 segments for $6.
+31	alex	Moved 12 spaces.
+30	ARStoo	Event Derailment! [122] has ended.
+30	ARStoo	Pitched and drew cards 33, 58, 42.
+30	Briand	Event Flood! [130] has ended.
+30	Briand	Moved 12 spaces.
+29	alex	Dropped off load Beer.
+29	ARStoo	Pitched and drew cards 85, 3, 18.
+29	alex	1 load(s) must be dropped.
+29	ARStoo	Event Derailment! [122] was drawn.
+29	Briand	Built 2 segments for $5.
+29	Briand	Moved 2 spaces.
+29	Briand	Picked up Oil in Port Hedland.
+29	Briand	Dropped off load Oats.
+29	Briand	Picked up Oil in Port Hedland.
+29	Briand	Dropped off load Oats.
+29	Briand	Picked up Oil in Port Hedland.
+29	Briand	Moved 5 spaces.
+29	Briand	Drew card 9.
+29	ARStoo	Player had 1 tracks destroyed.
+29	Briand	Player had 1 tracks destroyed.
+29	Briand	Player had 1 tracks destroyed.
+29	alex	Player had 1 tracks destroyed.
+29	alex	Player had 1 tracks destroyed.
+29	Briand	Event Flood! [130] was drawn.
+29	Briand	Delivered Lead for $34 to Paraburdoo.
+29	Briand	Moved 5 spaces.
+29	alex	Moved 6 spaces.
+29	alex	Picked up Beer in Melbourne.
+29	alex	Moved 6 spaces.
+28	ARStoo	Pitched and drew cards 12, 111, 79.
+28	Briand	Event Sandstorms! [127] has ended.
+28	Briand	Built 3 segments for $7.
+28	Briand	Moved 12 spaces.
+28	alex	Built 14 segments for $18.
+28	alex	Moved 12 spaces.
+27	ARStoo	Built 8 segments for $11.
+27	ARStoo	Moved 4 spaces.
+27	ARStoo	Picked up Sheep in Quilpe.
+27	ARStoo	Drew card 32.
+27	ARStoo	Delivered Tin for $28 to Quilpe.
+27	ARStoo	Moved 5 spaces.
+27	Briand	Built 13 segments for $20.
+27	Briand	Moved 6 spaces.
+27	Briand	Picked up Oats in Perth.
+27	Briand	Drew card 20.
+27	Briand	Event Sandstorms! [127] was drawn.
+27	Briand	Delivered Beer for $38 to Perth.
+27	Briand	Picked up Oats in Perth.
+27	Briand	Moved 6 spaces.
+27	alex	Upgraded train to a Fast Freight[12-2] for $20.
+27	alex	Moved 6 spaces.
+27	alex	Drew card 60.
+27	alex	Delivered Gold for $21 to Port Lincoln.
+27	alex	Moved 3 spaces.
+26	ARStoo	Built 1 segments for $3.
+26	ARStoo	Moved 9 spaces.
+26	Briand	Drew card 43.
+26	Briand	Delivered Tourists for $45 to Geraldton.
+26	Briand	Moved 12 spaces.
+26	alex	Moved 9 spaces.
+25	ARStoo	Built 13 segments for $20.
+25	ARStoo	Picked up Beer in Brisbane.
+25	ARStoo	Moved 1 spaces.
+25	ARStoo	Drew card 10.
+25	ARStoo	Delivered Wine for $24 to Brisbane.
+25	ARStoo	Moved 3 spaces.
+25	Briand	Moved 12 spaces.
+25	alex	Picked up Wine in Adelaide.
+25	alex	Moved 9 spaces.
+24	ARStoo	Moved 9 spaces.
+24	Briand	Moved 12 spaces.
+24	alex	Built 10 segments for $18.
+24	alex	Moved 4 spaces.
+24	alex	Moved 5 spaces.
+23	ARStoo	Moved 9 spaces.
+23	Briand	Moved 12 spaces.
+23	alex	Built 13 segments for $20.
+23	alex	Moved 2 spaces.
+23	alex	Drew card 14.
+23	alex	Delivered Cattle for $47 to Launceston.
+23	alex	Moved 2 spaces, paying $4 for rent to
+23	alex	Moved 5 spaces.
+22	ARStoo	Moved 9 spaces.
+22	Briand	Moved 12 spaces.
+22	alex	Moved 7 spaces.
+21	ARStoo	Moved 1 spaces.
+21	ARStoo	Picked up Wine in Adelaide.
+21	ARStoo	Dropped off load Citrus.
+21	ARStoo	Moved 8 spaces.
+21	Briand	Moved 12 spaces.
+21	alex	Moved 9 spaces.
+20	ARStoo	Moved 4 spaces.
+20	ARStoo	Moved 5 spaces.
+20	Briand	Moved 1 spaces.
+20	Briand	Picked up Tourists in Sydney.
+20	Briand	Upgraded train to a Superfreight[12-3] for $20.
+20	Briand	Moved 3 spaces.
+20	Briand	Picked up Lead in Wollongong.
+20	Briand	Dropped off load Citrus.
+20	Briand	Moved 8 spaces.
+20	alex	Moved 9 spaces.
+19	ARStoo	Moved 2 spaces.
+19	ARStoo	Picked up Tin in Launceston.
+19	ARStoo	Dropped off load Citrus.
+19	ARStoo	Picked up Tin in Launceston.
+19	ARStoo	Dropped off load Tourists.
+19	ARStoo	Moved 2 spaces.
+19	Briand	Built 2 segments for $6.
+19	Briand	Moved 6 spaces.
+19	Briand	Picked up Citrus in Lismore.
+19	Briand	Drew card 63.
+19	Briand	Delivered Sugar for $26 to Lismore.
+19	Briand	Moved 3 spaces.
+19	Briand	Picked up Beer in Brisbane.
+19	Briand	Dropped off load Sugar.
+19	Briand	Moved 3 spaces.
+19	alex	Moved 9 spaces.
+18	ARStoo	Event Fire Storms! [132] has ended.
+18	ARStoo	Pitched and drew cards 36, 82, 19.
+18	Briand	Built 13 segments for $13.
+18	Briand	Moved 12 spaces.
+18	alex	Moved 9 spaces.
+17	ARStoo	Pitched and drew cards 40, 37, 13.
+17	ARStoo	Event Fire Storms! [132] was drawn.
+17	Briand	Upgraded train to a Fast Freight[12-2] for $20.
+17	Briand	Moved 4 spaces.
+17	Briand	Picked up Sugar in Townsville.
+17	Briand	Picked up Sugar in Townsville.
+17	Briand	Drew card 80.
+17	Briand	Delivered Fish for $29 to Townsville.
+17	Briand	Moved 5 spaces.
+17	alex	Built 1 segments for $3.
+17	alex	Moved 9 spaces.
+16	ARStoo	Event Sandstorms! [126] has ended.
+16	ARStoo	Pitched and drew cards 108, 97, 95.
+16	Briand	Built 2 segments for $5.
+16	Briand	Moved 9 spaces.
+16	alex	Built 3 segments for $9.
+16	alex	Moved 7 spaces.
+16	alex	Picked up Gold in Tennant Creek.
+16	alex	Drew card 1.
+16	alex	Delivered Citrus for $23 to Tennant Creek.
+16	alex	Moved 1 spaces.
+16	alex	Moved 1 spaces.
+15	ARStoo	Pitched and drew cards 34, 2, 56.
+15	ARStoo	Event Sandstorms! [126] was drawn.
+15	Briand	Built 10 segments for $20.
+15	Briand	Moved 5 spaces.
+15	Briand	Drew card 64.
+15	Briand	Delivered Tin for $30 to Brisbane.
+15	Briand	Moved 4 spaces.
+15	alex	Moved 9 spaces.
+14	ARStoo	Pitched and drew cards 44, 101, 38.
+14	Briand	Moved 9 spaces.
+14	alex	Moved 9 spaces.
+13	ARStoo	Built 13 segments for $17.
+13	ARStoo	Moved 1 spaces.
+13	ARStoo	Picked up Citrus in Hobart.
+13	ARStoo	Drew card 115.
+13	ARStoo	Delivered Imports for $7 to Hobart.
+13	ARStoo	Picked up Citrus in Hobart.
+13	ARStoo	Drew card 41.
+13	ARStoo	Delivered Wine for $15 to Hobart.
+13	ARStoo	Moved 3 spaces.
+13	ARStoo	Moved 5 spaces.
+13	Briand	Built 8 segments for $13.
+13	Briand	Moved 9 spaces.
+13	alex	Moved 9 spaces.
+13	alex	Picked up Citrus in Cairns.
+12	ARStoo	Moved 1 spaces.
+12	ARStoo	Picked up Imports in Melbourne.
+12	ARStoo	Dropped off load Tourists.
+12	ARStoo	Moved 3 spaces.
+12	Briand	Event Derailment! [121] has ended.
+12	Briand	Built 10 segments for $15.
+12	Briand	Moved 4 spaces.
+12	Briand	Moved 5 spaces.
+12	alex	Player's turn was skipped due to an event.
+11	ARStoo	Moved 8 spaces.
+11	ARStoo	Picked up Wine in Adelaide.
+11	ARStoo	Moved 1 spaces.
+11	alex	Dropped off load Citrus.
+11	Briand	Built 13 segments for $19.
+11	Briand	Moved 2 spaces.
+11	Briand	Picked up Fish in Launceston.
+11	Briand	Dropped off load Wheat.
+11	Briand	Picked up Tin in Launceston.
+11	Briand	Drew card 46.
+11	alex	1 load(s) must be dropped.
+11	alex	1 turn(s) has been lost.
+11	Briand	Event Derailment! [121] was drawn.
+11	Briand	Delivered Uranium for $48 to Launceston.
+11	Briand	Moved 2 spaces.
+11	Briand	Moved 5 spaces.
+11	alex	Picked up Citrus in Cairns.
+11	alex	Picked up Cattle in Cairns.
+11	alex	Moved 9 spaces.
+10	ARStoo	Built 5 segments for $9.
+10	ARStoo	Moved 9 spaces.
+10	Briand	Moved 5 spaces.
+10	alex	Built 10 segments for $16.
+10	alex	Moved 9 spaces.
+9	ARStoo	Built 10 segments for $20.
+9	ARStoo	Moved 9 spaces.
+9	Briand	Moved 9 spaces.
+9	alex	Event Derailment! [123] has ended.
+9	alex	Player's turn was skipped due to an event.
+8	ARStoo	Player's turn was skipped due to an event.
+8	Briand	Built 3 segments for $13.
+8	Briand	Moved 9 spaces.
+8	ARStoo	Event Flood! [131] has ended.
+8	ARStoo	Dropped off load Tourists.
+8	alex	Dropped off load Citrus.
+8	alex	Drew card 62.
+8	ARStoo	1 load(s) must be dropped.
+8	alex	1 load(s) must be dropped.
+8	ARStoo	1 turn(s) has been lost.
+8	alex	1 turn(s) has been lost.
+8	alex	Event Derailment! [123] was drawn.
+8	alex	Delivered Citrus for $17 to Mount Isa.
+8	alex	Moved 9 spaces.
+7	ARStoo	Picked up Tourists in Sydney.
+7	ARStoo	Picked up Tourists in Sydney.
+7	ARStoo	Upgraded train to a Heavy Freight[9-3] for $20.
+7	ARStoo	Drew card 35.
+7	alex	Player had 1 tracks destroyed.
+7	alex	Player had 1 tracks destroyed.
+7	alex	Player had 1 tracks destroyed.
+7	ARStoo	Player had 2 tracks destroyed.
+7	Briand	Player had 1 tracks destroyed.
+7	alex	Player had 1 tracks destroyed.
+7	ARStoo	Event Flood! [131] was drawn.
+7	ARStoo	Delivered Wine for $17 to Sydney.
+7	ARStoo	Picked up Tourists in Sydney.
+7	ARStoo	Drew card 72.
+7	ARStoo	Delivered Tin for $19 to Sydney.
+7	ARStoo	Moved 9 spaces.
+7	Briand	Built 11 segments for $14.
+7	Briand	Moved 2 spaces.
+7	Briand	Picked up Wheat in Port Lincoln.
+7	Briand	Drew card 29.
+7	Briand	Delivered Uranium for $27 to Port Lincoln.
+7	Briand	Moved 7 spaces.
+7	alex	Built 11 segments for $15.
+7	alex	Moved 9 spaces.
+6	ARStoo	Built 4 segments for $10.
+6	ARStoo	Moved 9 spaces.
+6	Briand	Moved 9 spaces.
+6	alex	Built 16 segments for $18.
+6	alex	Picked up Citrus in Mackay.
+6	alex	Dropped off load Beer.
+6	alex	Picked up Citrus in Mackay.
+6	alex	Drew card 112.
+6	alex	Delivered Imports for $30 to Mackay.
+6	alex	Moved 4 spaces.
+5	ARStoo	Built 1 segments for $3.
+5	ARStoo	Moved 1 spaces.
+5	ARStoo	Picked up Wine in Adelaide.
+5	ARStoo	Drew card 105.
+5	ARStoo	Delivered Tin for $17 to Adelaide.
+5	ARStoo	Moved 8 spaces.
+5	Briand	Moved 9 spaces.
+5	alex	Moved 9 spaces.
+4	ARStoo	Moved 4 spaces.
+4	ARStoo	Moved 4 spaces.
+4	Briand	Built 4 segments for $6.
+4	Briand	Moved 9 spaces.
+4	alex	Moved 9 spaces.
+3	ARStoo	Built 1 segments for $1.
+3	ARStoo	Moved 2 spaces.
+3	ARStoo	Picked up Tin in Launceston.
+3	ARStoo	Picked up Tin in Launceston.
+3	Briand	Built 2 segments for $4.
+3	Briand	Picked up Uranium in Yeelirrie.
+3	Briand	Picked up Uranium in Yeelirrie.
+3	alex	Built 3 segments for $7.
+3	alex	Moved 9 spaces.
+3	alex	Picked up Beer in Melbourne.
+3	alex	Picked up Imports in Melbourne.
+2	alex	Built 16 segments for $20.
+2	Briand	Built 18 segments for $20.
+2	ARStoo	Built 18 segments for $20.
+1	ARStoo	Built 7 segments for $20.
+1	Briand	Built 17 segments for $20.
+1	alex	Built 12 segments for $20.
