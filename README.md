@@ -1,5 +1,5 @@
-Well that was fast. The Python Code is now deprecated in favor of an HTML / JavaScript page. 
+You can see the Rail Game Analyzer in action here: https://chezbriand.github.io/RailsGameStats/
 
-You can see the page here: https://chezbriand.github.io/RailsGameStats/
-
-At the present moment you do need to set the starting cash as this is not in the History log.
+Just paste the game history into the text box, taking care that you don't include extra text.
+At the present moment you do need to set the starting cash (most games use 60) as this is 
+not in the History log.

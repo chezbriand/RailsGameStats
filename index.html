@@ -5,10 +5,29 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
+    <p>Version: <span id="versionDisplay"></span></p>
+
+    <script>
+        // Read the metadata.json file (adjust the path as needed)
+        fetch('metadata.json')
+            .then(response => response.json())
+            .then(metadata => {
+                // Increment the build revision
+                // metadata.buildRevision += 1;
+
+                // Construct the displayable version string
+                const displayableVersion = `${metadata.buildMajor}.${metadata.buildMinor}.${metadata.buildRevision} ${metadata.buildTag}`;
+
+                // Update the span element with the version
+                document.getElementById('versionDisplay').textContent = displayableVersion;
+            })
+            .catch(error => console.error('Error reading metadata:', error));
+    </script>
+
     <textarea id="inputArea" rows="10" cols="50"></textarea><br>
     Starting Money: <input id="startingMoney" type="number" value="60"><br>
     <button onclick="analyzeGame()">Analyze</button>
-    <div id="stats" style="background-color: orange; padding: 5px;"></div>
+    <div id="stats" style="background-color: rgb(243, 212, 155); padding: 5px;"></div>
     <canvas id="myChart"></canvas>
 
     <script>
