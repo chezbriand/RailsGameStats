@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Game Analyzer</title>
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
@@ -33,7 +34,7 @@
     <script>
 
         var myChart1 = null;
-        
+
         function parseAmount(action) {
             var match = action.match(/\$(\d+)/);
             return match ? parseInt(match[1]) : 0;
