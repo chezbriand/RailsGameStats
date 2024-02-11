@@ -31,6 +31,9 @@
     <canvas id="myChart"></canvas>
 
     <script>
+
+        var myChart1 = null;
+        
         function parseAmount(action) {
             var match = action.match(/\$(\d+)/);
             return match ? parseInt(match[1]) : 0;
@@ -157,10 +160,10 @@
             }
             
             var ctx = document.getElementById('myChart').getContext('2d');
-            if (myChart) {
-                myChart.destroy();
+            if (myChart1) {
+                myChart1.destroy();
             }
-            myChart = new Chart(ctx, {
+            myChart1 = new Chart(ctx, {
                 type: 'line',
                 data: {
                     labels: [0].concat(rounds), 
