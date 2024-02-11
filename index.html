@@ -157,7 +157,10 @@
             }
             
             var ctx = document.getElementById('myChart').getContext('2d');
-            new Chart(ctx, {
+            if (myChart) {
+                myChart.destroy();
+            }
+            myChart = new Chart(ctx, {
                 type: 'line',
                 data: {
                     labels: [0].concat(rounds), 
