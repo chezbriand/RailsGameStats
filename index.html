@@ -123,15 +123,7 @@
             for (var player in players) {
                 players[player].history.push(players[player].money);
             }
-/*
-            var statsText = "";
-            statsText += "There were " + (rounds.length) + " rounds, and ";
-            var winner = Object.keys(players).reduce((a, b) => players[a].money > players[b].money ? a : b);
-            statsText += "the winner was " + winner + ".<br>";
-            for (var player in players) {
-                statsText += player + " built " + segmentsBuilt[player] + " segments for $" + segmentsCost[player] + " delivering " + loadsDelivered[player] + " loads for $" + loadsRevenue[player] + " with " + milepostsMoved[player] + " movements.<br>";
-            }
-*/
+
             var statsText = "";
             var winner = Object.keys(players).reduce((a, b) => players[a].money > players[b].money ? a : b);
             var gameIsOver = Object.values(players).some(player => player.money > 250);
