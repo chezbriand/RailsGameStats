@@ -63,6 +63,7 @@
             var loadsRevenue = {};
             var milepostsMoved = {};
             var actionsByRound = {};
+            var timesPitched = {};
 
             lines.forEach(line => {
                 var parts = line.split('\t');
@@ -78,6 +79,7 @@
                     loadsDelivered[player] = 0;
                     loadsRevenue[player] = 0;
                     milepostsMoved[player] = 0;
+                    timesPitched[player] = 0;
                 }
 
                 if (currentRounds[player] != round) {
@@ -112,6 +114,8 @@
                 } else if (action.startsWith("Moved")) {
                     var movement = parseMovement(action);
                     milepostsMoved[player] += movement;
+                } else if (action.startsWith("Pitched")) {
+                    timesPitched[Player] += 1;
                 }
 
                 if (!rounds.includes(round)) {
@@ -141,7 +145,8 @@
             }
 
             for (var player in players) {
-                statsText += player + " built " + segmentsBuilt[player] + " segments for $" + segmentsCost[player] + " delivering " + loadsDelivered[player] + " loads for $" + loadsRevenue[player] + " with " + milepostsMoved[player] + " movements.<br>";
+                statsText += player + " built " + segmentsBuilt[player] + " segments for $" + segmentsCost[player] + " delivering " + loadsDelivered[player] + " loads for $" 
+                    + loadsRevenue[player] + " with " + milepostsMoved[player] + " movements. They pitched " + timesPitched[player] + " times.<br>";
             }
 
 
