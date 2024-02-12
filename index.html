@@ -176,30 +176,25 @@
                 },
                 options: {
                     responsive: true,
-                    title: {
-                        display: true,
-                        text: 'Player Money Over Time'
-                    },
                     scales: {
                         x: {
-                            display: true,
-                            scaleLabel: {
+                            title: {
                                 display: true,
-                                labelString: 'Round'
-                            }//,
-                            //ticks: {
-                            //    beginAtZero: true
-                            //}
+                                text: 'Round'
+                            }
                         },
                         y: {
-                            display: true,
-                            scaleLabel: {
+                            title: {
                                 display: true,
-                                labelString: 'Money'
+                                text: 'Money'
                             }
-                        }
+                        },
                     },
                     plugins: {
+                        title: {
+                            display: true,
+                            text: 'Player Money Each Round'
+                        },
                         tooltip: {
                             callbacks: {
                                 footer: function(tooltipItem) {
