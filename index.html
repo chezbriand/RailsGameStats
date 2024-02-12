@@ -14,9 +14,7 @@
         fetch('metadata.json')
             .then(response => response.json())
             .then(metadata => {
-                // Increment the build revision
-                // metadata.buildRevision += 1;
-
+                
                 // Construct the displayable version string
                 const displayableVersion = `${metadata.buildMajor}.${metadata.buildMinor}.${metadata.buildRevision} ${metadata.buildTag}`;
 
@@ -34,7 +32,7 @@
 
     <script>
 
-        var myChart1 = null;
+        var myGameChart = null;
 
         function parseAmount(action) {
             var match = action.match(/\$(\d+)/);
@@ -167,10 +165,10 @@
             }
             
             var ctx = document.getElementById('myChart').getContext('2d');
-            if (myChart1) {
-                myChart1.destroy();
+            if (myGameChart) {
+                myGameChart.destroy();
             }
-            myChart1 = new Chart(ctx, {
+            myGameChart = new Chart(ctx, {
                 type: 'line',
                 data: {
                     labels: [0].concat(rounds), 
