@@ -25,7 +25,46 @@
     </script>
 
     <textarea id="inputArea" rows="10" cols="80" placeholder="Paste Game History here..."></textarea><br>
-    Starting Money: <input id="startingMoney" type="number" value="60"><br>
+    Game Board: 
+   
+    <!-- <input id="startingMoney" type="number" value="60"><br> -->
+    <select id="startingMoney" onchange="updateValue()">
+        <option value="60">AfricanRails</option>
+        <option value="50">AustralianRails</option>
+        <option value="50">AustralianRails2005</option>
+        <option value="50">AustralianRailsVariant</option>
+        <option value="60">BritishRails</option>
+        <option value="60">ChinaRails</option>
+        <option value="50">EmpireBuilder</option>
+        <option value="50">EmpireBuilder2009</option>
+        <option value="40">EmpireBuilderClassic</option>
+        <option value="50">EuroRails</option>
+        <option value="50">EuroRails2002</option>
+        <option value="50">EuroRails2002CardVariant</option>
+        <option value="50">EuroRails2002Variant</option>
+        <option value="50">EuroRails2009</option>
+        <option value="50">IndiaRails</option>
+        <option value="60">IronDragon</option>
+        <option value="60">IronDragon2017</option>
+        <option value="60">IronDragonVariant</option>
+        <option value="60">LunarRails</option>
+        <option value="60">MartianRails</option>
+        <option value="50">NipponRails</option>
+        <option value="50">NipponRails2011</option>
+        <option value="60">RussianRails</option>
+        <option value="50">SouthAmericanRails</option>
+    </select>
+    Starting Money: <span id="displayValue">60</span> <br>
+       
+    <script>
+    function updateValue() {
+        var selectedValue = document.getElementById('startingMoney').value;
+        document.getElementById('displayValue').textContent = selectedValue;
+    }
+    </script>
+    
+
+
     <button onclick="analyzeGame()">Analyze</button>
     <div id="stats" style="background-color: rgb(243, 212, 155); padding: 5px;"></div>
     <canvas id="myChart"></canvas>
