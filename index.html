@@ -116,11 +116,18 @@
                     milepostsMoved[player] = 0;
                     timesPitched[player] = 0;
                 }
-
-                if (currentRounds[player] != round) {
+                // New Code to account for instances where a player does a NOOP
+                if (currentRounds[player] < round) {
+                    while (currentRounds[player] < round) {
+                        players[player].history.push(players[player].money);
+                        currentRounds[player]++;
+                    }
+                }
+                // Old code below that didn't take into consideration that a player may just not do anything in their round
+/*                if (currentRounds[player] != round) {
                     players[player].history.push(players[player].money);
                     currentRounds[player] = round;
-                }
+                }*/
 
                 if (action.startsWith("Built")) {
                     var cost = parseAmount(action);
