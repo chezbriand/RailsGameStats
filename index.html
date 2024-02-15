@@ -17,9 +17,10 @@
                 
                 // Construct the displayable version string
                 const displayableVersion = `${metadata.buildMajor}.${metadata.buildMinor}.${metadata.buildRevision} ${metadata.buildTag}`;
-
+                // Construct the displayable build time string
+                const displayableBuildTime = `Build Time: ${metadata.buildTime}`;
                 // Update the span element with the version
-                document.getElementById('versionDisplay').textContent = displayableVersion;
+                document.getElementById('versionDisplay').textContent = displayableVersion + displayableBuildTime;
             })
             .catch(error => console.error('Error reading metadata:', error));
     </script>
