@@ -119,6 +119,7 @@
                 }
 
                 // account for instances where a player does a NOOP
+                // update player to the current round
                 while (currentRounds[player] < round) {
                     players[player].history.push(players[player].money);
                     currentRounds[player]++;
@@ -136,21 +137,22 @@
                     players[player].money += revenue;
                     loadsDelivered[player] += 1;
                     loadsRevenue[player] += revenue;
-                } else if (action.includes("for rent to")) {
-                    var rent = parseAmount(action);
-                    players[player].money -= rent;
-                    var recipient = action.split("for rent to")[1].trim();
-                    if (recipient && recipient in players) {
-                        if (currentRounds[recipient] != round) {
-                            players[recipient].history.push(players[recipient].money + rent);
-                            currentRounds[recipient] = round;
-                        } else {
-                            players[recipient].money += rent;
-                        }
-                    }
                 } else if (action.startsWith("Moved")) {
                     var movement = parseMovement(action);
                     milepostsMoved[player] += movement;
+
+                    if (action.includes("for rent to")) {
+                        var rent = parseAmount(action);
+                        players[player].money -= rent;
+                        var recipient = action.split("for rent to")[1].trim();
+                        if (recipient && recipient in players) {
+                            while (currentRounds[recipient] < round) {
+                                players[recipient].history.push(players[recipient].money);
+                                currentRounds[recipient]++;
+                            }
+                            players[recipient].money += rent;                       
+                        }
+                    }
                 } else if (action.startsWith("Pitched")) {
                     timesPitched[player] += 1;
                 }
@@ -166,7 +168,10 @@
 
             // Add the final money totals for each player
             for (var player in players) {
-                players[player].history.push(players[player].money);
+                while (currentRounds[player] < rounds.length + 1 ) {
+                    players[player].history.push(players[player].money);
+                    currentRounds[player]++;
+                }
             }
 
             var statsText = "";
