@@ -20,7 +20,7 @@
                 // Construct the displayable build time string
                 const displayableBuildTime = `Build Time: ${metadata.buildTime}`;
                 // Update the span element with the version
-                document.getElementById('versionDisplay').textContent = displayableVersion + displayableBuildTime;
+                document.getElementById('versionDisplay').textContent = displayableVersion + " " + displayableBuildTime;
             })
             .catch(error => console.error('Error reading metadata:', error));
     </script>
@@ -117,19 +117,13 @@
                     milepostsMoved[player] = 0;
                     timesPitched[player] = 0;
                 }
-                // New Code to account for instances where a player does a NOOP
-                if (currentRounds[player] < round) {
-                    while (currentRounds[player] < round) {
-                        players[player].history.push(players[player].money);
-                        currentRounds[player]++;
-                    }
-                }
-                // Old code below that didn't take into consideration that a player may just not do anything in their round
-/*                if (currentRounds[player] != round) {
-                    players[player].history.push(players[player].money);
-                    currentRounds[player] = round;
-                }*/
 
+                // account for instances where a player does a NOOP
+                while (currentRounds[player] < round) {
+                    players[player].history.push(players[player].money);
+                    currentRounds[player]++;
+                }
+                
                 if (action.startsWith("Built")) {
                     var cost = parseAmount(action);
                     players[player].money -= cost;
