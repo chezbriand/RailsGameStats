@@ -192,12 +192,23 @@
                 statsText += "the current leader is " + winner + ".<br>";
             }
 
+            statsText += "<table style='border-spacing: 10px;'><tr><th style='text-align: left;'>Player</th><th style='text-align: left;'>Balance</th><th style='text-align: left;'>Segments<br>Built</th><th style='text-align: left;'>Track<br>Cost</th><th style='text-align: left;'>Loads<br>Delivered</th><th style='text-align: left;'>Load<br>Revenue</th><th style='text-align: left;'>Mileposts<br>Moved</th><th style='text-align: left;'>Times<br>Pitched</th><th style='text-align: left;'>Revenue per<br>Segment</th><th style='text-align: left;'>$ Earned per<br>$ Spent</th><th style='text-align: left;'>Mag's Coefficient<br>$ earned / $ spent per segment</th></tr>";
             for (var player in players) {
-                statsText += player + " built " + segmentsBuilt[player] + " segments for $" + segmentsCost[player] + " delivering " + loadsDelivered[player] + " loads for $" 
-                    + loadsRevenue[player] + " with " + milepostsMoved[player] + " movements. " + player + " pitched " + timesPitched[player] + " times.<br>";
+                statsText += 
+                    "<tr><td style='text-align: left;'>" + player + 
+                    "</td><td style='text-align: left;'>$" + players[player].money +
+                    "</td><td style='text-align: left;'>" + segmentsBuilt[player] + 
+                    "</td><td style='text-align: left;'>$" + segmentsCost[player] + 
+                    "</td><td style='text-align: left;'>" + loadsDelivered[player] + 
+                    "</td><td style='text-align: left;'>$" + loadsRevenue[player] + 
+                    "</td><td style='text-align: left;'>" + milepostsMoved[player] + 
+                    "</td><td style='text-align: left;'>" + timesPitched[player] + 
+                    "</td><td style='text-align: left;'>$" + (loadsRevenue[player]/segmentsBuilt[player]).toFixed(2) + 
+                    "</td><td style='text-align: left;'>" + (loadsRevenue[player]/segmentsCost[player]).toFixed(2) + 
+                    "</td><td style='text-align: left;'>" + (loadsRevenue[player]*segmentsBuilt[player]/segmentsCost[player]).toFixed(2) + 
+                    "</td></tr>";
             }
-
-
+            statsText += "</table>";            
             document.getElementById('stats').innerHTML = statsText;
 
             var datasets = [];
