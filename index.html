@@ -4,7 +4,8 @@
     <title>Game Analyzer</title>
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@1.3.1"></script>
 </head>
 <body>
     <div style="display: flex; align-items: flex-start;">
@@ -72,9 +73,10 @@
     <button onclick="analyzeGame()">Analyze</button>
     <div id="stats" style="background-color: rgb(243, 212, 155); padding: 5px;"></div>
     <canvas id="myChart"></canvas>
+    <button id="toggle-annotations">Toggle Annotations</button>
 
     <script>
-
+        
         var myGameChart = null;
 
         function parseAmount(action) {
@@ -106,6 +108,8 @@
             var milepostsMoved = {};
             var actionsByRound = {};
             var timesPitched = {};
+            // declare an array to record when a player upgrades a train
+            var graphAnnotations = []; 
 
             lines.forEach(line => {
                 var parts = line.split('\t');
@@ -122,6 +126,7 @@
                     loadsRevenue[player] = 0;
                     milepostsMoved[player] = 0;
                     timesPitched[player] = 0;
+                    graphAnnotations[player] = null;
                 }
 
                 // account for instances where a player does a NOOP
@@ -136,7 +141,33 @@
                     players[player].money -= cost;
                     segmentsBuilt[player] += parseSegments(action);
                     segmentsCost[player] += cost;
-                } else if (action.startsWith("Upgraded") || action.startsWith("Player was taxed")) {
+                } else if (action.startsWith("Upgraded")) {
+                    players[player].money -= parseAmount(action);
+                    var playerKeys = Object.keys(players);
+                    var playerIndex = playerKeys.indexOf(player);
+                    var topLine = 100.0;
+                    var spacing = 10.0; // adjust this value to change the spacing
+                    var yMin = topLine - (playerIndex * spacing);
+                    var yMax = 0;
+                    graphAnnotations.push({
+                        type: 'line',
+                        id: 'vline' + round, // unique id for the annotation
+                        options: {
+                            borderDash: [2, 2],
+                            borderColor: 'black',
+                            borderWidth: 2,
+                        },
+                        value: round,
+                        yMin: yMin,
+                        yMax: yMax,
+                        label: {
+                            backgroundColor: 'rgba(0,0,0,0.3)',
+                            content: player + ' Upgraded',
+                            enabled: true,
+                            position: 'start',
+                        }
+                    });
+                } else if (action.startsWith("Player was taxed")) {
                     players[player].money -= parseAmount(action);
                 } else if (action.startsWith("Delivered")) {
                     var revenue = parseAmount(action);
@@ -231,7 +262,7 @@
             myGameChart = new Chart(ctx, {
                 type: 'line',
                 data: {
-                    labels: [0].concat(rounds), 
+                    labels: rounds[0] === "0" ? rounds : [0].concat(rounds),
                     datasets: datasets,
                 },
                 options: {
@@ -262,10 +293,36 @@
                                     return actionsByRound[round];
                                 }
                             }
+                        },
+                        annotation: {
+                            annotations: graphAnnotations.map(annotation => ({
+                                ...annotation,
+                                xMin: annotation.value,
+                                xMax: annotation.value,
+                                borderColor: annotation.options.borderColor,
+                                borderWidth: annotation.options.borderWidth,
+                                borderDash: annotation.options.borderDash,
+                                label: {
+                                    ...annotation.label,
+                                    position: 'start',
+                                    backgroundColor: 'rgba(0,0,0,0.9)',
+                                    content: annotation.label.content,
+                                    enabled: true
+                                }
+                            }))
                         }
-
                     }
                 }
+            });
+        
+            var showAnnotations = true;
+
+            document.getElementById('toggle-annotations').addEventListener('click', function() {
+                showAnnotations = !showAnnotations;
+                myGameChart.options.plugins.annotation.annotations.forEach(function(annotation) {
+                    annotation.display = showAnnotations;
+                });
+                myGameChart.update();
             });
         }
     </script>
