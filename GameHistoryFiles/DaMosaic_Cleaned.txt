@@ -1,0 +1,474 @@
+35	mag3737	Picked up Potions in Oraianda.
+35	mag3737	Drew card 96.
+35	mag3737	Delivered Wands for $6 to Oraianda.
+35	mag3737	Moved 6 spaces.
+35	mag3737	Picked up Wands in Octomare.
+35	mag3737	Drew card 80.
+35	mag3737	Delivered Wheat for $41 to Octomare.
+35	mag3737	Moved 9 spaces.
+35	judd	Moved 16 spaces.
+35	Briand	Built 2 segments for $4.
+35	Briand	Moved 5 spaces.
+35	Briand	Picked up Iron in Railla.
+35	Briand	Picked up Gems in Railla.
+35	Briand	Drew card 52.
+35	Briand	Delivered Fish for $20 to Railla.
+35	Briand	Drew card 7.
+35	Briand	Delivered Dragons for $29 to Railla.
+35	Briand	Moved 11 spaces.
+35	Rick	Moved 9 spaces.
+35	Rick	Picked up Cloth in Oulde Mordel.
+35	Rick	Drew card 95.
+35	Rick	Delivered Ale for $49 to Oulde Mordel.
+35	Rick	Moved 7 spaces.
+34	mag3737	Moved 4 spaces.
+34	mag3737	Picked up Potions in Okyabanti.
+34	mag3737	Drew card 17.
+34	mag3737	Delivered Cattle for $16 to Okyabanti.
+34	mag3737	Moved 9 spaces.
+34	mag3737	Picked up Lumber in Pinewaere.
+34	mag3737	Drew card 101.
+34	mag3737	Delivered Fur for $66 to Pinewaere.
+34	mag3737	Moved 3 spaces.
+34	judd	Event Magic Tempest [142] has ended.
+34	judd	Moved 9 spaces.
+34	judd	Picked up Hops in Bluefeld.
+34	judd	Dropped off load Fish.
+34	judd	Moved 7 spaces.
+34	Briand	Moved 16 spaces.
+34	Rick	Moved 13 spaces.
+33	mag3737	Moved 14 spaces.
+33	mag3737	Moved 2 spaces, paying $4 for rent to judd
+33	judd	Moved 9 spaces.
+33	judd	Picked up Fish in Piggnytz.
+33	judd	Drew card 59.
+33	judd	Event Magic Tempest [142] was drawn.
+33	judd	Delivered Potions for $23 to Piggnytz.
+33	judd	Moved 7 spaces.
+33	Briand	Moved 2 spaces.
+33	Briand	Picked up Dragons in Nordkassel.
+33	Briand	Dropped off load Ivory.
+33	Briand	Moved 14 spaces.
+33	Rick	Moved 16 spaces.
+32	mag3737	Built 9 segments for $15.
+32	mag3737	Moved 5 spaces.
+32	mag3737	Picked up Cattle in Bulatz.
+32	mag3737	Dropped off load Dragons.
+32	mag3737	Moved 10 spaces.
+32	mag3737	Picked up Wheat in Brevandes.
+32	mag3737	Moved 1 spaces.
+32	judd	Moved 11 spaces.
+32	judd	Picked up Potions in Okyabanti.
+32	judd	Dropped off load Cattle.
+32	judd	Moved 5 spaces.
+32	Briand	Moved 16 spaces.
+32	Rick	Built 8 segments for $13.
+32	Rick	Moved 16 spaces.
+31	mag3737	Built 13 segments for $20.
+31	mag3737	Moved 8 spaces.
+31	mag3737	Drew card 109.
+31	mag3737	Delivered Dragons for $33 to Redwitte.
+31	mag3737	Moved 8 spaces.
+31	judd	Built 1 segments for $3.
+31	judd	Moved 7 spaces.
+31	judd	Picked up Cattle in Penjold.
+31	judd	Drew card 6.
+31	judd	Delivered Pipeweed for $25 to Penjold.
+31	judd	Moved 9 spaces.
+31	Briand	Upgraded train to a Iron Dragon[16-3] for $20.
+31	Briand	Moved 3 spaces.
+31	Briand	Picked up Fish in Killavare.
+31	Briand	Dropped off load Hops.
+31	Briand	Moved 9 spaces.
+31	Rick	Built 11 segments for $16.
+31	Rick	Moved 16 spaces.
+30	mag3737	Built 14 segments for $18.
+30	mag3737	Moved 16 spaces.
+30	judd	Event Elven Antirailroad Activists! [138] has ended.
+30	judd	Event Sea Serpent! [143] has ended.
+30	judd	Built 10 segments for $19.
+30	judd	Moved 11 spaces.
+30	judd	Picked up Wands in Octomare.
+30	Briand	Built 6 segments for $19.
+30	Briand	Upgraded train to a Fire Drake[12-3] for $10.
+30	Briand	Moved 8 spaces.
+30	Briand	Picked up Ivory in Kodankye.
+30	Briand	Drew card 33.
+30	Briand	Delivered Wine for $39 to Kodankye.
+30	Briand	Moved 2 spaces.
+30	Rick	Upgraded train to a Red Dragon[16-2] for $20.
+30	Rick	Moved 12 spaces.
+29	mag3737	Built 1 segments for $3.
+29	mag3737	Moved 10 spaces.
+29	mag3737	Picked up Dragons in Nordkassel.
+29	mag3737	Picked up Dragons in Nordkassel.
+29	mag3737	Dropped off load Gems.
+29	mag3737	Drew card 68.
+29	mag3737	Delivered Steel for $24 to Nordkassel.
+29	mag3737	Moved 6 spaces.
+29	judd	Event Magic Tempest [142] has ended.
+29	judd	Pitched and drew cards 91, 54, 4.
+29	judd	Event Sea Serpent! [143] was drawn.
+29	judd	Event Elven Antirailroad Activists! [138] was drawn.
+29	Briand	Moved 10 spaces.
+29	Rick	Moved 2 spaces.
+29	Rick	Picked up Ale in Uderyn.
+29	Rick	Picked up Ale in Uderyn.
+29	Rick	Dropped off load Cattle.
+29	Rick	Dropped off load Hops.
+29	Rick	Moved 10 spaces, paying $1 for rent to
+28	mag3737	Built 1 segments for $3.
+28	mag3737	Moved 16 spaces.
+28	judd	Drew card 128.
+28	judd	Event Magic Tempest [142] was drawn.
+28	judd	Delivered Pipeweed for $44 to Octomare.
+28	judd	Moved 8 spaces.
+28	Briand	Moved 10 spaces.
+28	Rick	Built 15 segments for $18.
+28	Rick	Moved 12 spaces.
+27	mag3737	Built 9 segments for $19.
+27	mag3737	Player selected Dingur Knorsen as foreman.
+27	mag3737	Moved 2 spaces.
+27	mag3737	Picked up Fur in Kola.
+27	mag3737	Drew card 84.
+27	mag3737	Delivered Wine for $32 to Kola.
+27	mag3737	Moved 14 spaces.
+27	judd	Moved 16 spaces.
+27	Briand	Moved 10 spaces.
+27	Rick	Moved 12 spaces.
+26	mag3737	Player selected Wellpole Wyndle as foreman.
+26	mag3737	Moved 16 spaces.
+26	judd	Moved 15 spaces.
+26	judd	Moved 1 spaces, paying $4 for rent to Rick
+26	Briand	Moved 10 spaces.
+26	Rick	Built 9 segments for $17.
+26	Rick	Moved 12 spaces.
+25	mag3737	Moved 2 spaces.
+25	mag3737	Picked up Wine in Glyween.
+25	mag3737	Dropped off load Cattle.
+25	mag3737	Moved 9 spaces.
+25	mag3737	Picked up Gems in Railla.
+25	mag3737	Dropped off load Cloth.
+25	mag3737	Moved 5 spaces.
+25	judd	Moved 4 spaces.
+25	judd	Picked up Pipeweed in Jodarre.
+25	judd	Picked up Pipeweed in Jodarre.
+25	judd	Dropped off load Wands.
+25	judd	Dropped off load Steel.
+25	judd	Moved 10 spaces.
+25	judd	Moved 1 spaces, paying $4 for rent to Rick
+25	judd	Moved 1 spaces.
+25	Briand	Moved 10 spaces.
+25	Rick	Pitched and drew cards 22, 41, 31.
+24	mag3737	Moved 14 spaces.
+24	mag3737	Picked up Steel in Bremmner.
+24	mag3737	Dropped off load Sheep.
+24	mag3737	Moved 2 spaces, paying $4 for rent to Briand
+24	judd	Moved 1 spaces.
+24	judd	Moved 4 spaces.
+24	judd	Picked up Steel in Bremmner.
+24	judd	Drew card 78.
+24	judd	Delivered Gems for $18 to Bremmner.
+24	judd	Moved 11 spaces.
+24	Briand	Moved 8 spaces.
+24	Briand	Picked up Wine in Saadah.
+24	Briand	Moved 2 spaces.
+24	Rick	Moved 7 spaces.
+24	Rick	Picked up Cattle in Penjold.
+24	Rick	Drew card 40.
+24	Rick	Delivered Spells for $46 to Penjold.
+24	Rick	Moved 4 spaces.
+23	mag3737	Built 4 segments for $6.
+23	mag3737	Moved 1 spaces.
+23	mag3737	Picked up Cattle in Bulatz.
+23	mag3737	Drew card 5.
+23	mag3737	Delivered Spells for $44 to Bulatz.
+23	mag3737	Moved 13 spaces.
+23	judd	Moved 16 spaces.
+23	Briand	Built 10 segments for $15.
+23	Briand	Moved 10 spaces.
+23	Rick	Moved 3 spaces.
+23	Rick	Picked up Hops in Bluefeld.
+23	Rick	Drew card 70.
+23	Rick	Delivered Wheat for $11 to Bluefeld.
+23	Rick	Moved 9 spaces.
+22	mag3737	Moved 10 spaces.
+22	mag3737	Picked up Sheep in Jobabh.
+22	mag3737	Drew card 43.
+22	mag3737	Delivered Potions for $32 to Jobabh.
+22	mag3737	Moved 6 spaces.
+22	judd	Built 16 segments for $17.
+22	judd	Moved 4 spaces.
+22	judd	Picked up Gems in Railla.
+22	judd	Moved 6 spaces.
+22	judd	Drew card 62.
+22	judd	Delivered Steel for $12 to Risidan.
+22	judd	Moved 6 spaces, paying $4 for rent to Rick
+22	Briand	Built 13 segments for $19.
+22	Briand	Moved 10 spaces.
+22	Rick	Event Volcanos Erupt [137] has ended.
+22	Rick	Built 1 segments for $3.
+22	Rick	Moved 5 spaces.
+22	Rick	Picked up Wheat in Brevandes.
+22	Rick	Dropped off load Steel.
+22	Rick	Moved 7 spaces.
+21	mag3737	Built 1 segments for $3.
+21	mag3737	Moved 12 spaces.
+21	mag3737	Picked up Spells in Ozu-Zarkh.
+21	mag3737	Drew card 90.
+21	mag3737	Delivered Potions for $13 to Ozu-Zarkh.
+21	mag3737	Moved 4 spaces.
+21	judd	Built 2 segments for $4.
+21	judd	Moved 5 spaces.
+21	judd	Picked up Steel in Redwitte.
+21	judd	Dropped off load Wine.
+21	judd	Moved 8 spaces.
+21	Briand	Built 12 segments for $20.
+21	Briand	Drew card 86.
+21	Briand	Delivered Hops for $48 to Wikkedde.
+21	Briand	Moved 8 spaces.
+21	Rick	Built 11 segments for $20.
+21	Rick	Moved 1 spaces.
+21	Rick	Picked up Steel in Redwitte.
+21	Rick	Drew card 18.
+21	Rick	Event Volcanos Erupt [137] was drawn.
+21	Rick	Delivered Wands for $50 to Redwitte.
+21	Rick	Moved 11 spaces.
+20	mag3737	Event Evil Prince Summons Warlord [148] has ended.
+20	mag3737	Built 4 segments for $5.
+20	mag3737	Moved 16 spaces.
+20	judd	Built 7 segments for $15.
+20	judd	Moved 3 spaces.
+20	judd	Picked up Wine in Glyween.
+20	judd	Drew card 61.
+20	judd	Delivered Fur for $32 to Glyween.
+20	judd	Moved 13 spaces.
+20	Briand	Built 14 segments for $19.
+20	Briand	Moved 10 spaces.
+20	Rick	Moved 12 spaces.
+19	mag3737	Built 12 segments for $20.
+19	mag3737	Moved 10 spaces.
+19	mag3737	Picked up Potions in Oraianda.
+19	mag3737	Dropped off load Wands.
+19	mag3737	Picked up Potions in Oraianda.
+19	mag3737	Drew card 103.
+19	mag3737	Event Evil Prince Summons Warlord [148] was drawn.
+19	mag3737	Delivered Gems for $42 to Oraianda.
+19	mag3737	Moved 6 spaces.
+19	judd	Built 7 segments for $10.
+19	judd	Moved 16 spaces.
+19	Briand	Moved 10 spaces.
+19	Rick	Moved 12 spaces.
+18	mag3737	Picked up Wands in Octomare.
+18	mag3737	Moved 15 spaces.
+18	mag3737	Drew card 63.
+18	mag3737	Delivered Gems for $25 to Oykjsord.
+18	mag3737	Picked up Cloth in Oykjsord.
+18	mag3737	Moved 1 spaces.
+18	judd	Built 9 segments for $17.
+18	judd	Picked up Fur in Kola.
+18	judd	Dropped off load Spells.
+18	judd	Picked up Fur in Kola.
+18	judd	Drew card 29.
+18	judd	Event War Tax! [140] was drawn.
+18	judd	Delivered Wands for $70 to Kola.
+18	judd	Moved 16 spaces, paying $4 for rent to mag3737
+18	Briand	Built 17 segments for $20.
+18	Briand	Moved 2 spaces.
+18	Rick	Moved 5 spaces.
+18	Rick	Picked up Spells in Ozu-Zarkh.
+18	Rick	Dropped off load Cattle.
+18	Rick	Moved 7 spaces.
+17	mag3737	Upgraded train to a Iron Dragon[16-3] for $10.
+17	mag3737	Moved 4 spaces.
+17	judd	Moved 16 spaces.
+17	Briand	Moved 6 spaces.
+17	Briand	Picked up Hops in Bluefeld.
+17	Briand	Dropped off load Spells.
+17	Briand	Picked up Hops in Bluefeld.
+17	Briand	Drew card 65.
+17	Briand	Delivered Spells for $48 to Bluefeld.
+17	Briand	Moved 4 spaces.
+17	Rick	Moved 9 spaces.
+17	Rick	Picked up Wands in Opal Bezin.
+17	Rick	Moved 3 spaces.
+16	mag3737	Moved 8 spaces.
+16	judd	Moved 16 spaces.
+16	Briand	Moved 10 spaces.
+16	Rick	Built 1 segments for $3.
+16	Rick	Moved 12 spaces.
+15	mag3737	Moved 8 spaces.
+15	judd	Built 14 segments for $20.
+15	judd	Moved 16 spaces.
+15	Briand	Moved 10 spaces.
+15	Rick	Moved 1 spaces.
+15	Rick	Moved 11 spaces.
+14	mag3737	Moved 6 spaces.
+14	judd	Built 10 segments for $20.
+14	judd	Moved 11 spaces.
+14	judd	Picked up Wands in Octomare.
+14	judd	Dropped off load Pilgrims.
+14	judd	Moved 5 spaces.
+14	Briand	Moved 10 spaces.
+14	Rick	Moved 12 spaces.
+13	mag3737	Built 8 segments for $19.
+13	mag3737	Upgraded train to a Red Dragon[16-2] for $10.
+13	mag3737	Moved 14 spaces.
+13	judd	Built 4 segments for $5.
+13	judd	Moved 16 spaces.
+13	judd	Picked up Pilgrims in Ozu-Zarkh.
+13	judd	Picked up Spells in Ozu-Zarkh.
+13	judd	Dropped off load Hops.
+13	Briand	Built 5 segments for $9.
+13	Briand	Moved 10 spaces.
+13	Rick	Moved 12 spaces.
+12	mag3737	Built 13 segments for $19.
+12	mag3737	Moved 1 spaces.
+12	mag3737	Picked up Gems in Railla.
+12	mag3737	Dropped off load Pipeweed.
+12	mag3737	Moved 13 spaces.
+12	judd	Event Ice Storm! [136] has ended.
+12	judd	Built 6 segments for $20.
+12	judd	Upgraded train to a Iron Dragon[16-3] for $10.
+12	judd	Drew card 37.
+12	judd	Delivered Fish for $43 to Ozu-Zarkh.
+12	judd	Moved 14 spaces.
+12	Briand	Built 12 segments for $18.
+12	Rick	Built 2 segments for $15.
+12	Rick	Upgraded train to a Salamander[12-2] for $10.
+12	Rick	Moved 10 spaces.
+11	mag3737	Built 15 segments for $20.
+11	mag3737	Moved 7 spaces.
+11	mag3737	Picked up Pipeweed in Jodarre.
+11	mag3737	Drew card 125.
+11	mag3737	Delivered Hops for $16 to Jodarre.
+11	mag3737	Moved 7 spaces.
+11	judd	Built 6 segments for $20.
+11	judd	Upgraded train to a Black Dragon[14-3] for $10.
+11	judd	Moved 2 spaces.
+11	judd	Picked up Wands in Opal Bezin.
+11	judd	Drew card 45.
+11	judd	Event Ice Storm! [136] was drawn.
+11	judd	Delivered Fish for $45 to Opal Bezin.
+11	judd	Moved 4 spaces.
+11	Briand	Built 14 segments for $19.
+11	Briand	Moved 8 spaces.
+11	Briand	Picked up Fur in Kenare.
+11	Briand	Drew card 14.
+11	Briand	Delivered Pilgrims for $45 to Kenare.
+11	Briand	Moved 1 spaces.
+11	Rick	Built 15 segments for $20.
+11	Rick	Moved 5 spaces.
+11	Rick	Drew card 12.
+11	Rick	Delivered Pipeweed for $20 to Risidan.
+11	Rick	Moved 5 spaces.
+10	mag3737	Built 8 segments for $13.
+10	mag3737	Moved 12 spaces.
+10	mag3737	Picked up Hops in Bluefeld.
+10	mag3737	Drew card 20.
+10	mag3737	Delivered Fur for $50 to Bluefeld.
+10	mag3737	Moved 2 spaces.
+10	judd	Moved 12 spaces.
+10	Briand	Moved 4 spaces.
+10	Rick	Moved 10 spaces.
+9	mag3737	Built 1 segments for $3.
+9	mag3737	Moved 14 spaces.
+9	judd	Moved 12 spaces.
+9	Briand	Moved 13 spaces.
+9	Rick	Moved 10 spaces.
+8	mag3737	Built 8 segments for $20.
+8	mag3737	Upgraded train to a White Dragon[14-2] for $10.
+8	mag3737	Moved 6 spaces.
+8	mag3737	Picked up Gems in Railla.
+8	mag3737	Drew card 74.
+8	mag3737	Delivered Fur for $36 to Railla.
+8	mag3737	Moved 6 spaces.
+8	judd	Built 13 segments for $20.
+8	judd	Moved 11 spaces.
+8	judd	Picked up Hops in Bluefeld.
+8	judd	Dropped off load Wands.
+8	judd	Moved 1 spaces.
+8	Briand	Moved 13 spaces.
+8	Rick	Moved 4 spaces.
+8	Rick	Picked up Pipeweed in Jodarre.
+8	Rick	Dropped off load Cattle.
+8	Rick	Moved 6 spaces.
+7	mag3737	Moved 12 spaces.
+7	judd	Built 7 segments for $20.
+7	judd	Upgraded train to a Fire Drake[12-3] for $10.
+7	judd	Moved 9 spaces.
+7	judd	Picked up Fish in Parekis.
+7	judd	Drew card 67.
+7	judd	Delivered Wands for $41 to Parekis.
+7	judd	Picked up Fish in Parekis.
+7	judd	Moved 1 spaces.
+7	Briand	Moved 13 spaces.
+7	Rick	Built 6 segments for $12.
+7	Rick	Moved 7 spaces.
+7	Rick	Picked up Cattle in Bulatz.
+7	Rick	Picked up Cattle in Bulatz.
+7	Rick	Drew card 110.
+7	Rick	Delivered Sheep for $21 to Bulatz.
+7	Rick	Moved 3 spaces.
+6	mag3737	Built 6 segments for $7.
+6	mag3737	Moved 12 spaces.
+6	judd	Moved 2 spaces.
+6	Briand	Moved 13 spaces.
+6	Rick	Event Winged Demons Escape Underworld [144] has ended.
+6	Rick	Built 14 segments for $19.
+6	Rick	Moved 10 spaces.
+5	mag3737	Built 7 segments for $20.
+5	mag3737	Upgraded train to a Salamander[12-2] for $10.
+5	mag3737	Moved 2 spaces.
+5	mag3737	Picked up Fur in Kola.
+5	mag3737	Picked up Fur in Kola.
+5	mag3737	Dropped off load Sheep.
+5	mag3737	Drew card 129.
+5	mag3737	Delivered Sheep for $33 to Kola.
+5	mag3737	Moved 8 spaces.
+5	judd	Moved 10 spaces.
+5	Briand	Moved 13 spaces.
+5	Rick	Built 12 segments for $14.
+5	Rick	Drew card 55.
+5	Rick	Event Winged Demons Escape Underworld [144] was drawn.
+5	Rick	Delivered Jewelry for $32 to Jodarre.
+5	Rick	Moved 9 spaces.
+5	Rick	Picked up Sheep in Jobabh.
+5	Rick	Dropped off load Jewelry.
+5	Rick	Moved 1 spaces.
+4	mag3737	Moved 10 spaces.
+4	judd	Moved 11 spaces.
+4	Briand	Built 11 segments for $17.
+4	Briand	Player selected Gaelwyth Grae as foreman.
+4	Briand	Moved 13 spaces.
+4	Rick	Built 3 segments for $8.
+4	Rick	Moved 6 spaces.
+3	mag3737	Built 17 segments for $20.
+3	mag3737	Moved 10 spaces.
+3	mag3737	Picked up Sheep in Glynclwyn.
+3	mag3737	Picked up Sheep in Glynclwyn.
+3	judd	Built 6 segments for $18.
+3	judd	Upgraded train to a Sardar[10-3] for $10.
+3	judd	Moved 1 spaces.
+3	judd	Picked up Wands in Octomare.
+3	judd	Picked up Wands in Octomare.
+3	Briand	Moved 1 spaces.
+3	Briand	Picked up Pilgrims in Ozu-Zarkh.
+3	Briand	Picked up Spells in Ozu-Zarkh.
+3	Briand	Picked up Spells in Ozu-Zarkh.
+3	Rick	Moved 10 spaces.
+3	Rick	Picked up Jewelry in West Wyckk.
+3	Rick	Picked up Jewelry in West Wyckk.
+2	Rick	Built 10 segments for $20.
+2	Briand	Built 12 segments for $19.
+2	judd	Built 14 segments for $19.
+2	mag3737	Built 14 segments for $20.
+1	mag3737	Built 14 segments for $20.
+1	judd	Built 14 segments for $20.
+1	Briand	Built 7 segments for $20.
+1	Briand	Upgraded train to a Sardar[10-3] for $10.
+1	Rick	Built 12 segments for $19.
+0	mag3737	Player selected Steffan as foreman.
+0	judd	Player selected Grocca as foreman.
+0	Briand	Player selected Wellpole Wyndle as foreman.
+0	Rick	Player selected Persy Browne as foreman.
