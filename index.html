@@ -32,10 +32,10 @@
             .catch(error => console.error('Error reading metadata:', error));
     </script>
 
-    <textarea id="inputArea" rows="10" cols="80" placeholder="Paste Game History here..."></textarea><br>
+    <textarea id="inputArea" rows="10" cols="80" placeholder="Paste Game History here..." autofocus tabindex="1"></textarea><br>
     Game Board: 
     
-    <select id="startingMoney" onchange="updateValue()">
+    <select id="startingMoney" onchange="updateValue()" tabindex="2">
         <option value="60">AfricanRails</option>
         <option value="50">AustralianRails</option>
         <option value="50">AustralianRails2005</option>
@@ -70,7 +70,7 @@
     }
     </script>
     
-    <button onclick="analyzeGame()">Analyze</button>
+    <button onclick="analyzeGame()" tabindex="3">Analyze</button>
     <div id="stats" style="background-color: rgb(243, 212, 155); padding: 5px;"></div>
     <canvas id="myChart"></canvas>
     <button id="toggle-annotations">Toggle Annotations</button>
