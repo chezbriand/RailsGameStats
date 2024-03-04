@@ -6,6 +6,7 @@
     <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@1.3.1"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
 </head>
 <body>
     <div style="display: flex; align-items: flex-start;">
@@ -79,6 +80,8 @@
         
         var myGameChart = null;
 
+        decodeURLParameter('data');
+
         function parseAmount(action) {
             var match = action.match(/\$(\d+)/);
             return match ? parseInt(match[1]) : 0;
@@ -92,6 +95,105 @@
         function parseMovement(action) {
             var match = action.match(/Moved (\d+) spaces/);
             return match ? parseInt(match[1]) : 0;
+        }
+
+        function decodeURLParameter(param) {
+            // Get the encoded data from the URL
+            var urlParams = new URLSearchParams(window.location.search);
+            var encodedData = urlParams.get(param);
+
+            // Check if the parameter exists
+            if (!encodedData) {
+                return null;
+            }
+
+            // URL decode the data
+            var base64String = decodeURIComponent(encodedData);
+
+            // Decode the base64 string
+            var jsonString = atob(base64String);
+
+            // Decompress the JSON string
+            // var jsonString = JSON.parse(LZString.decompressFromEncodedURIComponent(encodedData));
+
+            // Convert the JSON string to an object
+            var data = JSON.parse(jsonString);
+
+            var players = data.players;
+            var rounds = data.rounds;
+            //var graphAnnotations = dataObject.graphAnnotations;
+
+            var datasets = [];
+            var colors = ['blue', 'red', 'orange', 'yellow', 'green', 'purple', 'black', 'pink'];
+            var colorIndex = 0;
+            for (var player in players) {
+                datasets.push({
+                    label: player,
+                    data: players[player].history,
+                    fill: false,
+                    borderColor: colors[colorIndex % colors.length],
+                });
+                colorIndex++;
+            }
+            
+            var ctx = document.getElementById('myChart').getContext('2d');
+
+            myGameChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: rounds[0] === "0" ? rounds : [0].concat(rounds),
+                    datasets: datasets,
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Round'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Money'
+                            }
+                        },
+                    },
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Player Money Each Round'
+                        },
+                        tooltip: {
+                            callbacks: {
+                                footer: function(tooltipItem) {
+                                    var round = tooltipItem[0].dataIndex;
+                                    return actionsByRound[round];
+                                }
+                            }
+                        }, /*
+                        annotation: {
+                            annotations: graphAnnotations.map(annotation => ({
+                                ...annotation,
+                                xMin: annotation.value,
+                                xMax: annotation.value,
+                                borderColor: annotation.options.borderColor,
+                                borderWidth: annotation.options.borderWidth,
+                                borderDash: annotation.options.borderDash,
+                                label: {
+                                    ...annotation.label,
+                                    position: 'start',
+                                    backgroundColor: 'rgba(0,0,0,0.9)',
+                                    content: annotation.label.content,
+                                    enabled: true
+                                }
+                            }))
+                        }*/
+                    }
+                }
+            });
+
         }
 
         function analyzeGame() {
@@ -242,6 +344,35 @@
             statsText += "</table>";            
             document.getElementById('stats').innerHTML = statsText;
 
+            // Convert the data object to a JSON string
+            var jsonString = JSON.stringify({
+                players: players,
+                rounds: rounds,
+                //graphAnnotations: graphAnnotations
+            });
+
+            // Compress the JSON string
+            //var encodedString = LZString.compressToEncodedURIComponent(jsonString);
+
+            // Create a base64 encoded string
+            var base64String = btoa(jsonString);
+
+            // URL encode the string to make it safe to include in a URL
+            var encodedString = encodeURIComponent(base64String);
+
+            // Create the URL
+            var url = window.location.origin + window.location.pathname + "?data=" + encodedString;
+
+            console.log(jsonString.length, encodedString.length)
+            //console.log(jsonString);
+            //console.log(JSON.stringify(rounds));
+            //console.log(JSON.stringify(datasets));
+            //console.log(JSON.stringify(graphAnnotations));
+            console.log(url);
+            //console.log('Rounds:', rounds);
+            //console.log('Datasets:', datasets);
+            //console.log('Graph Annotations:', graphAnnotations);
+
             var datasets = [];
             var colors = ['blue', 'red', 'orange', 'yellow', 'green', 'purple', 'black', 'pink'];
             var colorIndex = 0;
@@ -259,6 +390,7 @@
             if (myGameChart) {
                 myGameChart.destroy();
             }
+
             myGameChart = new Chart(ctx, {
                 type: 'line',
                 data: {
