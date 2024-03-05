@@ -74,7 +74,8 @@
     <button onclick="analyzeGame()" tabindex="3">Analyze</button>
     <div id="stats" style="background-color: rgb(243, 212, 155); padding: 5px;"></div>
     <canvas id="myChart"></canvas>
-    <button id="toggle-annotations">Toggle Annotations</button>
+    <button id="toggle-annotations" style="display: none;">Toggle Annotations</button>
+    <button id="create-link" style="display: none;">Create Link to Clipboard</button>
 
     <script>
         
@@ -363,12 +364,12 @@
             // Create the URL
             var url = window.location.origin + window.location.pathname + "?data=" + encodedString;
 
-            console.log(jsonString.length, encodedString.length)
+            //console.log(jsonString.length, encodedString.length)
             //console.log(jsonString);
             //console.log(JSON.stringify(rounds));
             //console.log(JSON.stringify(datasets));
             //console.log(JSON.stringify(graphAnnotations));
-            console.log(url);
+            //console.log(url);
             //console.log('Rounds:', rounds);
             //console.log('Datasets:', datasets);
             //console.log('Graph Annotations:', graphAnnotations);
@@ -448,7 +449,20 @@
             });
         
             var showAnnotations = true;
+            document.getElementById('toggle-annotations').style.display = 'block';
+            document.getElementById('create-link').style.display = 'block';
 
+            // Saves the url to the clipboard
+            document.getElementById('create-link').addEventListener('click', function() {
+                var el = document.createElement('textarea');
+                el.value = url;
+                document.body.appendChild(el);
+                el.select();
+                document.execCommand('copy');
+                document.body.removeChild(el);
+            });
+
+            // Toggles the visibility of the annotations
             document.getElementById('toggle-annotations').addEventListener('click', function() {
                 showAnnotations = !showAnnotations;
                 myGameChart.options.plugins.annotation.annotations.forEach(function(annotation) {
