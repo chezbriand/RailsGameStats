@@ -34,7 +34,7 @@
     </script>
 
     <textarea id="inputArea" rows="10" cols="80" placeholder="Paste Game History here..." autofocus tabindex="1"></textarea><br>
-    Game Board: 
+    <span id="gameboardprompt">Game Board: </span>
     
     <select id="startingMoney" onchange="updateValue()" tabindex="2">
         <option value="60">AfricanRails</option>
@@ -62,7 +62,7 @@
         <option value="60">RussianRails</option>
         <option value="50">SouthAmericanRails</option>
     </select>
-    Starting Money: <span id="displayValue">60</span> &nbsp;
+    <span id="startingMoneyPrompt">Starting Money: </span><span id="displayValue">60</span> &nbsp;
        
     <script>
     function updateValue() {
@@ -107,6 +107,17 @@
             if (!encodedData) {
                 return null;
             }
+
+            // Hide the HTML Elements as this is a URL parameter Graph
+            document.getElementById('inputArea').style.display = 'none';
+            document.getElementById('gameboardprompt').style.display = 'none';
+            document.getElementById('startingMoneyPrompt').style.display = 'none';
+            document.getElementById('startingMoney').style.display = 'none';
+            document.getElementById('displayValue').style.display = 'none';
+            document.getElementsByTagName('button')[0].style.display = 'none';
+            document.getElementById('stats').style.display = 'none';
+            document.getElementById('toggle-annotations').style.display = 'none';
+
 
             // URL decode the data
             var base64String = decodeURIComponent(encodedData);
