@@ -74,12 +74,73 @@
     <button onclick="analyzeGame()" tabindex="3">Analyze</button>
     <div id="stats" style="background-color: rgb(243, 212, 155); padding: 5px;"></div>
     <canvas id="myChart"></canvas>
+    <span id="series-picker-wrapper" style="display: none;">
+        <label for="series-picker">Chart series: </label>
+        <select id="series-picker">
+            <option value="money">Money</option>
+            <option value="segments">Cumulative Segments Built</option>
+            <option value="revenue">Cumulative Load Revenue</option>
+            <option value="mileposts">Cumulative Mileposts Moved</option>
+        </select>
+    </span>
     <button id="toggle-annotations" style="display: none;">Toggle Annotations</button>
     <button id="create-link" style="display: none;">Create Link to Clipboard</button>
 
     <script>
         
         var myGameChart = null;
+        // Results of the most recent analyzeGame() call. Used by the chart-series
+        // picker to swap which per-player array is plotted without re-parsing.
+        var currentAnalysis = null;
+
+        // Definition of each selectable chart series: which property on each
+        // player object holds the per-round cumulative values, plus titles.
+        var seriesDef = {
+            money:     { title: 'Player Money Each Round',                 yLabel: 'Money',     prop: 'history' },
+            segments:  { title: 'Cumulative Segments Built Each Round',    yLabel: 'Segments',  prop: 'segmentsHistory' },
+            revenue:   { title: 'Cumulative Load Revenue Each Round',      yLabel: 'Revenue ($)', prop: 'revenueHistory' },
+            mileposts: { title: 'Cumulative Mileposts Moved Each Round',   yLabel: 'Mileposts', prop: 'milepostsHistory' }
+        };
+
+        // Format a millisecond duration as "Xd Yh", "Yh Zm", "Zm Ws", or "s".
+        function formatDuration(ms) {
+            if (!isFinite(ms) || ms <= 0) return '—';
+            var s = Math.round(ms / 1000);
+            var d = Math.floor(s / 86400); s %= 86400;
+            var h = Math.floor(s / 3600);  s %= 3600;
+            var m = Math.floor(s / 60);    s %= 60;
+            var parts = [];
+            if (d) parts.push(d + 'd');
+            if (h) parts.push(h + 'h');
+            if (m && d === 0) parts.push(m + 'm');
+            if (!d && !h && !m) parts.push(s + 's');
+            return parts.join(' ');
+        }
+
+        // Auto-analyze shortly after the user pastes content into the textarea so
+        // they don't have to click Analyze for the common copy-paste workflow.
+        document.getElementById('inputArea').addEventListener('paste', function() {
+            setTimeout(analyzeGame, 100);
+        });
+
+        // Swap the currently-plotted series on the chart when the user picks a
+        // different one. Re-uses the existing chart instance and the cached
+        // analysis result; never re-runs analyzeGame().
+        document.getElementById('series-picker').addEventListener('change', function() {
+            if (!myGameChart || !currentAnalysis) return;
+            var def = seriesDef[this.value] || seriesDef.money;
+            var i = 0;
+            for (var p in currentAnalysis.players) {
+                var src = currentAnalysis.players[p][def.prop];
+                if (myGameChart.data.datasets[i]) {
+                    myGameChart.data.datasets[i].data = src || [];
+                }
+                i++;
+            }
+            myGameChart.options.plugins.title.text = def.title;
+            myGameChart.options.scales.y.title.text = def.yLabel;
+            myGameChart.update();
+        });
 
         decodeURLParameter('data');
 
@@ -220,10 +281,13 @@
             // in the Select. The regex is anchored loosely so it also handles a bare line
             // without leading tabs.
             var gameStartRegex = /(\w+)\s+game\s+(\S+)\s+has started\.\s+Each player starts with \$(\d+)\./;
+            var detectedGameType = null;
+            var detectedGameName = null;
             for (var i = 0; i < lines.length; i++) {
                 var gsMatch = lines[i].match(gameStartRegex);
                 if (gsMatch) {
-                    var detectedGameType = gsMatch[1];
+                    detectedGameType = gsMatch[1];
+                    detectedGameName = gsMatch[2];
                     startingMoney = parseInt(gsMatch[3]);
                     // Sync the Select dropdown to the detected game type, if it matches a known option.
                     var sel = document.getElementById('startingMoney');
@@ -248,8 +312,36 @@
             var milepostsMoved = {};
             var actionsByRound = {};
             var timesPitched = {};
+            var bribesPaid = {};      // count of bribes paid per player
+            var loadsDropped = {};    // count of "Dropped off load" events per player
             // declare an array to record when a player upgrades a train
             var graphAnnotations = []; 
+
+            // Turn-timing state, populated from "Finished Turn on <timestamp>" lines.
+            //   turnStats[player] = { totalMs, count, slowestMs, slowestAt }
+            // prevFinishMs is the timestamp of the most recent "Finished Turn" line
+            // seen (any player); each player's turn duration is the delta from the
+            // prior Finished Turn to their own.
+            var turnStats = {};
+            var prevFinishMs = null;
+            var firstFinishMs = null;
+            var lastFinishMs = null;
+            var slowestTurnGlobal = { player: null, durationMs: 0, when: null };
+
+            // Advance a player's per-round history arrays up through round `r`
+            // by pushing the current cumulative values. Used both for the active
+            // player and for rent-recipients (who don't otherwise have a line on
+            // that round). Keeps history, segmentsHistory, revenueHistory and
+            // milepostsHistory in lockstep.
+            function advanceTo(p, r) {
+                while (currentRounds[p] < r) {
+                    players[p].history.push(players[p].money);
+                    players[p].segmentsHistory.push(segmentsBuilt[p]);
+                    players[p].revenueHistory.push(loadsRevenue[p]);
+                    players[p].milepostsHistory.push(milepostsMoved[p]);
+                    currentRounds[p]++;
+                }
+            }
 
             lines.forEach(line => {
                 var parts = line.split('\t');
@@ -265,7 +357,13 @@
                 if (!/^\d+$/.test(round) || !player || !player.trim()) return;
 
                 if (!players[player]) {
-                    players[player] = { money: startingMoney, history: [] };
+                    players[player] = {
+                        money: startingMoney,
+                        history: [],
+                        segmentsHistory: [],
+                        revenueHistory: [],
+                        milepostsHistory: []
+                    };
                     currentRounds[player] = null;
                     segmentsBuilt[player] = 0;
                     segmentsCost[player] = 0;
@@ -273,15 +371,14 @@
                     loadsRevenue[player] = 0;
                     milepostsMoved[player] = 0;
                     timesPitched[player] = 0;
+                    bribesPaid[player] = 0;
+                    loadsDropped[player] = 0;
                     graphAnnotations[player] = null;
                 }
 
                 // account for instances where a player does a NOOP
                 // update player to the current round
-                while (currentRounds[player] < round) {
-                    players[player].history.push(players[player].money);
-                    currentRounds[player]++;
-                }
+                advanceTo(player, round);
                 
                 if (action.startsWith("Built")) {
                     var cost = parseAmount(action);
@@ -316,11 +413,19 @@
                     });
                 } else if (action.startsWith("Player was taxed")) {
                     players[player].money -= parseAmount(action);
+                } else if (action.startsWith("Player paid bribe")) {
+                    // IronDragon mechanic: bribe an opponent to skip an event etc.
+                    // Money out, counted separately in stats.
+                    players[player].money -= parseAmount(action);
+                    bribesPaid[player] += 1;
                 } else if (action.startsWith("Delivered")) {
                     var revenue = parseAmount(action);
                     players[player].money += revenue;
                     loadsDelivered[player] += 1;
                     loadsRevenue[player] += revenue;
+                } else if (action.startsWith("Dropped off load")) {
+                    // No money impact, but interesting to surface alongside Loads Delivered.
+                    loadsDropped[player] += 1;
                 } else if (action.startsWith("Moved")) {
                     var movement = parseMovement(action);
                     milepostsMoved[player] += movement;
@@ -330,15 +435,47 @@
                         players[player].money -= rent;
                         var recipient = action.split("for rent to")[1].trim();
                         if (recipient && recipient in players) {
-                            while (currentRounds[recipient] < round) {
-                                players[recipient].history.push(players[recipient].money);
-                                currentRounds[recipient]++;
-                            }
+                            advanceTo(recipient, round);
                             players[recipient].money += rent;                       
                         }
                     }
                 } else if (action.startsWith("Pitched")) {
                     timesPitched[player] += 1;
+                } else if (action.startsWith("Finished Turn")) {
+                    // Newer logs include per-turn timestamps like:
+                    //   "Finished Turn on 5/16/2026 6:24:30 PM PDT"
+                    // Strip the trailing TZ abbreviation (Date.parse rejects it on some
+                    // browsers); since we only care about deltas the absolute TZ is
+                    // irrelevant as long as it stays consistent through the file.
+                    var tsMatch = action.match(/Finished Turn on (.+?)\s*$/);
+                    if (tsMatch) {
+                        var tsStr = tsMatch[1].replace(/\s+[A-Z]{2,4}$/, '').trim();
+                        var ms = Date.parse(tsStr);
+                        if (!isNaN(ms)) {
+                            if (firstFinishMs === null) firstFinishMs = ms;
+                            lastFinishMs = ms;
+                            if (!turnStats[player]) {
+                                turnStats[player] = { totalMs: 0, count: 0, slowestMs: 0, slowestAt: null };
+                            }
+                            if (prevFinishMs !== null) {
+                                var dur = ms - prevFinishMs;
+                                if (dur >= 0) {
+                                    turnStats[player].totalMs += dur;
+                                    turnStats[player].count++;
+                                    if (dur > turnStats[player].slowestMs) {
+                                        turnStats[player].slowestMs = dur;
+                                        turnStats[player].slowestAt = ms;
+                                    }
+                                    if (dur > slowestTurnGlobal.durationMs) {
+                                        slowestTurnGlobal.durationMs = dur;
+                                        slowestTurnGlobal.player = player;
+                                        slowestTurnGlobal.when = ms;
+                                    }
+                                }
+                            }
+                            prevFinishMs = ms;
+                        }
+                    }
                 }
 
                 if (!rounds.includes(round)) {
@@ -352,15 +489,23 @@
 
             // Add the final money totals for each player
             for (var player in players) {
-                while (currentRounds[player] < rounds.length + 1 ) {
-                    players[player].history.push(players[player].money);
-                    currentRounds[player]++;
-                }
+                advanceTo(player, rounds.length + 1);
             }
 
             var statsText = "";
             var winner = Object.keys(players).reduce((a, b) => players[a].money > players[b].money ? a : b);
-            var gameIsOver = Object.values(players).some(player => player.money > 250);
+            // $250 exactly is sufficient to win, so use >= here. TODO: derive the
+            // win threshold per game-type once we have logs with non-$250 targets.
+            var gameIsOver = Object.values(players).some(player => player.money >= 250);
+
+            // Optional game-identity header pulled from the announcement line.
+            if (detectedGameName || detectedGameType) {
+                statsText += "<strong>Game:</strong> ";
+                if (detectedGameName) statsText += detectedGameName;
+                if (detectedGameName && detectedGameType) statsText += " &mdash; ";
+                if (detectedGameType) statsText += detectedGameType;
+                statsText += "<br>";
+            }
 
             if (gameIsOver) {
                 statsText += "There were " + (rounds.length) + " rounds, and ";
@@ -370,17 +515,33 @@
                 statsText += "the current leader is " + winner + ".<br>";
             }
 
-            statsText += "<table style='border-spacing: 10px;'><tr><th style='text-align: left;'>Player</th><th style='text-align: left;'>Balance</th><th style='text-align: left;'>Segments<br>Built</th><th style='text-align: left;'>Track<br>Cost</th><th style='text-align: left;'>Loads<br>Delivered</th><th style='text-align: left;'>Load<br>Revenue</th><th style='text-align: left;'>Mileposts<br>Moved</th><th style='text-align: left;'>Times<br>Pitched</th><th style='text-align: left;'>Revenue per<br>Segment</th><th style='text-align: left;'>$ Earned per<br>$ Spent</th><th style='text-align: left;'>Mag's Coefficient<br>$ earned / $ spent per segment</th></tr>";
+            // Turn-timing summary (only shown if the log included \"Finished Turn on ...\" lines).
+            if (firstFinishMs !== null && lastFinishMs !== null && lastFinishMs > firstFinishMs) {
+                statsText += "<strong>Game duration:</strong> " + formatDuration(lastFinishMs - firstFinishMs) + ".<br>";
+            }
+            if (slowestTurnGlobal.player) {
+                statsText += "<strong>Slowest turn:</strong> " + slowestTurnGlobal.player +
+                    " took " + formatDuration(slowestTurnGlobal.durationMs) + ".<br>";
+            }
+
+            statsText += "<table style='border-spacing: 10px;'><tr><th style='text-align: left;'>Player</th><th style='text-align: left;'>Balance</th><th style='text-align: left;'>Segments<br>Built</th><th style='text-align: left;'>Track<br>Cost</th><th style='text-align: left;'>Loads<br>Delivered</th><th style='text-align: left;'>Loads<br>Dropped</th><th style='text-align: left;'>Load<br>Revenue</th><th style='text-align: left;'>Mileposts<br>Moved</th><th style='text-align: left;'>Times<br>Pitched</th><th style='text-align: left;'>Bribes<br>Paid</th><th style='text-align: left;'>Avg<br>Turn</th><th style='text-align: left;'>Slowest<br>Turn</th><th style='text-align: left;'>Revenue per<br>Segment</th><th style='text-align: left;'>$ Earned per<br>$ Spent</th><th style='text-align: left;'>Mag's Coefficient<br>$ earned / $ spent per segment</th></tr>";
             for (var player in players) {
+                var ts = turnStats[player];
+                var avgTurnStr = (ts && ts.count > 0) ? formatDuration(ts.totalMs / ts.count) : '—';
+                var slowTurnStr = (ts && ts.slowestMs > 0) ? formatDuration(ts.slowestMs) : '—';
                 statsText += 
                     "<tr><td style='text-align: left;'>" + player + 
                     "</td><td style='text-align: left;'>$" + players[player].money +
                     "</td><td style='text-align: left;'>" + segmentsBuilt[player] + 
                     "</td><td style='text-align: left;'>$" + segmentsCost[player] + 
                     "</td><td style='text-align: left;'>" + loadsDelivered[player] + 
+                    "</td><td style='text-align: left;'>" + loadsDropped[player] + 
                     "</td><td style='text-align: left;'>$" + loadsRevenue[player] + 
                     "</td><td style='text-align: left;'>" + milepostsMoved[player] + 
                     "</td><td style='text-align: left;'>" + timesPitched[player] + 
+                    "</td><td style='text-align: left;'>" + bribesPaid[player] + 
+                    "</td><td style='text-align: left;'>" + avgTurnStr + 
+                    "</td><td style='text-align: left;'>" + slowTurnStr + 
                     "</td><td style='text-align: left;'>$" + (loadsRevenue[player]/segmentsBuilt[player]).toFixed(2) + 
                     "</td><td style='text-align: left;'>" + (loadsRevenue[player]/segmentsCost[player]).toFixed(2) + 
                     "</td><td style='text-align: left;'>" + (loadsRevenue[player]*segmentsBuilt[player]/segmentsCost[player]).toFixed(2) + 
@@ -389,9 +550,23 @@
             statsText += "</table>";            
             document.getElementById('stats').innerHTML = statsText;
 
-            // Convert the data object to a JSON string
+            // Cache the analysis result so the series-picker change handler can
+            // swap chart data without re-parsing the input. Keeps the chart fully
+            // interactive after a single analyzeGame() call.
+            currentAnalysis = { players: players, rounds: rounds };
+            // Reset the series picker to Money on each fresh analysis, then reveal it.
+            document.getElementById('series-picker').value = 'money';
+            document.getElementById('series-picker-wrapper').style.display = 'inline';
+
+            // Convert the data object to a JSON string. Only the money-history is
+            // included in the shareable URL to keep links short — the extra
+            // per-series arrays (segmentsHistory etc.) live only in memory.
+            var serializablePlayers = {};
+            for (var p in players) {
+                serializablePlayers[p] = { money: players[p].money, history: players[p].history };
+            }
             var jsonString = JSON.stringify({
-                players: players,
+                players: serializablePlayers,
                 rounds: rounds,
                 //graphAnnotations: graphAnnotations
             });
