@@ -1,0 +1,756 @@
+Round	Player	Message
+42	Briand	Finished Turn on 5/16/2026 5:49:54 PM PDT
+42	Briand	Moved 6 spaces.
+42	Briand	Picked up Fur in Kola.
+42	Briand	Dropped off load Fish.
+42	Briand	Moved 9 spaces.
+42	Briand	Picked up Fish in Killavare.
+42	Briand	Drew card 113.
+42	Briand	Delivered Gems for $42 to Killavare.
+42	Briand	Moved 1 spaces.
+41	ssnumber8	Event Wizards Strike [145] has ended.
+41	ssnumber8	Finished Turn on 5/16/2026 5:45:46 PM PDT
+41	ssnumber8	Moved 16 spaces.
+41	ARStoo	Built 1 segments for $3.
+41	ARStoo	Finished Turn on 5/16/2026 4:35:18 PM PDT
+41	ARStoo	Moved 4 spaces.
+41	ARStoo	Moved 2 spaces.
+41	ARStoo	Moved 1 spaces.
+41	ARStoo	Moved 1 spaces.
+41	ARStoo	Moved 2 spaces.
+41	ARStoo	Moved 2 spaces.
+41	ARStoo	Moved 1 spaces.
+41	ARStoo	Moved 2 spaces.
+41	ARStoo	Picked up Wheat in Brevandes.
+41	ARStoo	Dropped off load Hops.
+41	ARStoo	Picked up Wheat in Brevandes.
+41	ARStoo	Dropped off load Spells.
+41	ARStoo	Moved 1 spaces, paying $4 for rent to Chip
+41	Chip	Event Flood! [151] has ended.
+41	Chip	Finished Turn on 5/16/2026 3:10:04 PM PDT
+41	Chip	Moved 9 spaces.
+41	Briand	Finished Turn on 5/16/2026 12:10:33 PM PDT
+41	Briand	Disembarked.
+41	Briand	Moved 6 spaces.
+40	ssnumber8	Finished Turn on 5/15/2026 11:06:34 PM PDT
+40	ssnumber8	Moved 7 spaces.
+40	ssnumber8	Picked up Fish in Parekis.
+40	ssnumber8	Drew card 73.
+40	ssnumber8	Event Wizards Strike [145] was drawn.
+40	ssnumber8	Delivered Jewelry for $44 to Parekis.
+40	ssnumber8	Moved 9 spaces.
+40	ARStoo	Finished Turn on 5/15/2026 9:18:40 PM PDT
+40	ARStoo	Moved 9 spaces.
+40	Chip	Finished Turn on 5/15/2026 8:55:33 PM PDT
+40	Chip	Pitched and drew cards 7, 45, 127.
+40	ssnumber8	Player had 1 tracks destroyed.
+40	Chip	Player had 1 tracks destroyed.
+40	ARStoo	Player had 1 tracks destroyed.
+40	Chip	Player had 1 tracks destroyed.
+40	Briand	Player had 1 tracks destroyed.
+40	Chip	Event Flood! [151] was drawn.
+40	Briand	Finished Turn on 5/15/2026 4:10:02 PM PDT
+40	Briand	Moved 11 spaces.
+39	ssnumber8	Finished Turn on 5/13/2026 6:55:26 PM PDT
+39	ssnumber8	Moved 16 spaces.
+39	ARStoo	Finished Turn on 5/13/2026 2:23:36 PM PDT
+39	ARStoo	Pitched and drew cards 41, 8, 124.
+39	Chip	Finished Turn on 5/13/2026 11:19:22 AM PDT
+39	Chip	Pitched and drew cards 92, 87, 38.
+39	Briand	Finished Turn on 5/13/2026 7:32:46 AM PDT
+39	Briand	Boarded ship "Fourth Emperor".
+39	Briand	Moved 9 spaces.
+38	ssnumber8	Finished Turn on 5/12/2026 9:53:59 PM PDT
+38	ssnumber8	Moved 9 spaces.
+38	ssnumber8	Picked up Steel in Redwitte.
+38	ssnumber8	Drew card 56.
+38	ssnumber8	Delivered Fruit for $15 to Redwitte.
+38	ssnumber8	Moved 7 spaces.
+38	ARStoo	Finished Turn on 5/12/2026 9:04:28 PM PDT
+38	ARStoo	Pitched and drew cards 18, 102, 11.
+38	Chip	Finished Turn on 5/12/2026 9:02:25 PM PDT
+38	Chip	Moved 1 spaces.
+38	Chip	Picked up Pilgrims in Janoshal.
+38	Chip	Drew card 35.
+38	Chip	Delivered Cloth for $36 to Janoshal.
+38	Chip	Moved 12 spaces.
+38	Briand	Finished Turn on 5/12/2026 8:54:35 PM PDT
+38	Briand	Moved 16 spaces.
+37	ssnumber8	Built 10 segments for $13.
+37	ssnumber8	Finished Turn on 5/12/2026 2:14:18 PM PDT
+37	ssnumber8	Player paid bribe of $1.
+37	ssnumber8	Moved 9 spaces.
+37	ssnumber8	Picked up Fruit in Ghassouf.
+37	ssnumber8	Dropped off load Fish.
+37	ssnumber8	Moved 7 spaces.
+37	ARStoo	Finished Turn on 5/12/2026 7:59:16 AM PDT
+37	ARStoo	Moved 4 spaces.
+37	ARStoo	Picked up Hops in Bluefeld.
+37	ARStoo	Drew card 10.
+37	ARStoo	Delivered Wine for $23 to Bluefeld.
+37	ARStoo	Picked up Hops in Bluefeld.
+37	ARStoo	Drew card 88.
+37	ARStoo	Delivered Cloth for $32 to Bluefeld.
+37	ARStoo	Moved 2 spaces.
+37	Chip	Finished Turn on 5/11/2026 10:50:56 PM PDT
+37	Chip	Moved 16 spaces.
+37	Briand	Finished Turn on 5/11/2026 8:48:20 PM PDT
+37	Briand	Moved 1 spaces.
+37	Briand	Picked up Wine in Saadah.
+37	Briand	Moved 15 spaces.
+36	ssnumber8	Finished Turn on 5/11/2026 7:53:07 PM PDT
+36	ssnumber8	Moved 11 spaces.
+36	ssnumber8	Picked up Wheat in Brevandes.
+36	ssnumber8	Dropped off load Fish.
+36	ssnumber8	Moved 5 spaces.
+36	ARStoo	Finished Turn on 5/11/2026 2:54:31 PM PDT
+36	ARStoo	Moved 16 spaces.
+36	Chip	Event Elven Antirailroad Activists! [138] has ended.
+36	Chip	Finished Turn on 5/11/2026 1:46:13 PM PDT
+36	Chip	Moved 16 spaces.
+36	Chip	Picked up Cloth in Octomare.
+36	Chip	Picked up Cloth in Octomare.
+36	Chip	Dropped off load Cattle.
+36	Chip	Dropped off load Pipeweed.
+36	Briand	Finished Turn on 5/11/2026 10:30:30 AM PDT
+36	Briand	Drew card 22.
+36	Briand	Delivered Ivory for $18 to Orc-Orodrag.
+36	Briand	Moved 16 spaces.
+35	ssnumber8	Built 5 segments for $12.
+35	ssnumber8	Finished Turn on 5/10/2026 10:02:33 PM PDT
+35	ssnumber8	Moved 9 spaces.
+35	ssnumber8	Picked up Fish in Parekis.
+35	ssnumber8	Drew card 130.
+35	ssnumber8	Delivered Wands for $41 to Parekis.
+35	ssnumber8	Moved 7 spaces.
+35	ARStoo	Built 1 segments for $3.
+35	ARStoo	Finished Turn on 5/10/2026 8:46:31 PM PDT
+35	ARStoo	Moved 16 spaces.
+35	Chip	Finished Turn on 5/10/2026 8:29:54 PM PDT
+35	Chip	Pitched and drew cards 1, 53, 34.
+35	Chip	Event Elven Antirailroad Activists! [138] was drawn.
+35	Briand	Finished Turn on 5/10/2026 7:48:19 PM PDT
+35	Briand	Moved 16 spaces.
+34	ssnumber8	Built 7 segments for $13.
+34	ssnumber8	Finished Turn on 5/10/2026 7:35:33 PM PDT
+34	ssnumber8	Moved 16 spaces.
+34	ARStoo	Finished Turn on 5/10/2026 1:46:54 PM PDT
+34	ARStoo	Moved 6 spaces.
+34	ARStoo	Picked up Wine in Saadah.
+34	ARStoo	Dropped off load Cloth.
+34	ARStoo	Moved 10 spaces.
+34	Chip	Finished Turn on 5/10/2026 10:55:48 AM PDT
+34	Chip	Moved 2 spaces.
+34	Chip	Picked up Wands in Octomare.
+34	Chip	Drew card 47.
+34	Chip	Delivered Spells for $20 to Octomare.
+34	Chip	Moved 10 spaces.
+34	Briand	Built 13 segments for $15.
+34	Briand	Finished Turn on 5/10/2026 10:02:06 AM PDT
+34	Briand	Moved 16 spaces.
+33	ssnumber8	Finished Turn on 5/9/2026 2:42:27 PM PDT
+33	ssnumber8	Moved 15 spaces.
+33	ARStoo	Built 11 segments for $16.
+33	ARStoo	Finished Turn on 5/9/2026 1:43:12 PM PDT
+33	ARStoo	Moved 10 spaces.
+33	ARStoo	Picked up Spells in Ozu-Zarkh.
+33	ARStoo	Dropped off load Cattle.
+33	ARStoo	Moved 6 spaces.
+33	Chip	Built 3 segments for $6.
+33	Chip	Finished Turn on 5/9/2026 1:22:16 PM PDT
+33	Chip	Player selected Grocca as foreman.
+33	Chip	Moved 12 spaces.
+33	Chip	Picked up Spells in Ozu-Zarkh.
+33	Chip	Dropped off load Jewelry.
+33	Chip	Moved 4 spaces.
+33	Briand	Built 10 segments for $15.
+33	Briand	Finished Turn on 5/9/2026 12:51:11 PM PDT
+33	Briand	Moved 16 spaces.
+32	ssnumber8	Built 14 segments for $20.
+32	ssnumber8	Finished Turn on 5/9/2026 11:33:39 AM PDT
+32	ssnumber8	Player paid bribe of $1.
+32	ssnumber8	Moved 16 spaces.
+32	ARStoo	Finished Turn on 5/9/2026 8:34:00 AM PDT
+32	ARStoo	Moved 7 spaces.
+32	ARStoo	Picked up Cloth in Oykjsord.
+32	ARStoo	Dropped off load Hops.
+32	ARStoo	Picked up Cloth in Oykjsord.
+32	ARStoo	Dropped off load Gems.
+32	ARStoo	Moved 9 spaces.
+32	Chip	Finished Turn on 5/9/2026 6:30:30 AM PDT
+32	Chip	Moved 16 spaces.
+32	Briand	Built 8 segments for $12.
+32	Briand	Finished Turn on 5/8/2026 11:19:19 PM PDT
+32	Briand	Moved 9 spaces.
+32	Briand	Picked up Wands in Octomare.
+32	Briand	Drew card 65.
+32	Briand	Delivered Pipeweed for $44 to Octomare.
+32	Briand	Moved 7 spaces.
+31	ssnumber8	Event Winged Demons Escape Underworld [144] has ended.
+31	ssnumber8	Finished Turn on 5/8/2026 10:34:37 PM PDT
+31	ssnumber8	Moved 16 spaces.
+31	ARStoo	Finished Turn on 5/8/2026 9:27:09 PM PDT
+31	ARStoo	Moved 16 spaces.
+31	Chip	Finished Turn on 5/8/2026 8:19:21 PM PDT
+31	Chip	Pitched and drew cards 2, 52, 77.
+31	Briand	Finished Turn on 5/8/2026 7:47:05 PM PDT
+31	Briand	Moved 16 spaces.
+31	Briand	Moved 12 spaces.
+30	ssnumber8	Built 11 segments for $19.
+30	ssnumber8	Finished Turn on 5/8/2026 12:31:42 PM PDT
+30	ssnumber8	Moved 6 spaces.
+30	ssnumber8	Picked up Jewelry in West Wyckk.
+30	ssnumber8	Moved 6 spaces.
+30	ssnumber8	Drew card 84.
+30	ssnumber8	Event Winged Demons Escape Underworld [144] was drawn.
+30	ssnumber8	Delivered Fur for $60 to Wikkedde.
+30	ssnumber8	Moved 4 spaces.
+30	ARStoo	Built 7 segments for $14.
+30	ARStoo	Finished Turn on 5/8/2026 9:37:01 AM PDT
+30	ARStoo	Moved 1 spaces.
+30	ARStoo	Picked up Gems in Sbadeh.
+30	ARStoo	Drew card 9.
+30	ARStoo	Delivered Hops for $33 to Sbadeh.
+30	ARStoo	Moved 15 spaces.
+30	Chip	Event Hurricane [135] has ended.
+30	Chip	Finished Turn on 5/8/2026 6:16:43 AM PDT
+30	Chip	Pitched and drew cards 103, 39, 23.
+30	Briand	Finished Turn on 5/7/2026 9:13:16 PM PDT
+30	Briand	Moved 16 spaces.
+29	ssnumber8	Finished Turn on 5/7/2026 10:44:54 AM PDT
+29	ssnumber8	Moved 16 spaces.
+29	ARStoo	Finished Turn on 5/7/2026 8:30:17 AM PDT
+29	ARStoo	Moved 4 spaces.
+29	Chip	Finished Turn on 5/7/2026 6:46:06 AM PDT
+29	Chip	Picked up Pipeweed in Jarlsstadh.
+29	Chip	Drew card 120.
+29	Chip	Event Hurricane [135] was drawn.
+29	Chip	Delivered Cattle for $23 to Jarlsstadh.
+29	Chip	Moved 8 spaces.
+29	Briand	Finished Turn on 5/6/2026 9:23:35 PM PDT
+29	Briand	Moved 13 spaces.
+29	Briand	Picked up Gems in Railla.
+29	Briand	Drew card 64.
+29	Briand	Delivered Fish for $20 to Railla.
+29	Briand	Moved 3 spaces.
+28	ssnumber8	Finished Turn on 5/4/2026 8:10:19 PM PDT
+28	ssnumber8	Moved 2 spaces.
+28	ssnumber8	Picked up Wands in Octomare.
+28	ssnumber8	Moved 14 spaces.
+28	ARStoo	Built 17 segments for $19.
+28	ARStoo	Finished Turn on 5/4/2026 8:09:25 PM PDT
+28	ARStoo	Player paid bribe of $1.
+28	ARStoo	Moved 16 spaces.
+28	Chip	Built 15 segments for $20.
+28	Chip	Finished Turn on 5/4/2026 6:52:09 PM PDT
+28	Chip	Moved 16 spaces.
+28	Briand	Built 14 segments for $20.
+28	Briand	Finished Turn on 5/4/2026 5:14:20 PM PDT
+28	Briand	Moved 16 spaces.
+27	ssnumber8	Finished Turn on 5/4/2026 10:11:38 AM PDT
+27	ssnumber8	Upgraded train to a Iron Dragon [16-3] for $20.
+27	ssnumber8	Moved 14 spaces.
+27	ARStoo	Built 17 segments for $20.
+27	ARStoo	Finished Turn on 5/4/2026 8:20:10 AM PDT
+27	ARStoo	Player paid bribe of $1.
+27	ARStoo	Moved 9 spaces.
+27	ARStoo	Picked up Cattle in Bulatz.
+27	ARStoo	Moved 4 spaces.
+27	ARStoo	Drew card 119.
+27	ARStoo	Delivered Spells for $48 to Bluefeld.
+27	ARStoo	Picked up Hops in Bluefeld.
+27	ARStoo	Picked up Hops in Bluefeld.
+27	ARStoo	Moved 3 spaces.
+27	Chip	Built 13 segments for $20.
+27	Chip	Finished Turn on 5/4/2026 6:13:01 AM PDT
+27	Chip	Player paid bribe of $1.
+27	Chip	Moved 5 spaces.
+27	Chip	Picked up Cattle in Bulatz.
+27	Chip	Drew card 114.
+27	Chip	Delivered Fruit for $21 to Bulatz.
+27	Chip	Picked up Cattle in Bulatz.
+27	Chip	Moved 11 spaces.
+27	Briand	Event Evil Prince Summons Warlord [148] has ended.
+27	Briand	Built 11 segments for $20.
+27	Briand	Finished Turn on 5/3/2026 10:19:45 PM PDT
+27	Briand	Moved 4 spaces.
+27	Briand	Picked up Pipeweed in Jodarre.
+27	Briand	Dropped off load Ivory.
+27	Briand	Moved 12 spaces.
+26	ssnumber8	Built 9 segments for $18.
+26	ssnumber8	Finished Turn on 5/3/2026 9:34:23 PM PDT
+26	ssnumber8	Moved 5 spaces.
+26	ssnumber8	Picked up Fish in Piggnytz.
+26	ssnumber8	Drew card 16.
+26	ssnumber8	Delivered Lumber for $19 to Piggnytz.
+26	ssnumber8	Moved 9 spaces.
+26	ARStoo	Player's turn was skipped due to an event.
+26	Chip	Player's turn was skipped due to an event.
+26	ARStoo	Finished Turn on 5/3/2026 9:31:40 PM PDT
+26	ARStoo	Dropped off load Iron.
+26	Chip	Finished Turn on 5/3/2026 9:24:55 PM PDT
+26	Chip	Dropped off load Fruit.
+26	Briand	Finished Turn on 5/3/2026 8:49:33 PM PDT
+26	Briand	Moved 2 spaces.
+26	Briand	Picked up Fish in Parekis.
+26	Briand	Drew card 14.
+26	ARStoo	1 load(s) must be dropped.
+26	Chip	1 load(s) must be dropped.
+26	ARStoo	1 turn(s) has been lost.
+26	Chip	1 turn(s) has been lost.
+26	Briand	Event Evil Prince Summons Warlord [148] was drawn.
+26	Briand	Delivered Ivory for $53 to Parekis.
+26	Briand	Moved 14 spaces.
+25	ssnumber8	Built 9 segments for $18.
+25	ssnumber8	Finished Turn on 5/3/2026 1:01:50 PM PDT
+25	ssnumber8	Moved 6 spaces.
+25	ssnumber8	Moved 6 spaces.
+25	ssnumber8	Picked up Lumber in Pinewaere.
+25	ssnumber8	Drew card 99.
+25	ssnumber8	Delivered Fur for $66 to Pinewaere.
+25	ssnumber8	Moved 6 spaces.
+25	ARStoo	Built 8 segments for $20.
+25	ARStoo	Finished Turn on 5/3/2026 11:18:50 AM PDT
+25	ARStoo	Upgraded train to a Iron Dragon [16-3] for $10.
+25	ARStoo	Moved 16 spaces.
+25	Chip	Finished Turn on 5/3/2026 10:45:55 AM PDT
+25	Chip	Moved 16 spaces.
+25	Briand	Finished Turn on 5/3/2026 10:34:23 AM PDT
+25	Briand	Disembarked.
+25	Briand	Moved 7 spaces.
+24	ssnumber8	Finished Turn on 5/3/2026 10:18:00 AM PDT
+24	ssnumber8	Moved 14 spaces.
+24	ARStoo	Built 13 segments for $20.
+24	ARStoo	Finished Turn on 5/2/2026 10:33:04 PM PDT
+24	ARStoo	Moved 4 spaces.
+24	Chip	Finished Turn on 5/2/2026 10:14:12 PM PDT
+24	Chip	Moved 5 spaces.
+24	Chip	Picked up Fruit in Ghassouf.
+24	Chip	Picked up Fruit in Ghassouf.
+24	Chip	Dropped off load Cattle.
+24	Chip	Moved 3 spaces.
+24	Chip	Moved 1 spaces, paying $4 for rent to ssnumber8
+24	Chip	Drew card 82.
+24	Chip	Delivered Hops for $23 to Glyween.
+24	Chip	Moved 7 spaces.
+24	Briand	Finished Turn on 5/2/2026 9:25:55 PM PDT
+24	Briand	Moved 8 spaces.
+23	ssnumber8	Finished Turn on 5/2/2026 6:18:53 PM PDT
+23	ssnumber8	Moved 14 spaces.
+23	ARStoo	Finished Turn on 5/2/2026 8:56:50 AM PDT
+23	ARStoo	Pitched and drew cards 25, 33, 13.
+23	Chip	Finished Turn on 5/2/2026 7:32:35 AM PDT
+23	Chip	Moved 16 spaces.
+23	Briand	Finished Turn on 5/1/2026 11:09:41 PM PDT
+23	Briand	Moved 8 spaces.
+22	ssnumber8	Finished Turn on 5/1/2026 6:56:41 PM PDT
+22	ssnumber8	Moved 14 spaces.
+22	ARStoo	Finished Turn on 5/1/2026 6:30:15 PM PDT
+22	ARStoo	Picked up Iron in Railla.
+22	ARStoo	Drew card 36.
+22	ARStoo	Delivered Jewelry for $34 to Railla.
+22	ARStoo	Moved 15 spaces.
+22	Chip	Event Flood! [152] has ended.
+22	Chip	Built 17 segments for $20.
+22	Chip	Finished Turn on 5/1/2026 12:44:08 PM PDT
+22	Chip	Player paid bribe of $1.
+22	Chip	Moved 9 spaces.
+22	Chip	Picked up Hops in Bluefeld.
+22	Chip	Dropped off load Sheep.
+22	Chip	Moved 7 spaces.
+22	Briand	Finished Turn on 5/1/2026 11:18:25 AM PDT
+22	Briand	Moved 8 spaces.
+21	ssnumber8	Built 9 segments for $20.
+21	ssnumber8	Finished Turn on 5/1/2026 11:13:19 AM PDT
+21	ssnumber8	Moved 14 spaces.
+21	ARStoo	Finished Turn on 5/1/2026 9:36:37 AM PDT
+21	ARStoo	Moved 16 spaces.
+21	Chip	Finished Turn on 5/1/2026 8:27:51 AM PDT
+21	Chip	Pitched and drew cards 81, 63, 42.
+21	Chip	Player was taxed $10.
+21	Chip	Event War Tax! [140] was drawn.
+21	ssnumber8	Player had 1 tracks destroyed.
+21	ssnumber8	Player had 1 tracks destroyed.
+21	Chip	Event Flood! [152] was drawn.
+21	Briand	Finished Turn on 4/30/2026 11:54:40 PM PDT
+21	Briand	Moved 8 spaces.
+20	ssnumber8	Built 13 segments for $20.
+20	ssnumber8	Finished Turn on 4/30/2026 11:43:27 PM PDT
+20	ssnumber8	Moved 2 spaces.
+20	ssnumber8	Picked up Fur in Kola.
+20	ssnumber8	Dropped off load Potions.
+20	ssnumber8	Picked up Fur in Kola.
+20	ssnumber8	Drew card 86.
+20	ssnumber8	Delivered Wine for $32 to Kola.
+20	ssnumber8	Moved 12 spaces.
+20	ARStoo	Built 5 segments for $7.
+20	ARStoo	Finished Turn on 4/30/2026 10:49:21 PM PDT
+20	ARStoo	Moved 5 spaces.
+20	ARStoo	Picked up Spells in Ozu-Zarkh.
+20	ARStoo	Moved 5 spaces.
+20	ARStoo	Dropped off load Pilgrims.
+20	ARStoo	Picked up Jewelry in West Wyckk.
+20	ARStoo	Dropped off load Gems.
+20	ARStoo	Moved 6 spaces.
+20	Chip	Finished Turn on 4/30/2026 10:03:57 PM PDT
+20	Chip	Moved 11 spaces.
+20	Chip	Picked up Cattle in Bulatz.
+20	Chip	Drew card 51.
+20	Chip	Delivered Spells for $44 to Bulatz.
+20	Chip	Moved 2 spaces.
+20	Briand	Finished Turn on 4/30/2026 10:02:31 PM PDT
+20	Briand	Moved 8 spaces.
+19	ssnumber8	Built 12 segments for $19.
+19	ssnumber8	Finished Turn on 4/30/2026 9:51:35 PM PDT
+19	ssnumber8	Moved 13 spaces.
+19	ARStoo	Built 13 segments for $20.
+19	ARStoo	Finished Turn on 4/30/2026 9:35:07 PM PDT
+19	ARStoo	Moved 11 spaces.
+19	ARStoo	Picked up Gems in Sbadeh.
+19	ARStoo	Drew card 62.
+19	ARStoo	Delivered Spells for $23 to Sbadeh.
+19	ARStoo	Moved 5 spaces.
+19	Chip	Built 12 segments for $18.
+19	Chip	Finished Turn on 4/30/2026 9:03:25 PM PDT
+19	Chip	Moved 16 spaces.
+19	Briand	Finished Turn on 4/30/2026 8:30:03 PM PDT
+19	Briand	Moved 8 spaces.
+18	ssnumber8	Built 13 segments for $20.
+18	ssnumber8	Finished Turn on 4/29/2026 10:58:14 PM PDT
+18	ssnumber8	Moved 4 spaces.
+18	ssnumber8	Picked up Wine in Glyween.
+18	ssnumber8	Drew card 85.
+18	ssnumber8	Delivered Spells for $43 to Glyween.
+18	ssnumber8	Moved 5 spaces.
+18	ARStoo	Built 13 segments for $20.
+18	ARStoo	Finished Turn on 4/29/2026 10:24:43 PM PDT
+18	ARStoo	Moved 8 spaces.
+18	ARStoo	Picked up Spells in Ozu-Zarkh.
+18	ARStoo	Moved 1 spaces.
+18	ARStoo	Drew card 132.
+18	ARStoo	Delivered Ale for $36 to Wikkedde.
+18	Chip	Built 16 segments for $20.
+18	Chip	Finished Turn on 4/29/2026 10:19:03 PM PDT
+18	Chip	Moved 5 spaces.
+18	Chip	Picked up Sheep in Jobabh.
+18	Chip	Drew card 94.
+18	Chip	Delivered Lumber for $22 to Jobabh.
+18	Chip	Moved 11 spaces.
+18	Briand	Finished Turn on 4/29/2026 9:53:58 PM PDT
+18	Briand	Boarded ship "Serpent".
+18	Briand	Moved 1 spaces.
+18	Briand	Picked up Ivory in Kodankye.
+18	Briand	Dropped off load Cattle.
+18	Briand	Picked up Ivory in Kodankye.
+18	Briand	Picked up Ivory in Kodankye.
+18	Briand	Dropped off load Cattle.
+18	Briand	Dropped off load Hops.
+18	Briand	Moved 1 spaces.
+17	ssnumber8	Finished Turn on 4/29/2026 9:33:28 PM PDT
+17	ssnumber8	Moved 14 spaces.
+17	ARStoo	Finished Turn on 4/29/2026 9:12:19 PM PDT
+17	ARStoo	Disembarked.
+17	ARStoo	Moved 7 spaces.
+17	Chip	Built 14 segments for $20.
+17	Chip	Finished Turn on 4/29/2026 5:55:29 PM PDT
+17	Chip	Player paid bribe of $1.
+17	Chip	Moved 4 spaces.
+17	Chip	Picked up Spells in Ozu-Zarkh.
+17	Chip	Dropped off load Fish.
+17	Chip	Moved 5 spaces.
+17	Chip	Picked up Jewelry in West Wyckk.
+17	Chip	Dropped off load Pilgrims.
+17	Chip	Picked up Lumber in West Wyckk.
+17	Chip	Drew card 28.
+17	Chip	Delivered Hops for $51 to West Wyckk.
+17	Chip	Moved 7 spaces.
+17	Briand	Finished Turn on 4/29/2026 4:50:58 PM PDT
+17	Briand	Disembarked.
+17	Briand	Moved 7 spaces.
+16	ssnumber8	Finished Turn on 4/29/2026 12:00:26 AM PDT
+16	ssnumber8	Disembarked.
+16	ssnumber8	Moved 6 spaces.
+16	ARStoo	Built 5 segments for $8.
+16	ARStoo	Finished Turn on 4/28/2026 10:40:50 PM PDT
+16	ARStoo	Boarded ship "Eastern Star".
+16	ARStoo	Moved 5 spaces.
+16	Chip	Finished Turn on 4/28/2026 9:53:39 PM PDT
+16	Chip	Upgraded train to a Iron Dragon [16-3] for $10.
+16	Chip	Moved 12 spaces.
+16	Chip	Picked up Pilgrims in Janoshal.
+16	Chip	Drew card 30.
+16	Chip	Delivered Steel for $17 to Janoshal.
+16	Chip	Moved 2 spaces.
+16	Briand	Finished Turn on 4/28/2026 8:56:31 PM PDT
+16	Briand	Moved 12 spaces.
+16	Briand	Moved 12 spaces.
+15	ssnumber8	Finished Turn on 4/28/2026 12:06:01 PM PDT
+15	ssnumber8	Moved 3 spaces.
+15	ssnumber8	Moved 6 spaces.
+15	ARStoo	Finished Turn on 4/27/2026 9:50:51 PM PDT
+15	ARStoo	Moved 15 spaces.
+15	Chip	Built 5 segments for $6.
+15	Chip	Finished Turn on 4/27/2026 9:42:39 PM PDT
+15	Chip	Moved 14 spaces.
+15	Briand	Finished Turn on 4/27/2026 9:40:30 PM PDT
+15	Briand	Moved 12 spaces.
+14	ssnumber8	Built 4 segments for $9.
+14	ssnumber8	Finished Turn on 4/27/2026 9:24:21 PM PDT
+14	ssnumber8	Moved 9 spaces.
+14	ARStoo	Finished Turn on 4/27/2026 8:16:46 PM PDT
+14	ARStoo	Moved 16 spaces.
+14	ARStoo	Player paid bribe of $1.
+14	Chip	Built 13 segments for $20.
+14	Chip	Finished Turn on 4/27/2026 6:37:05 PM PDT
+14	Chip	Moved 6 spaces.
+14	Chip	Picked up Steel in Bremmner.
+14	Chip	Dropped off load Cloth.
+14	Chip	Moved 7 spaces, paying $4 for rent to ssnumber8
+14	Chip	Picked up Hops in Bluefeld.
+14	Chip	Moved 7 spaces, paying $4 for rent to ssnumber8
+14	Chip	Dropped off load Fish.
+14	Chip	Moved 1 spaces.
+14	Briand	Finished Turn on 4/27/2026 4:32:36 PM PDT
+14	Briand	Moved 12 spaces.
+13	ssnumber8	Built 14 segments for $20.
+13	ssnumber8	Finished Turn on 4/27/2026 2:07:50 PM PDT
+13	ssnumber8	Boarded ship "Seahawk".
+13	ssnumber8	Moved 9 spaces.
+13	ssnumber8	Picked up Potions in Oraianda.
+13	ssnumber8	Drew card 109.
+13	ssnumber8	Delivered Jewelry for $30 to Oraianda.
+13	ssnumber8	Moved 3 spaces.
+13	ARStoo	Event Barbarians Attack! [146] has ended.
+13	ARStoo	Built 5 segments for $6.
+13	ARStoo	Finished Turn on 4/27/2026 8:24:07 AM PDT
+13	ARStoo	Moved 16 spaces.
+13	ARStoo	Player paid bribe of $1.
+13	Chip	Finished Turn on 4/26/2026 11:02:51 PM PDT
+13	Chip	Upgraded train to a Black Dragon [14-3] for $20.
+13	Chip	Moved 10 spaces.
+13	Briand	Finished Turn on 4/26/2026 10:56:10 PM PDT
+13	Briand	Moved 12 spaces.
+12	ssnumber8	Finished Turn on 4/26/2026 10:37:05 PM PDT
+12	ssnumber8	Moved 14 spaces.
+12	ARStoo	Finished Turn on 4/26/2026 10:15:30 PM PDT
+12	ARStoo	Pitched and drew cards 24, 106, 68.
+12	ARStoo	Event Barbarians Attack! [146] was drawn.
+12	Chip	Finished Turn on 4/26/2026 10:08:56 PM PDT
+12	Chip	Pitched and drew cards 54, 90, 66.
+12	Briand	Built 3 segments for $6.
+12	Briand	Finished Turn on 4/26/2026 7:37:34 PM PDT
+12	Briand	Boarded ship "Royal Sovereign".
+12	Briand	Moved 5 spaces.
+11	ssnumber8	Finished Turn on 4/26/2026 6:54:54 PM PDT
+11	ssnumber8	Moved 12 spaces.
+11	ssnumber8	Picked up Spells in Ozu-Zarkh.
+11	ssnumber8	Dropped off load Cattle.
+11	ssnumber8	Moved 2 spaces.
+11	ARStoo	Finished Turn on 4/26/2026 12:55:31 PM PDT
+11	ARStoo	Moved 1 spaces.
+11	ARStoo	Moved 8 spaces.
+11	ARStoo	Picked up Ale in Uderyn.
+11	ARStoo	Drew card 111.
+11	ARStoo	Delivered Fruit for $22 to Uderyn.
+11	ARStoo	Moved 7 spaces.
+11	ARStoo	Player paid bribe of $1.
+11	Chip	Built 8 segments for $20.
+11	Chip	Finished Turn on 4/26/2026 11:49:41 AM PDT
+11	Chip	Moved 2 spaces.
+11	Chip	Picked up Fish in Piggnytz.
+11	Chip	Dropped off load Cattle.
+11	Chip	Picked up Fish in Piggnytz.
+11	Chip	Drew card 59.
+11	Chip	Delivered Jewelry for $54 to Piggnytz.
+11	Chip	Moved 8 spaces.
+11	Briand	Built 15 segments for $20.
+11	Briand	Finished Turn on 4/26/2026 11:39:16 AM PDT
+11	Briand	Moved 7 spaces.
+11	Briand	Picked up Cattle in Penjold.
+11	Briand	Drew card 118.
+11	Briand	Delivered Gold for $37 to Penjold.
+11	Briand	Picked up Cattle in Penjold.
+11	Briand	Moved 9 spaces.
+10	ssnumber8	Finished Turn on 4/26/2026 10:07:57 AM PDT
+10	ssnumber8	Moved 4 spaces.
+10	ssnumber8	Picked up Jewelry in West Wyckk.
+10	ssnumber8	Dropped off load Potions.
+10	ssnumber8	Moved 10 spaces.
+10	ARStoo	Built 7 segments for $11.
+10	ARStoo	Finished Turn on 4/26/2026 9:06:20 AM PDT
+10	ARStoo	Player paid bribe of $1.
+10	ARStoo	Moved 15 spaces.
+10	ARStoo	Player paid bribe of $1.
+10	Chip	Built 12 segments for $19.
+10	Chip	Finished Turn on 4/25/2026 10:48:31 PM PDT
+10	Chip	Player selected Steffan as foreman.
+10	Chip	Player selected Carras as foreman.
+10	Chip	Player selected Cynnrr as foreman.
+10	Chip	Moved 9 spaces.
+10	Chip	Picked up Cattle in Bulatz.
+10	Chip	Drew card 4.
+10	Chip	Delivered Wands for $36 to Bulatz.
+10	Chip	Moved 1 spaces.
+10	Briand	Finished Turn on 4/25/2026 5:54:58 PM PDT
+10	Briand	Moved 16 spaces.
+9	ssnumber8	Finished Turn on 4/25/2026 4:25:01 PM PDT
+9	ssnumber8	Upgraded train to a White Dragon [14-2] for $10.
+9	ssnumber8	Moved 12 spaces.
+9	ARStoo	Finished Turn on 4/25/2026 1:28:43 PM PDT
+9	ARStoo	Upgraded train to a Red Dragon [16-2] for $10.
+9	ARStoo	Upgraded train to a White Dragon [14-2] for $10.
+9	ARStoo	Moved 7 spaces.
+9	ARStoo	Player paid bribe of $1.
+9	ARStoo	Picked up Fruit in Ghassouf.
+9	ARStoo	Drew card 91.
+9	ARStoo	Delivered Pilgrims for $27 to Ghassouf.
+9	ARStoo	Moved 5 spaces.
+9	Chip	Finished Turn on 4/25/2026 12:57:19 PM PDT
+9	Chip	Disembarked.
+9	Chip	Moved 11 spaces.
+9	Briand	Finished Turn on 4/25/2026 12:47:47 PM PDT
+9	Briand	Upgraded train to a Iron Dragon [16-3] for $10.
+9	Briand	Moved 14 spaces.
+9	Briand	Picked up Gold in Risidan.
+9	Briand	Moved 2 spaces.
+8	ssnumber8	Finished Turn on 4/25/2026 10:13:14 AM PDT
+8	ssnumber8	Moved 12 spaces.
+8	ARStoo	Finished Turn on 4/25/2026 10:11:34 AM PDT
+8	ARStoo	Moved 12 spaces.
+8	Chip	Finished Turn on 4/25/2026 10:00:48 AM PDT
+8	Chip	Moved 12 spaces.
+8	Briand	Built 10 segments for $19.
+8	Briand	Finished Turn on 4/25/2026 9:19:26 AM PDT
+8	Briand	Moved 8 spaces.
+8	Briand	Drew card 131.
+8	Briand	Delivered Fish for $30 to Saadah.
+8	Briand	Moved 6 spaces.
+7	ssnumber8	Built 4 segments for $16.
+7	ssnumber8	Finished Turn on 4/21/2026 10:53:29 AM PDT
+7	ssnumber8	Upgraded train to a Salamander [12-2] for $10.
+7	ssnumber8	Moved 1 spaces.
+7	ssnumber8	Picked up Potions in Oraianda.
+7	ssnumber8	Drew card 97.
+7	ssnumber8	Delivered Steel for $36 to Oraianda.
+7	ssnumber8	Moved 9 spaces.
+7	ARStoo	Built 1 segments for $3.
+7	ARStoo	Finished Turn on 4/21/2026 8:37:37 AM PDT
+7	ARStoo	Moved 9 spaces.
+7	ARStoo	Picked up Pilgrims in Janoshal.
+7	ARStoo	Dropped off load Iron.
+7	ARStoo	Picked up Pilgrims in Janoshal.
+7	ARStoo	Dropped off load Ale.
+7	ARStoo	Moved 3 spaces.
+7	Chip	Finished Turn on 4/20/2026 11:53:36 PM PDT
+7	Chip	Boarded ship "Vulture".
+7	Chip	Moved 2 spaces.
+7	Chip	Picked up Cloth in Octomare.
+7	Chip	Dropped off load Jewelry.
+7	Chip	Picked up Wands in Octomare.
+7	Chip	Moved 2 spaces.
+7	Briand	Finished Turn on 4/20/2026 10:25:04 PM PDT
+7	Briand	Moved 16 spaces.
+6	ssnumber8	Finished Turn on 4/19/2026 10:28:39 PM PDT
+6	ssnumber8	Disembarked.
+6	ssnumber8	Moved 4 spaces.
+6	ARStoo	Finished Turn on 4/19/2026 9:47:47 PM PDT
+6	ARStoo	Moved 12 spaces.
+6	Chip	Finished Turn on 4/19/2026 9:01:48 PM PDT
+6	Chip	Disembarked.
+6	Chip	Moved 1 spaces.
+6	Briand	Finished Turn on 4/19/2026 5:35:21 PM PDT
+6	Briand	Moved 16 spaces.
+5	ssnumber8	Finished Turn on 4/19/2026 11:31:42 AM PDT
+5	ssnumber8	Moved 10 spaces.
+5	ARStoo	Built 16 segments for $20.
+5	ARStoo	Finished Turn on 4/19/2026 9:45:02 AM PDT
+5	ARStoo	Moved 2 spaces.
+5	ARStoo	Picked up Iron in Railla.
+5	ARStoo	Drew card 95.
+5	ARStoo	Delivered Ale for $24 to Railla.
+5	ARStoo	Moved 10 spaces.
+5	Chip	Finished Turn on 4/19/2026 7:55:24 AM PDT
+5	Chip	Moved 10 spaces.
+5	Briand	Finished Turn on 4/18/2026 11:28:20 PM PDT
+5	Briand	Upgraded train to a Red Dragon [16-2] for $20.
+5	Briand	Moved 1 spaces.
+5	Briand	Picked up Hops in Bluefeld.
+5	Briand	Drew card 105.
+5	Briand	Delivered Fish for $10 to Bluefeld.
+5	Briand	Moved 11 spaces.
+4	ssnumber8	Finished Turn on 4/18/2026 8:00:23 PM PDT
+4	ssnumber8	Moved 10 spaces.
+4	ARStoo	Built 3 segments for $15.
+4	ARStoo	Finished Turn on 4/18/2026 4:27:39 PM PDT
+4	ARStoo	Upgraded train to a Salamander [12-2] for $10.
+4	ARStoo	Moved 10 spaces.
+4	ARStoo	Player paid bribe of $1.
+4	Chip	Finished Turn on 4/18/2026 11:21:42 AM PDT
+4	Chip	Moved 10 spaces.
+4	Briand	Built 8 segments for $19.
+4	Briand	Finished Turn on 4/18/2026 9:46:50 AM PDT
+4	Briand	Upgraded train to a Salamander [12-2] for $10.
+4	Briand	Moved 1 spaces.
+4	Briand	Picked up Fish in Parekis.
+4	Briand	Dropped off load Gems.
+4	Briand	Picked up Fish in Parekis.
+4	Briand	Drew card 61.
+4	Briand	Delivered Iron for $20 to Parekis.
+4	Briand	Moved 9 spaces.
+3	ssnumber8	Built 16 segments for $20.
+3	ssnumber8	Finished Turn on 4/15/2026 12:28:07 AM PDT
+3	ssnumber8	Boarded ship "Old Mormoth".
+3	ssnumber8	Moved 2 spaces.
+3	ssnumber8	Picked up Cattle in Bulatz.
+3	ssnumber8	Dropped off load Steel.
+3	ssnumber8	Moved 3 spaces.
+3	ssnumber8	Moved 5 spaces.
+3	ssnumber8	Picked up Steel in Bremmner.
+3	ssnumber8	Picked up Steel in Bremmner.
+3	ARStoo	Built 13 segments for $20.
+3	ARStoo	Finished Turn on 4/14/2026 9:20:35 PM PDT
+3	ARStoo	Moved 10 spaces.
+3	ARStoo	Player paid bribe of $1.
+3	ARStoo	Picked up Ale in Uloggh.
+3	ARStoo	Picked up Ale in Uloggh.
+3	Chip	Built 3 segments for $14.
+3	Chip	Finished Turn on 4/14/2026 9:15:53 PM PDT
+3	Chip	Upgraded train to a Sardar [10-3] for $10.
+3	Chip	Boarded ship "Hyperion".
+3	Chip	Moved 6 spaces.
+3	Chip	Picked up Jewelry in West Wyckk.
+3	Chip	Picked up Jewelry in West Wyckk.
+3	Briand	Built 4 segments for $9.
+3	Briand	Finished Turn on 4/14/2026 9:13:33 PM PDT
+3	Briand	Moved 10 spaces.
+3	Briand	Moved 10 spaces.
+3	Briand	Picked up Gems in Railla.
+3	Briand	Picked up Iron in Railla.
+2	Briand	Built 13 segments for $19.
+2	Briand	Finished Turn on 4/14/2026 9:11:52 PM PDT
+2	Chip	Built 12 segments for $20.
+2	Chip	Finished Turn on 4/12/2026 10:14:45 PM PDT
+2	ARStoo	Built 16 segments for $20.
+2	ARStoo	Finished Turn on 4/12/2026 2:42:27 PM PDT
+2	ARStoo	Player paid bribe of $1.
+2	ssnumber8	Built 9 segments for $16.
+2	ssnumber8	Finished Turn on 4/12/2026 12:39:51 PM PDT
+1	ssnumber8	Built 11 segments for $16.
+1	ssnumber8	Finished Turn on 4/12/2026 9:33:24 AM PDT
+1	ARStoo	Finished Turn on 4/12/2026 9:11:19 AM PDT
+1	ARStoo	Pitched and drew cards 78, 104, 69.
+1	Chip	Built 10 segments for $20.
+1	Chip	Finished Turn on 4/12/2026 8:29:37 AM PDT
+1	Briand	Built 16 segments for $20.
+1	Briand	Finished Turn on 4/11/2026 9:20:54 PM PDT
+0	ssnumber8	Finished Turn on 4/11/2026 7:41:02 PM PDT
+0	ssnumber8	Player selected Gaelwyth Grae as foreman.
+0	Chip	Finished Turn on 4/11/2026 2:17:44 PM PDT
+0	Chip	Player selected Grocca as foreman.
+0	ssnumber8	Finished Turn on 4/11/2026 12:39:06 PM PDT
+0	ARStoo	Finished Turn on 4/11/2026 11:31:54 AM PDT
+0	ARStoo	Player selected Ragnor Rockjaw as foreman.
+0	Chip	Finished Turn on 4/11/2026 10:54:06 AM PDT
+0	Briand	Finished Turn on 4/11/2026 10:25:17 AM PDT
+0	Briand	Player selected Persy Browne as foreman.
+1		IronDragon2017 game OPEN_005_IronDragon2017 has started. Each player starts with $60.

@@ -1,0 +1,387 @@
+46	Rick	Finished Turn on 5/16/2026 6:24:30 PM PDT
+46	Rick	Moved 6 spaces.
+46	Rick	Moved 6 spaces.
+45	Briand	Built 1 segments for $3.
+45	Briand	Finished Turn on 5/16/2026 4:13:49 PM PDT
+45	Briand	Moved 10 spaces.
+45	Briand	Picked up Machinery in Buffalo.
+45	Briand	Dropped off load Cattle.
+45	Briand	Moved 2 spaces.
+45	Rick	Finished Turn on 5/16/2026 3:18:01 PM PDT
+45	Rick	Moved 7 spaces.
+45	Rick	Picked up Nickel in Sudbury.
+45	Rick	Dropped off load Swine.
+45	Rick	Picked up Nickel in Sudbury.
+45	Rick	Moved 5 spaces.
+44	Briand	Built 8 segments for $10.
+44	Briand	Finished Turn on 5/16/2026 1:37:09 PM PDT
+44	Briand	Moved 12 spaces.
+44	Rick	Finished Turn on 5/16/2026 1:28:18 PM PDT
+44	Rick	Moved 12 spaces.
+43	Briand	Finished Turn on 5/16/2026 12:21:02 PM PDT
+43	Briand	Moved 12 spaces.
+43	Rick	Built 10 segments for $17.
+43	Rick	Finished Turn on 5/16/2026 10:42:27 AM PDT
+43	Rick	Moved 12 spaces.
+42	Briand	Finished Turn on 5/15/2026 4:05:57 PM PDT
+42	Briand	Moved 12 spaces.
+42	Rick	Finished Turn on 5/13/2026 5:47:11 PM PDT
+42	Rick	Drew card 91.
+42	Rick	Delivered Sugar for $39 to Atlanta.
+42	Rick	Moved 6 spaces.
+41	Briand	Finished Turn on 5/12/2026 8:34:38 PM PDT
+41	Briand	Moved 12 spaces.
+41	Rick	Finished Turn on 5/11/2026 9:03:08 PM PDT
+41	Rick	Moved 6 spaces.
+41	Rick	Picked up Swine in St. Louis.
+41	Rick	Drew card 26.
+41	Rick	Delivered Sugar for $27 to St. Louis.
+41	Rick	Moved 6 spaces.
+40	Briand	Finished Turn on 5/11/2026 8:45:47 PM PDT
+40	Briand	Moved 2 spaces.
+40	Briand	Picked up Lead in Boise.
+40	Briand	Drew card 20.
+40	Briand	Delivered Uranium for $11 to Boise.
+40	Briand	Moved 10 spaces.
+40	Rick	Built 4 segments for $8.
+40	Rick	Finished Turn on 5/11/2026 6:03:47 PM PDT
+40	Rick	Moved 12 spaces.
+39	Briand	Finished Turn on 5/11/2026 10:29:10 AM PDT
+39	Briand	Moved 12 spaces.
+39	Briand	Moved 12 spaces.
+39	Rick	Finished Turn on 5/10/2026 10:01:31 PM PDT
+39	Rick	Moved 1 spaces.
+39	Rick	Picked up Uranium in Santa Fe.
+39	Rick	Dropped off load Cotton.
+39	Rick	Moved 11 spaces.
+39	Rick	Moved 12 spaces.
+38	Briand	Built 2 segments for $4.
+38	Briand	Finished Turn on 5/10/2026 10:08:07 AM PDT
+38	Briand	Moved 1 spaces.
+38	Briand	Picked up Cattle in Regina.
+38	Briand	Dropped off load Wood.
+38	Briand	Moved 1 spaces.
+38	Briand	Picked up Uranium in Regina.
+38	Briand	Drew card 58.
+38	Briand	Delivered Machinery for $23 to Regina.
+38	Briand	Moved 11 spaces.
+38	Rick	Built 14 segments for $20.
+38	Rick	Finished Turn on 5/10/2026 7:20:53 AM PDT
+38	Rick	Moved 9 spaces.
+38	Rick	Picked up Sugar in San Francisco.
+38	Rick	Picked up Sugar in San Francisco.
+38	Rick	Drew card 87.
+38	Rick	Delivered Tobacco for $42 to San Francisco.
+38	Rick	Moved 3 spaces.
+37	Briand	Finished Turn on 5/9/2026 12:47:40 PM PDT
+37	Briand	Moved 12 spaces.
+37	Rick	Finished Turn on 5/9/2026 11:16:00 AM PDT
+37	Rick	Moved 8 spaces.
+37	Rick	Drew card 106.
+37	Rick	Delivered Cattle for $14 to Las Vegas.
+37	Rick	Moved 4 spaces.
+36	Briand	Built 7 segments for $12.
+36	Briand	Finished Turn on 5/9/2026 9:52:48 AM PDT
+36	Briand	Moved 11 spaces.
+36	Briand	Picked up Machinery in Toronto.
+36	Briand	Dropped off load Wood.
+36	Briand	Moved 1 spaces.
+36	Rick	Built 1 segments for $3.
+36	Rick	Finished Turn on 5/9/2026 6:31:48 AM PDT
+35	Briand	Event Flood! [139] has ended.
+35	Briand	Finished Turn on 5/8/2026 7:45:04 PM PDT
+35	Briand	Moved 12 spaces.
+35	Rick	Finished Turn on 5/8/2026 12:09:21 PM PDT
+35	Rick	Moved 5 spaces.
+34	Briand	Finished Turn on 5/8/2026 9:59:23 AM PDT
+34	Briand	Picked up Wood in Portland,ME.
+34	Briand	Drew card 28.
+34	Rick	Player had 1 tracks destroyed.
+34	Briand	Event Flood! [139] was drawn.
+34	Briand	Delivered Iron for $21 to Portland,ME.
+34	Briand	Moved 15 spaces.
+34	Rick	Finished Turn on 5/7/2026 11:10:58 PM PDT
+34	Rick	Moved 12 spaces.
+33	Briand	Finished Turn on 5/7/2026 9:19:23 PM PDT
+33	Briand	Upgraded train to a Super Freight [12-3] for $20.
+33	Briand	Moved 2 spaces.
+33	Briand	Picked up Nickel in Sudbury.
+33	Briand	Drew card 60.
+33	Briand	Delivered Sheep for $21 to Sudbury.
+33	Briand	Moved 7 spaces.
+33	Rick	Finished Turn on 5/7/2026 6:23:23 PM PDT
+33	Rick	Moved 12 spaces.
+32	Briand	Finished Turn on 5/6/2026 9:26:06 PM PDT
+32	Briand	Moved 9 spaces.
+32	Rick	Finished Turn on 5/4/2026 8:49:06 PM PDT
+32	Rick	Moved 3 spaces.
+32	Rick	Picked up Cattle in Cheyenne.
+32	Rick	Dropped off load Coal.
+32	Rick	Moved 9 spaces.
+31	Briand	Finished Turn on 5/4/2026 7:27:56 AM PDT
+31	Briand	Moved 8 spaces.
+31	Briand	Picked up Iron in Duluth.
+31	Briand	Dropped off load Tourists.
+31	Briand	Moved 1 spaces.
+31	Rick	Built 2 segments for $4.
+31	Rick	Finished Turn on 5/4/2026 6:07:09 AM PDT
+31	Rick	Moved 12 spaces.
+30	Briand	Finished Turn on 5/3/2026 10:20:33 PM PDT
+30	Briand	Moved 9 spaces.
+30	Rick	Finished Turn on 5/3/2026 9:38:41 PM PDT
+30	Rick	Moved 9 spaces.
+30	Rick	Picked up Cotton in Savannah.
+30	Rick	Picked up Tobacco in Savannah.
+30	Rick	Moved 3 spaces.
+29	Briand	Built 6 segments for $8.
+29	Briand	Finished Turn on 5/3/2026 8:54:53 PM PDT
+29	Briand	Picked up Tourists in Chicago.
+29	Briand	Drew card 94.
+29	Briand	Delivered Fish for $13 to Chicago.
+29	Briand	Moved 9 spaces.
+29	Rick	Finished Turn on 5/3/2026 7:03:52 PM PDT
+29	Rick	Moved 12 spaces.
+28	Briand	Finished Turn on 5/2/2026 4:58:36 PM PDT
+28	Briand	Moved 9 spaces.
+28	Rick	Finished Turn on 5/2/2026 11:41:20 AM PDT
+28	Rick	Moved 12 spaces.
+27	Briand	Finished Turn on 5/1/2026 9:43:39 PM PDT
+27	Briand	Moved 9 spaces.
+27	Rick	Finished Turn on 5/1/2026 6:30:57 PM PDT
+27	Rick	Moved 12 spaces.
+26	Briand	Finished Turn on 4/29/2026 7:54:19 PM PDT
+26	Briand	Moved 2 spaces.
+26	Briand	Picked up Sheep in Billings.
+26	Briand	Dropped off load Copper.
+26	Briand	Moved 7 spaces.
+26	Rick	Built 7 segments for $9.
+26	Rick	Finished Turn on 4/29/2026 3:42:43 PM PDT
+26	Rick	Moved 12 spaces.
+25	Briand	Built 14 segments for $20.
+25	Briand	Finished Turn on 4/27/2026 7:36:02 PM PDT
+25	Briand	Moved 9 spaces.
+25	Briand	Picked up Wood in Portland,OR.
+25	Briand	Dropped off load Oats.
+25	Briand	Picked up Fish in Portland,OR.
+25	Briand	Picked up Copper in Portland,OR.
+25	Rick	Event Wildcat Strike! [13] has ended.
+25	Rick	Finished Turn on 4/27/2026 6:19:38 PM PDT
+24	Briand	Event Heavy Snow! [7] has ended.
+24	Briand	Event Hurricane! [10] has ended.
+24	Briand	Event Derailment! [2] has ended.
+24	Briand	Player's turn was skipped due to an event.
+24	Rick	Event Derailment! [3] has ended.
+24	Rick	Finished Turn on 4/27/2026 6:19:20 PM PDT
+24	Rick	Drew card 38.
+24	Rick	Event Wildcat Strike! [13] was drawn.
+24	Rick	Delivered Iron for $27 to San Diego.
+24	Rick	Moved 2 spaces.
+23	Briand	Finished Turn on 4/25/2026 9:28:40 AM PDT
+23	Briand	Dropped off load Wheat.
+23	Briand	Drew card 120.
+23	Briand	1 load(s) must be dropped.
+23	Briand	1 turn(s) has been lost.
+23	Briand	Event Derailment! [2] was drawn.
+23	Briand	Event Hurricane! [10] was drawn.
+23	Briand	Event Heavy Snow! [7] was drawn.
+23	Briand	Delivered Wheat for $20 to Portland,OR.
+23	Briand	Moved 4 spaces.
+23	Rick	Built 2 segments for $4.
+23	Rick	Finished Turn on 4/22/2026 5:45:53 AM PDT
+23	Rick	Moved 2 spaces.
+23	Rick	Moved 4 spaces.
+23	Rick	Drew card 125.
+23	Rick	Event Derailment! [3] was drawn.
+23	Rick	Delivered Steel for $26 to Las Vegas.
+23	Rick	Moved 5 spaces.
+22	Briand	Finished Turn on 4/20/2026 10:32:47 PM PDT
+22	Briand	Moved 9 spaces.
+22	Rick	Built 2 segments for $4.
+22	Rick	Finished Turn on 4/20/2026 7:12:12 PM PDT
+22	Rick	Moved 12 spaces.
+21	Briand	Built 3 segments for $6.
+21	Briand	Finished Turn on 4/18/2026 11:23:34 PM PDT
+21	Briand	Moved 9 spaces.
+21	Rick	Finished Turn on 4/18/2026 7:54:01 PM PDT
+21	Rick	Moved 12 spaces.
+20	Briand	Built 9 segments for $14.
+20	Briand	Finished Turn on 4/18/2026 10:19:15 AM PDT
+20	Briand	Moved 4 spaces.
+20	Briand	Picked up Oats in Winnepeg.
+20	Briand	Drew card 39.
+20	Briand	Delivered Fish for $22 to Winnepeg.
+20	Briand	Picked up Wheat in Winnepeg.
+20	Briand	Moved 5 spaces.
+20	Rick	Finished Turn on 4/15/2026 9:52:27 AM PDT
+20	Rick	Moved 10 spaces.
+20	Rick	Picked up Iron in Birmingham.
+20	Rick	Picked up Steel in Birmingham.
+20	Rick	Moved 2 spaces.
+19	Briand	Built 18 segments for $20.
+19	Briand	Finished Turn on 4/14/2026 8:55:17 PM PDT
+19	Briand	Moved 9 spaces.
+19	Rick	Finished Turn on 4/12/2026 8:05:59 PM PDT
+19	Rick	Moved 12 spaces.
+18	Briand	Event Derailment! [1] has ended.
+18	Briand	Finished Turn on 4/12/2026 1:47:42 PM PDT
+18	Briand	Moved 5 spaces.
+18	Briand	Drew card 55.
+18	Briand	Delivered Fish for $20 to Omaha.
+18	Briand	Picked up Wheat in Omaha.
+18	Briand	Moved 4 spaces.
+18	Rick	Finished Turn on 4/12/2026 1:16:00 PM PDT
+18	Rick	Moved 12 spaces.
+17	Briand	Built 10 segments for $16.
+17	Briand	Finished Turn on 4/12/2026 11:05:18 AM PDT
+17	Briand	Moved 2 spaces.
+17	Briand	Drew card 122.
+17	Briand	Event Derailment! [1] was drawn.
+17	Briand	Event Excess Profits Tax! [140] was drawn.
+17	Briand	Delivered Fish for $19 to Kansas City.
+17	Briand	Moved 7 spaces.
+17	Rick	Finished Turn on 4/12/2026 6:58:32 AM PDT
+17	Rick	Upgraded train to a Super Freight [12-3] for $20.
+17	Rick	Picked up Coal in Santa Fe.
+17	Rick	Drew card 24.
+17	Rick	Delivered Steel for $16 to Santa Fe.
+17	Rick	Drew card 33.
+17	Rick	Delivered Iron for $19 to Santa Fe.
+17	Rick	Moved 12 spaces.
+16	Briand	Finished Turn on 4/11/2026 12:56:05 PM PDT
+16	Briand	Moved 9 spaces.
+16	Rick	Finished Turn on 4/11/2026 12:41:05 PM PDT
+16	Rick	Moved 12 spaces.
+15	Briand	Finished Turn on 4/11/2026 12:39:59 PM PDT
+15	Briand	Moved 9 spaces.
+15	Briand	Picked up Fish in Norfolk.
+15	Rick	Finished Turn on 4/11/2026 12:38:00 PM PDT
+15	Rick	Moved 2 spaces.
+15	Rick	Picked up Steel in Birmingham.
+15	Rick	Picked up Iron in Birmingham.
+15	Rick	Dropped off load Lead.
+15	Rick	Moved 10 spaces.
+14	Briand	Finished Turn on 4/11/2026 10:47:24 AM PDT
+14	Briand	Upgraded train to a Heavy Freight [9-3] for $20.
+14	Briand	Picked up Fish in Norfolk.
+14	Briand	Picked up Fish in Norfolk.
+14	Briand	Dropped off load Machinery.
+14	Briand	Dropped off load Nickel.
+14	Briand	Moved 7 spaces.
+14	Rick	Finished Turn on 4/11/2026 10:30:05 AM PDT
+14	Rick	Moved 12 spaces.
+13	Briand	Finished Turn on 4/8/2026 9:50:53 PM PDT
+13	Briand	Pitched and drew cards 21, 25, 114.
+13	Rick	Event Longshoremen Strike! [15] has ended.
+13	Rick	Built 9 segments for $13.
+13	Rick	Finished Turn on 4/8/2026 7:00:51 PM PDT
+13	Rick	Moved 1 spaces.
+13	Rick	Picked up Lead in Denver.
+13	Rick	Drew card 133.
+13	Rick	Delivered Imports for $18 to Denver.
+13	Rick	Moved 11 spaces.
+12	Briand	Finished Turn on 4/5/2026 3:06:53 PM PDT
+12	Briand	Moved 1 spaces.
+12	Briand	Moved 4 spaces.
+12	Briand	Moved 5 spaces.
+12	Rick	Built 9 segments for $11.
+12	Rick	Finished Turn on 4/5/2026 2:40:38 PM PDT
+12	Rick	Drew card 43.
+12	Rick	Event Longshoremen Strike! [15] was drawn.
+12	Rick	Delivered Sugar for $24 to Kansas City.
+12	Rick	Moved 3 spaces.
+11	Briand	Finished Turn on 4/5/2026 8:58:43 AM PDT
+11	Briand	Moved 4 spaces.
+11	Briand	Picked up Nickel in Sudbury.
+11	Briand	Drew card 108.
+11	Briand	Delivered Fish for $10 to Sudbury.
+11	Briand	Moved 5 spaces.
+11	Rick	Built 1 segments for $1.
+11	Rick	Finished Turn on 4/4/2026 9:08:54 PM PDT
+11	Rick	Moved 12 spaces.
+10	Briand	Finished Turn on 4/4/2026 2:44:44 PM PDT
+10	Briand	Moved 2 spaces.
+10	Briand	Picked up Machinery in Buffalo.
+10	Briand	Drew card 135.
+10	Briand	Delivered Swine for $11 to Buffalo.
+10	Briand	Moved 7 spaces.
+10	Rick	Finished Turn on 4/4/2026 2:01:31 PM PDT
+10	Rick	Moved 12 spaces.
+9	Briand	Finished Turn on 4/4/2026 12:11:10 PM PDT
+9	Briand	Moved 5 spaces.
+9	Briand	Picked up Fish in Norfolk.
+9	Briand	Moved 4 spaces.
+9	Rick	Finished Turn on 4/4/2026 12:02:17 PM PDT
+9	Rick	Moved 6 spaces.
+9	Rick	Picked up Sugar in San Francisco.
+9	Rick	Picked up Imports in San Francisco.
+9	Rick	Dropped off load Corn.
+9	Rick	Dropped off load Swine.
+9	Rick	Moved 6 spaces.
+8	Briand	Built 8 segments for $16.
+8	Briand	Finished Turn on 4/3/2026 10:34:38 PM PDT
+8	Briand	Drew card 101.
+8	Briand	Delivered Swine for $13 to Washington,DC.
+8	Briand	Moved 9 spaces.
+8	Rick	Built 3 segments for $5.
+8	Rick	Finished Turn on 4/3/2026 10:18:25 PM PDT
+8	Rick	Moved 12 spaces.
+7	Briand	Finished Turn on 4/3/2026 9:45:26 PM PDT
+7	Briand	Moved 9 spaces.
+7	Rick	Finished Turn on 4/3/2026 7:27:05 PM PDT
+7	Rick	Upgraded train to a Fast Freight [12-2] for $20.
+7	Rick	Moved 9 spaces.
+6	Briand	Finished Turn on 4/3/2026 8:31:15 AM PDT
+6	Briand	Moved 10 spaces.
+6	Rick	Finished Turn on 4/2/2026 7:07:16 PM PDT
+6	Rick	Moved 5 spaces.
+6	Rick	Moved 4 spaces.
+6	Rick	Moved 4 spaces.
+6	Rick	Moved 5 spaces.
+5	Briand	Built 7 segments for $10.
+5	Briand	Finished Turn on 4/2/2026 6:25:26 PM PDT
+5	Briand	Moved 2 spaces.
+5	Briand	Picked up Swine in Des Moines.
+5	Briand	Dropped off load Coal.
+5	Briand	Moved 7 spaces.
+5	Briand	Moved 9 spaces.
+5	Briand	Moved 9 spaces.
+5	Rick	Built 16 segments for $20.
+5	Rick	Finished Turn on 4/2/2026 4:23:29 PM PDT
+5	Rick	Moved 3 spaces.
+5	Rick	Picked up Swine in St. Louis.
+5	Rick	Picked up Corn in St. Louis.
+5	Rick	Drew card 103.
+5	Rick	Delivered Uranium for $17 to St. Louis.
+5	Rick	Moved 6 spaces.
+5	Rick	Moved 6 spaces.
+4	Briand	Built 18 segments for $20.
+4	Briand	Finished Turn on 4/2/2026 4:12:53 PM PDT
+4	Briand	Picked up Coal in Duluth.
+4	Briand	Drew card 99.
+4	Briand	Delivered Bauxite for $14 to Duluth.
+4	Briand	Moved 7 spaces.
+4	Briand	Picked up Swine in Des Moines.
+4	Briand	Drew card 27.
+4	Briand	Delivered Bauxite for $10 to Des Moines.
+4	Briand	Moved 2 spaces.
+4	Rick	Finished Turn on 4/2/2026 4:08:26 PM PDT
+4	Rick	Drew card 51.
+4	Rick	Delivered Coal for $10 to Kansas City.
+4	Rick	Moved 4 spaces.
+3	Briand	Finished Turn on 4/2/2026 8:57:55 AM PDT
+3	Briand	Moved 9 spaces.
+3	Briand	Picked up Bauxite in Memphis.
+3	Briand	Picked up Bauxite in Memphis.
+3	Rick	Finished Turn on 4/1/2026 6:59:01 PM PDT
+3	Rick	Moved 9 spaces.
+3	Rick	Picked up Coal in Santa Fe.
+3	Rick	Picked up Uranium in Santa Fe.
+2	Rick	Built 4 segments for $6.
+2	Rick	Finished Turn on 4/1/2026 6:58:39 PM PDT
+2	Briand	Built 4 segments for $8.
+2	Briand	Finished Turn on 4/1/2026 10:32:00 AM PDT
+1	Briand	Built 13 segments for $19.
+1	Briand	Finished Turn on 4/1/2026 10:01:07 AM PDT
+1	Rick	Built 13 segments for $15.
+1	Rick	Finished Turn on 3/31/2026 6:25:08 PM PDT
+1		EmpireBuilderClassic game BSRV_001_EBC has started. Each player starts with $40.

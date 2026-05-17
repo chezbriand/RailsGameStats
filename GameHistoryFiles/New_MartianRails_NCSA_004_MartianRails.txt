@@ -1,0 +1,119 @@
+7	Rick	Finished Turn on 5/16/2026 6:23:52 PM PDT
+7	Rick	Moved 4 spaces.
+7	Rick	Picked up Soylent Red in Marsport.
+7	Rick	Picked up Tourists in Marsport.
+7	Rick	Moved 6 spaces.
+7	judd	Finished Turn on 5/16/2026 4:42:40 PM PDT
+7	judd	Upgraded train to a Pathfinder [14-3] for $10.
+7	judd	Moved 7 spaces.
+7	judd	Picked up Colonists in Skyhook.
+7	judd	Drew card 16.
+7	judd	Event Mars Needs Women! [142] was drawn.
+7	judd	Delivered UN Peacekeepers for $18 to Skyhook.
+7	judd	Moved 2 spaces.
+6	mag3737	Built 7 segments for $11.
+6	mag3737	Finished Turn on 5/15/2026 5:33:38 PM PDT
+6	mag3737	Moved 10 spaces.
+6	Briand	Finished Turn on 5/15/2026 4:09:04 PM PDT
+6	Briand	Moved 14 spaces.
+6	Briand	Picked up Soylent Red in Marsport.
+6	Briand	Moved 2 spaces.
+6	Briand	Moved 16 spaces.
+6	Rick	Built 5 segments for $9.
+6	Rick	Finished Turn on 5/13/2026 5:51:44 PM PDT
+6	Rick	Moved 10 spaces.
+6	judd	Built 4 segments for $4.
+6	judd	Finished Turn on 5/12/2026 7:57:16 AM PDT
+6	judd	Moved 12 spaces.
+5	mag3737	Built 6 segments for $14.
+5	mag3737	Finished Turn on 5/11/2026 10:54:33 PM PDT
+5	mag3737	Picked up Hydroponics in Hellasport.
+5	mag3737	Drew card 6.
+5	mag3737	Delivered Thoats for $12 to Hellasport.
+5	mag3737	Picked up Colonists in Hellasport.
+5	mag3737	Drew card 3.
+5	mag3737	Delivered Alien Artifacts for $30 to Hellasport.
+5	mag3737	Moved 10 spaces.
+5	Briand	Finished Turn on 5/4/2026 7:35:22 AM PDT
+5	Briand	Upgraded train to a Viking [16-3] for $20.
+5	Briand	Moved 5 spaces.
+5	Briand	Picked up Iron Rations in Botany Bay.
+5	Briand	Dropped off load Quintitriticale.
+5	Briand	Picked up Bricks in Botany Bay.
+5	Briand	Drew card 33.
+5	Briand	Delivered Soylent Red for $8 to Botany Bay.
+5	Briand	Moved 9 spaces.
+5	Rick	Built 7 segments for $20.
+5	Rick	Finished Turn on 5/4/2026 6:13:20 AM PDT
+5	Rick	Upgraded train to a John Carter [10-3] for $10.
+5	Rick	Moved 1 spaces.
+5	Rick	Drew card 121.
+5	Rick	Delivered Replicants for $31 to Ylla.
+5	Rick	Moved 9 spaces.
+5	judd	Built 10 segments for $20.
+5	judd	Finished Turn on 5/3/2026 11:42:26 PM PDT
+5	judd	Picked up Bachelor Chow in Port Lowell.
+5	judd	Drew card 23.
+5	judd	Delivered Turbinium for $24 to Port Lowell.
+5	judd	Moved 12 spaces.
+4	mag3737	Built 2 segments for $6.
+4	mag3737	Finished Turn on 5/3/2026 11:09:40 PM PDT
+4	mag3737	Moved 10 spaces.
+4	mag3737	Picked up Thoats in Barsoom.
+4	Briand	Event Red Dust! [152] has ended.
+4	Briand	Built 7 segments for $9.
+4	Briand	Finished Turn on 4/25/2026 9:33:25 AM PDT
+4	Briand	Picked up Soylent Red in Marsport.
+4	Briand	Drew card 94.
+4	Briand	Delivered Quintitriticale for $19 to Marsport.
+4	Briand	Moved 14 spaces.
+4	Rick	Finished Turn on 4/22/2026 5:44:47 AM PDT
+4	Rick	Moved 10 spaces.
+4	judd	Finished Turn on 4/21/2026 10:46:08 AM PDT
+4	judd	Moved 9 spaces.
+4	judd	Picked up UN Peacekeepers in Pax Grove.
+4	judd	Moved 3 spaces.
+3	mag3737	Built 4 segments for $14.
+3	mag3737	Finished Turn on 4/21/2026 10:30:35 AM PDT
+3	mag3737	Upgraded train to a John Carter [10-3] for $10.
+3	mag3737	Moved 6 spaces.
+3	mag3737	Picked up Alien Artifacts in The Face.
+3	mag3737	Picked up Iron in The Face.
+3	Briand	Finished Turn on 4/20/2026 10:15:05 PM PDT
+3	Briand	Upgraded train to a Spirit [14-2] for $10.
+3	Briand	Moved 8 spaces.
+3	Briand	Picked up Quintitriticale in Clarketown.
+3	Briand	Drew card 111.
+3	Briand	Event Red Dust! [152] was drawn.
+3	Briand	Delivered Bachelor Chow for $5 to Clarketown.
+3	Briand	Picked up Quintitriticale in Clarketown.
+3	Briand	Moved 4 spaces.
+3	Briand	Picked up Bachelor Chow in Port Lowell.
+3	Rick	Built 10 segments for $11.
+3	Rick	Finished Turn on 4/20/2026 7:10:31 PM PDT
+3	Rick	Moved 10 spaces.
+3	Rick	Picked up Replicants in Utopia.
+3	Rick	Picked up Replicants in Utopia.
+3	judd	Finished Turn on 4/19/2026 8:59:08 AM PDT
+3	judd	Upgraded train to a Opportunity [12-3] for $20.
+3	judd	Moved 10 spaces.
+3	judd	Picked up Turbinium in Shining Canyon.
+3	judd	Picked up Turbinium in Shining Canyon.
+2	judd	Built 16 segments for $20.
+2	judd	Finished Turn on 4/19/2026 8:46:43 AM PDT
+2	Rick	Built 13 segments for $18.
+2	Rick	Finished Turn on 4/18/2026 7:52:35 PM PDT
+2	Briand	Built 6 segments for $16.
+2	Briand	Finished Turn on 4/18/2026 10:31:33 AM PDT
+2	Briand	Upgraded train to a Dejah Thoris [12-2] for $10.
+2	mag3737	Built 15 segments for $19.
+2	mag3737	Finished Turn on 4/16/2026 9:37:51 PM PDT
+1	mag3737	Built 12 segments for $20.
+1	mag3737	Finished Turn on 4/16/2026 9:35:20 PM PDT
+1	Briand	Built 14 segments for $20.
+1	Briand	Finished Turn on 4/3/2026 9:47:52 PM PDT
+1	Rick	Built 18 segments for $20.
+1	Rick	Finished Turn on 4/3/2026 7:30:49 PM PDT
+1	judd	Built 17 segments for $20.
+1	judd	Finished Turn on 4/3/2026 8:31:26 AM PDT
+1		MartianRails game NCSA_004_MartianRails has started. Each player starts with $60.

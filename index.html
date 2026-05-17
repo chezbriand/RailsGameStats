@@ -212,6 +212,32 @@
             var text = document.getElementById('inputArea').value;
             var startingMoney = parseInt(document.getElementById('startingMoney').value);
             var lines = text.trim().split('\n').reverse();
+
+            // Detect the game-start announcement, if present. Newer history files include
+            // a line of the form:
+            //   "<round>\t\t<GameType> game <GameName> has started. Each player starts with $<N>."
+            // (the player field is empty). When found, this overrides whatever the user picked
+            // in the Select. The regex is anchored loosely so it also handles a bare line
+            // without leading tabs.
+            var gameStartRegex = /(\w+)\s+game\s+(\S+)\s+has started\.\s+Each player starts with \$(\d+)\./;
+            for (var i = 0; i < lines.length; i++) {
+                var gsMatch = lines[i].match(gameStartRegex);
+                if (gsMatch) {
+                    var detectedGameType = gsMatch[1];
+                    startingMoney = parseInt(gsMatch[3]);
+                    // Sync the Select dropdown to the detected game type, if it matches a known option.
+                    var sel = document.getElementById('startingMoney');
+                    for (var j = 0; j < sel.options.length; j++) {
+                        if (sel.options[j].text === detectedGameType) {
+                            sel.selectedIndex = j;
+                            break;
+                        }
+                    }
+                    document.getElementById('displayValue').textContent = startingMoney;
+                    break;
+                }
+            }
+
             var players = {};
             var currentRounds = {};
             var rounds = [];
@@ -227,9 +253,16 @@
 
             lines.forEach(line => {
                 var parts = line.split('\t');
+                // Skip any line that isn't in the standard "round\tplayer\taction" form:
+                //   - blank lines / status-block lines without enough tab fields
+                //   - the "Round\tPlayer\tMessage" header row some new logs include
+                //   - the game-start announcement (has an empty player field; handled above)
+                //   - any other line whose round isn't a non-negative integer or whose player is blank
+                if (parts.length < 3) return;
                 var round = parts[0];
                 var player = parts[1];
                 var action = parts[2];
+                if (!/^\d+$/.test(round) || !player || !player.trim()) return;
 
                 if (!players[player]) {
                     players[player] = { money: startingMoney, history: [] };
