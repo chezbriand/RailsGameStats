@@ -159,6 +159,15 @@
             return match ? parseInt(match[1]) : 0;
         }
 
+        // Parse the "[speed-loads]" tag from an Upgraded line, e.g.
+        //   "Upgraded train to a Iron Dragon[16-3] for $20."
+        // Returns { speed, loads } or null if the tag isn't present.
+        function parseTrainStats(action) {
+            var match = action.match(/\[(\d+)\s*-\s*(\d+)\]/);
+            if (!match) return null;
+            return { speed: parseInt(match[1]), loads: parseInt(match[2]) };
+        }
+
         function decodeURLParameter(param) {
             // Get the encoded data from the URL
             var urlParams = new URLSearchParams(window.location.search);
@@ -314,6 +323,10 @@
             var timesPitched = {};
             var bribesPaid = {};      // count of bribes paid per player
             var loadsDropped = {};    // count of "Dropped off load" events per player
+            // Track each player's most recent train stats so we can classify the
+            // next upgrade as Faster (speed up), Capacity (more loads) or both.
+            // Crayon Rail games start every player on the basic [9-2] freight.
+            var trainStats = {};
             // declare an array to record when a player upgrades a train
             var graphAnnotations = []; 
 
@@ -373,6 +386,7 @@
                     timesPitched[player] = 0;
                     bribesPaid[player] = 0;
                     loadsDropped[player] = 0;
+                    trainStats[player] = { speed: 9, loads: 2 };
                     graphAnnotations[player] = null;
                 }
 
@@ -387,6 +401,28 @@
                     segmentsCost[player] += cost;
                 } else if (action.startsWith("Upgraded")) {
                     players[player].money -= parseAmount(action);
+
+                    // Classify the upgrade by comparing the new [speed-loads] tag
+                    // against the player's previously recorded train stats.
+                    var newStats = parseTrainStats(action);
+                    var prevStats = trainStats[player] || { speed: 9, loads: 2 };
+                    var upgradeType = '';
+                    if (newStats) {
+                        var fasterUpgrade = newStats.speed > prevStats.speed;
+                        var capacityUpgrade = newStats.loads > prevStats.loads;
+                        if (fasterUpgrade && capacityUpgrade) {
+                            upgradeType = 'Faster + Capacity';
+                        } else if (fasterUpgrade) {
+                            upgradeType = 'Faster';
+                        } else if (capacityUpgrade) {
+                            upgradeType = 'Capacity';
+                        }
+                        trainStats[player] = newStats;
+                    }
+                    var labelContent = upgradeType
+                        ? player + ' Upgraded (' + upgradeType + ')'
+                        : player + ' Upgraded';
+
                     var playerKeys = Object.keys(players);
                     var playerIndex = playerKeys.indexOf(player);
                     var topLine = 100.0;
@@ -406,7 +442,7 @@
                         yMax: yMax,
                         label: {
                             backgroundColor: 'rgba(0,0,0,0.3)',
-                            content: player + ' Upgraded',
+                            content: labelContent,
                             enabled: true,
                             position: 'start',
                         }
